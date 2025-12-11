@@ -178,12 +178,12 @@ const sections = [
       { type: "h2", text: "Understanding the Context of Leviticus 21" },
       { type: "p", text: "Leviticus 21 is addressed specifically to **the sons of Aaron** — the hereditary Aaronic priesthood — not to all Israel. Torah never applies these marriage restrictions to laymen." },
       { type: "p", text: "Leviticus 21–22 constitutes the **priestly holiness code** — a separate standard of ritual purity required for approaching the sanctuary. These are not universal moral laws; they are specialized requirements for those who serve at the altar." },
-      { type: "p", text: "Priestly regulations exist to preserve **ritual purity for temple service**, not to establish universal marriage law. If they were universal, Israelite laymen would have been prohibited from marrying widows — yet Torah repeatedly blesses such marriages (Ruth and Boaz being the clearest example)." },
+      { type: "p", text: "Priestly regulations exist to preserve **ritual purity for temple service**, not to establish universal marriage law. If they were universal, Israelite laymen would have been prohibited from marrying widows — yet Torah not only permits but actually **commands** such marriages in certain cases. The levirate law (Deuteronomy 25:5-10) **requires** a brother-in-law to marry his deceased brother's widow. Ruth and Boaz is the clearest example: Boaz was not merely permitted to marry the widow Ruth — he was fulfilling the kinsman-redeemer obligation. Torah *demanded* it." },
       { type: "h2", text: "Preempting the \"Inherent Immorality\" Argument" },
       { type: "p", text: "You might argue: \"The priestly restriction shows it's inherently immoral, just more so for priests.\" But this doesn't hold up:" },
       { type: "ul", items: [
         "**High priests cannot marry WIDOWS** (Lev 21:14)",
-        "**Widows are clearly lawful for laymen** — Ruth married Boaz, you teach this yourself",
+        "**Widows are clearly lawful for laymen** — in fact, Torah *commands* levirate marriage to widows (Deut 25:5-10). Boaz didn't just marry Ruth; he was obligated to as kinsman-redeemer",
         "**Therefore priestly restrictions ≠ inherent immorality**"
       ]},
       { type: "p", text: "If the high priest's restriction on widows doesn't make widow-marriage immoral for laymen, then the priest's restriction on divorced women doesn't make divorced-woman-marriage immoral for laymen." },
