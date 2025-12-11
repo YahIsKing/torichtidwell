@@ -12,10 +12,11 @@ const siteConfig = {
 };
 
 const introduction = {
-  salutation: "Dear Brother Rich,",
+  salutation: "To Rich, a brother in Messiah, called to teach and proclaim the ways of YHWH:",
   paragraphs: [
-    "I write to you with respect and in the spirit of brotherly accountability. You have publicly taught on marriage, divorce, and sexual ethics, and I believe you are sincere in your desire to honor God's Word. However, I have identified what I believe are significant logical and scriptural contradictions in your framework that I ask you to address.",
-    "This is not an attack. This is iron sharpening iron. If your positions are sound, they should withstand scrutiny. If they contain errors, I trust you would want to know.",
+    "Grace to you and peace from God our Father and the Lord Yeshua the Messiah. I give thanks for your zeal for the Torah and your desire to call God's people to righteousness. Your labor in teaching is not unnoticed, and I trust that your heart is to honor the Word of the Living God.",
+    "Yet as one who also seeks to walk in truth, I am compelled to write to you concerning certain matters of doctrine where I believe correction is needed. For as it is written, 'Iron sharpens iron, so one man sharpens another' (Proverbs 27:17). It is in this spirit — not of accusation, but of brotherly appeal — that I bring these things before you.",
+    "If your positions are sound, they will withstand scrutiny. If they contain error, I trust you would want to know, that you might not lead others astray. For we who teach will be judged with greater strictness (James 3:1).",
     "This letter addresses two of your primary teachings that I believe are in error:"
   ],
   twoArguments: [
