@@ -85,7 +85,12 @@ const sections = [
         "Her husband should still have authority over her vows",
         "But Numbers 30:9 explicitly says he does NOT"
       ]},
-      { type: "p", text: "**Torah itself treats the divorced woman as NOT having a husband.** She is in the same legal category as a woman whose husband is dead. If she still had a husband, he would have authority over her vows. But he doesn't. Because divorce ended that authority." }
+      { type: "p", text: "**Torah itself treats the divorced woman as NOT having a husband.** She is in the same legal category as a woman whose husband is dead. If she still had a husband, he would have authority over her vows. But he doesn't. Because divorce ended that authority." },
+      { type: "h2", text: "The Septuagint Confirms This" },
+      { type: "p", text: "The Septuagint (LXX) — the Greek translation of the Hebrew Scriptures used by Jesus and the apostles — translates Numbers 30:9 as:" },
+      { type: "scripture", ref: "Numbers 30:9 (LXX)", text: "καὶ εὐχὴ **χήρας** καὶ **ἐκβεβλημένης**... μενοῦσιν αὐτῇ — \"And the vow of a **widow** and of **one who has been cast out**... shall stand against her.\"" },
+      { type: "p", text: "The Greek word for the divorced woman is **ἐκβεβλημένης** (ekbeblēmenēs) — the perfect passive participle of ἐκβάλλω (ekballō), meaning \"one who has been cast out\" or \"expelled.\" This is significant: the LXX describes her as someone who has been **released/expelled** from her husband's household and authority. She is no longer under him." },
+      { type: "p", text: "Both the Hebrew (גְּרוּשָׁה, gerushah) and the Greek (ἐκβεβλημένη) describe a woman who has been **sent away** — not a woman still bound to her husband. Torah and the LXX agree: the divorced woman has no husband to annul her vows because she has been **released** from that authority." }
     ],
     question: "Rich, Numbers 30:9 places the divorced woman in the exact same category as the widow — both have vows that \"stand against her\" because neither has a husband to annul them. If divorce \"does not dissolve\" the marriage, why does Torah treat her as having no husband? Why can't her \"husband\" annul her vows like any other husband can under Numbers 30:10-15?"
   },
@@ -173,6 +178,10 @@ const sections = [
       { type: "p", text: "Rich, Torah gives SPECIFIC restrictions on who priests can marry. Regular priests cannot marry divorced women or prostitutes. High priests have even stricter requirements — they cannot marry widows either, only virgins." },
       { type: "p", text: "**But why would Torah need to prohibit priests from marrying divorced women if NO ONE could marry them anyway?**" },
       { type: "p", text: "The very existence of this priestly restriction implies that NON-priests CAN marry divorced women. Otherwise the prohibition is meaningless — like saying \"priests cannot fly\" when no one can fly." },
+      { type: "h2", text: "Understanding the Context of Leviticus 21" },
+      { type: "p", text: "Leviticus 21 is addressed specifically to **the sons of Aaron** — the hereditary Aaronic priesthood — not to all Israel. Torah never applies these marriage restrictions to laymen." },
+      { type: "p", text: "Leviticus 21–22 constitutes the **priestly holiness code** — a separate standard of ritual purity required for approaching the sanctuary. These are not universal moral laws; they are specialized requirements for those who serve at the altar." },
+      { type: "p", text: "Priestly regulations exist to preserve **ritual purity for temple service**, not to establish universal marriage law. If they were universal, Israelite laymen would have been prohibited from marrying widows — yet Torah repeatedly blesses such marriages (Ruth and Boaz being the clearest example)." },
       { type: "h2", text: "Preempting the \"Inherent Immorality\" Argument" },
       { type: "p", text: "You might argue: \"The priestly restriction shows it's inherently immoral, just more so for priests.\" But this doesn't hold up:" },
       { type: "ul", items: [
@@ -181,9 +190,44 @@ const sections = [
         "**Therefore priestly restrictions ≠ inherent immorality**"
       ]},
       { type: "p", text: "If the high priest's restriction on widows doesn't make widow-marriage immoral for laymen, then the priest's restriction on divorced women doesn't make divorced-woman-marriage immoral for laymen." },
-      { type: "p", text: "**These are purity standards for the priesthood, not universal moral prohibitions.** The restriction only makes sense if laymen CAN do what priests cannot." }
+      { type: "p", text: "**These are purity standards for the priesthood, not universal moral prohibitions.** The restriction only makes sense if laymen CAN do what priests cannot." },
+      { type: "h2", text: "You Know This — When It Suits You" },
+      { type: "p", text: "Rich, you make this exact argument when defending polygyny. When people cite 1 Timothy 3:2 (\"husband of one wife\") against plural marriage, you respond:" },
+      { type: "quote", text: "If this is written to overseers, it only applies to overseers, which would actually imply that the church is allowed to practice polygyny because this is only written to overseers in the New Testament.", source: "\"David's Two Wives\" video [00:36:28]" },
+      { type: "p", text: "Exactly right! Pastoral standards apply to pastors, not laymen. The restriction on overseers doesn't bind the laity." },
+      { type: "p", text: "**But you abandon this principle the moment it helps divorced women.** When it comes to Leviticus 21:7 (priests cannot marry divorced women), suddenly you want to apply priestly restrictions to ALL believers through 1 Peter 2:9's \"royal priesthood.\" You've stated this explicitly:" },
+      { type: "quote", text: "We are a royal priesthood as a whole in the Christian church and we... Jesus may have been teaching us in the gospels that we are to adhere to the priestly class commandment regarding divorced women rather than the layman commandment... The priests weren't to marry divorced women, so we don't marry divorced women.", source: "Interview with Pete Rambo (Dec 10, 2025) [~01:30:35]" },
+      { type: "p", text: "You cannot have it both ways:" },
+      { type: "ul", items: [
+        "**On polygyny:** \"Pastoral standards only apply to pastors, not laymen\" ✓",
+        "**On divorced women:** \"Priestly standards apply to ALL believers\" ✗"
+      ]},
+      { type: "p", text: "If 1 Timothy 3:2 (overseer standards) doesn't bind laymen regarding polygyny, then Leviticus 21:7 (priestly standards) doesn't bind laymen regarding divorced women. **Your own argument sets divorced women free.**" },
+      { type: "h2", text: "Why Not the High Priest Standard?" },
+      { type: "p", text: "Rich, there's another glaring problem with your \"royal priesthood\" argument. You appeal to Leviticus 21:7 — the **regular priest** standard — to prohibit marrying divorced women. But why stop there?" },
+      { type: "p", text: "If we are truly a \"royal priesthood\" and should pursue the highest level of purity, shouldn't we look to the **high priest** standard?" },
+      { type: "scripture", ref: "Leviticus 21:13-14 (NASB95)", text: "He [the high priest] shall take a wife **in her virginity**. A widow, or a divorced woman, or one who is profaned by harlotry, these he may not take; but rather he is to marry **a virgin of his own people**." },
+      { type: "p", text: "The high priest — the highest standard of priestly purity — could ONLY marry:" },
+      { type: "ul", items: [
+        "**A virgin** — not a widow, not divorced, not a former prostitute",
+        "**Of his own people** — a believing Israelite"
+      ]},
+      { type: "p", text: "Note: The text itself distinguishes between priest vs. high priest standards. Torah never elevated the entire priesthood to the high priest's marriage requirements — only the high priest bore this stricter standard." },
+      { type: "p", text: "If believers are a \"royal priesthood\" and must follow priestly marriage restrictions, why do you only apply the **regular** priest standard (no divorced women) while ignoring the **high** priest standard (virgins only)?" },
+      { type: "p", text: "You claim to take the most conservative position:" },
+      { type: "quote", text: "That's why I air on the most conservative end of this... the priests weren't to marry divorced women so we don't marry divorced women.", source: "Interview with Pete Rambo (Dec 10, 2025) [~01:31:00]" },
+      { type: "p", text: "But the most conservative end isn't Leviticus 21:7 — it's Leviticus 21:13-14. The truly conservative position would be:" },
+      { type: "ul", items: [
+        "**No widows** — High priests couldn't marry them",
+        "**No divorced women** — High priests couldn't marry them", 
+        "**No former prostitutes** — High priests couldn't marry them",
+        "**ONLY believing virgins** — The sole permitted category"
+      ]},
+      { type: "p", text: "By your logic — that \"royal priesthood\" means priestly marriage restrictions apply to ALL believers — **Salmon could NOT have married Rahab.** If all believing men must follow the high priest standard, Rahab was a former prostitute and therefore forbidden. Yet you defend Rahab's marriage passionately." },
+      { type: "p", text: "By your logic, **widows could NOT remarry** to any believing man. Yet you teach widows CAN remarry." },
+      { type: "p", text: "You're cherry-picking which priestly standard to apply. You grab Leviticus 21:7 to bind divorced women, but you ignore Leviticus 21:13-14 which would bind widows and require virgin-only marriages. **That's not conservatism — that's selective application to reach a predetermined conclusion.**" }
     ],
-    question: "Why does Torah specifically prohibit priests from marrying divorced women if no man can marry them anyway? And if you say it's \"inherently immoral,\" why doesn't the high priest's prohibition on marrying widows make widow-marriage immoral for laymen?"
+    question: "Why does Torah specifically prohibit priests from marrying divorced women if no man can marry them anyway? You yourself argue that pastoral standards 'only apply to overseers' and don't bind laymen — so why would priestly standards from Leviticus 21:7 bind all believers? And if we truly are a 'royal priesthood' pursuing the highest purity, why do you apply the regular priest standard but not the high priest standard that would require virgin-only marriages?"
   },
   {
     id: 5,
@@ -198,17 +242,28 @@ const sections = [
     ],
     content: [
       { type: "p", text: "Rich, God Himself gave Israel a certificate of divorce. God used the same mechanism described in Deuteronomy 24:1. If divorce \"does not dissolve\" the covenant as you claim, then what did God do here? Did God perform a meaningless ritual?" },
+      { type: "h2", text: "The Sequence Matters" },
+      { type: "p", text: "Look carefully at what Jeremiah 3:7-8 tells us:" },
+      { type: "scripture", ref: "Jeremiah 3:7-8 (NASB95)", text: "I thought, 'After she has done all these things **she will return to Me**'; but she did not return... And I saw that for all the adulteries of faithless Israel, **I had sent her away and given her a writ of divorce**." },
+      { type: "p", text: "God expected Israel to return. While released, she was SUPPOSED to come back. Her sin during this period — though real — was the sin of a released woman. But she did not return. Instead, she \"joined\" other gods." },
+      { type: "p", text: "**Once Israel joined others, Deuteronomy 24:4 kicked in.** Now she CANNOT return to her first husband. The door that was open closed." },
+      { type: "h2", text: "Compare This to Judah" },
+      { type: "p", text: "Judah never received a certificate (Isaiah 50:1). She was NOT released. Yet she ALSO went after other gods — while still bound in covenant. This is why God says:" },
+      { type: "scripture", ref: "Jeremiah 3:11 (NASB95)", text: "Faithless Israel has proved herself **more righteous** than treacherous Judah." },
+      { type: "p", text: "Think about this: **Israel's sin was LESS severe than Judah's** — even though both went after other gods. Why? Because Israel was released. She sinned as a free woman — it was rebellion and idolatry, but not treachery against an active covenant. Judah sinned while still bound — THAT is treachery." },
+      { type: "p", text: "**The certificate made a real difference in how God judged their sin.** If the certificate accomplished nothing, why would Israel be \"more righteous\" than Judah?" },
       { type: "h2", text: "Why Did Messiah Have to Die?" },
-      { type: "p", text: "I believe Deuteronomy 24:4 (the prohibition against returning to a first husband) exists for a preventative purpose: to add gravity and seriousness to divorce. But this creates a theological problem:" },
+      { type: "p", text: "Here's the theological problem the certificate created:" },
       { type: "ol", items: [
-        "**God divorced Israel** — she was RELEASED",
-        "**Israel \"joined\" other gods** — she was free to do this (sinfully, but released)",
-        "**Deuteronomy 24:4 applies** — she CANNOT return to her first husband",
-        "**Messiah had to die** — so Israel enters a NEW covenant with a risen Lord, not \"returning to her former husband\""
+        "**God divorced Israel** — she was RELEASED (less guilt than Judah)",
+        "**Israel was supposed to return** — the door was open",
+        "**Israel joined other gods instead** — she didn't come back while she could",
+        "**Deuteronomy 24:4 now applies** — she CANNOT return to her first husband",
+        "**Messiah had to die** — so Israel enters a NEW covenant with a risen LORD, not \"returning to her former husband\""
       ]},
-      { type: "p", text: "**This entire theology depends on the divorce being REAL.** If the certificate never released Israel, there's no Deuteronomy 24:4 problem to solve. If there's no problem, Messiah's death doesn't solve anything regarding Israel's return." }
+      { type: "p", text: "**This entire theology depends on the divorce being REAL.** If the certificate never released Israel, there's no Deuteronomy 24:4 problem to solve. If there's no problem, Messiah's death doesn't solve anything regarding Israel's return. And if the certificate accomplished nothing, Israel and Judah would bear equal guilt — but God Himself says Israel was \"more righteous.\"" }
     ],
-    question: "If divorce certificates don't actually release the woman, why did Messiah have to die for Israel to return to God? The entire theology presupposes that the divorce was REAL, Israel was RELEASED, and Messiah's death was necessary to create a new covenant situation."
+    question: "If divorce certificates don't actually release the woman, why is 'faithless Israel' MORE RIGHTEOUS than 'treacherous Judah'? Both sinned — but Israel sinned while released, Judah while still bound. The certificate made a real difference in God's judgment. Why did Messiah have to die for Israel to return if she was never truly released?"
   },
   {
     id: 6,
@@ -224,13 +279,29 @@ const sections = [
     content: [
       { type: "p", text: "Look at who is being addressed:" },
       { type: "ul", items: [
-        "\"The wife of **your** youth\" — addressed to husbands",
-        "\"**You** have been faithless\" — the husband's faithlessness",
-        "\"The man who does not love his wife but divorces her\" — condemning the divorcing husband"
+        "\"The wife of **your youth**\" (***remember this***) — addressed to husbands",
+        "\"**You** have dealt treacherously\" — the husband's treachery",
+        "\"Him who covers his garment with wrong\" — condemning the treacherous husband"
       ]},
-      { type: "p", text: "This passage condemns **faithless husbands**. You use it to trap women. But the passage condemns men like the one who divorced her." }
+      { type: "p", text: "This passage condemns **faithless husbands who treacherously put away their wives**. The women are the victims here, not the perpetrators." },
+      { type: "h2", text: "\"Hate Divorce\" or \"Hate Putting Away\"?" },
+      { type: "p", text: "Many translations render this as God saying \"I hate divorce.\" But consider: **God Himself divorced Israel** (Jeremiah 3:8). God gave her a certificate and sent her away. Can God hate something He Himself did?" },
+      { type: "p", text: "The better understanding is that God hates the **treacherous putting away** — when men abandon their wives WITHOUT proper documentation, leaving them in legal limbo. Not properly released, but not provided for either. THAT is treachery. THAT is what covers a man's garment with wrong." },
+      { type: "p", text: "This is consistent with the put away vs. divorce distinction we'll examine later. Proper divorce with a certificate RELEASES the woman (Deut 24:1-2). Treacherous putting away WITHOUT a certificate abandons her in limbo — still technically bound, but cast out and unprovided for." },
+      { type: "h2", text: "You Know This — When It Suits You" },
+      { type: "p", text: "Rich, you read this passage as condemning men when you're arguing against serial monogamy:" },
+      { type: "quote", text: "Malachi 2:15-16, which is where God says, 'I hate divorce.' Like, don't divorce your first wife. I hate when you guys do that... So, you practice serial monogamy. And God's like, I hate that. I gave you your wife. Raise up children with her. Do not be unfaithful to her. Do not kick her to the curb.", source: "\"Divinity of Marriage\" video [01:14:44]" },
+      { type: "p", text: "You correctly identify that God hates when men \"kick their wives to the curb.\" The passage condemns the **husbands** who do this treacherously." },
+      { type: "h2", text: "But Then You Punish the Women They Kicked to the Curb" },
+      { type: "p", text: "Here's the devastating irony: Your framework takes the very women Malachi 2 defends — the wives who were treacherously put away, who were \"kicked to the curb\" by faithless husbands — and binds them in permanent celibacy." },
+      { type: "ul", items: [
+        "**Malachi 2 condemns:** The husband who dealt treacherously",
+        "**Your framework punishes:** The wife he dealt treacherously WITH"
+      ]},
+      { type: "p", text: "The husband sins by treacherously putting her away. Then YOUR teaching tells her she can never remarry — potentially for 40+ years. **You are punishing the victim of the very sin Malachi condemns.**" },
+      { type: "p", text: "God rebukes the MEN for their treachery. He does not say \"and the women they put away must remain celibate forever.\" That's YOUR addition — and it punishes the wrong party." }
     ],
-    question: "Malachi 2:14-16 addresses faithless HUSBANDS who divorce the wives of their youth. How do you use a passage condemning faithless husbands to bind burdens on the women those husbands wronged?"
+    question: "You correctly read Malachi 2 as condemning men who 'kick their wives to the curb.' But then your framework binds permanent celibacy on the women those men kicked to the curb. How is punishing the victims of treacherous putting away consistent with a passage that condemns the treacherous husbands?"
   },
   {
     id: 7,
@@ -249,61 +320,111 @@ const sections = [
       {
         ref: "Deuteronomy 22:22 (NASB95)",
         text: "If a man is found lying with **a married woman**, then both of them shall die."
+      },
+      {
+        ref: "Deuteronomy 19:16-19 (NASB95)",
+        text: "If a malicious witness rises up against a man to accuse him of wrongdoing... and if the witness is a false witness and he has accused his brother falsely, then you shall do to him just as he had intended to do to his brother."
       }
     ],
     content: [
-      { type: "p", text: "**If the husband HAS proof of adultery:** Torah prescribes death, not divorce." },
-      { type: "p", text: "**If the husband does NOT have proof:** Writing a certificate claiming adultery is bearing false witness in a capital case—making HIM liable for death (Deuteronomy 19:16-19)." },
-      { type: "h2", text: "Your \"Mercy\" Escape Attempt" },
-      { type: "p", text: "You've recently argued that the second marriage in Deuteronomy 24 is adultery, but they aren't stoned because of \"mercy\" — citing Joseph with Mary (Matt 1:19) and Jesus with the adulteress (John 8). You claim:" },
+      { type: "p", text: "Rich, you teach that 'nakedness' (עֶרְוָה, ervah) in Deuteronomy 24:1 means sexual immorality/adultery. This creates an impossible logical trap:" },
+      { type: "h2", text: "The Two Horns of the Dilemma" },
+      { type: "p", text: "**Horn 1: The husband HAS proof of adultery**" },
+      { type: "ul", items: [
+        "Torah prescribes DEATH, not divorce (Lev 20:10, Deut 22:22)",
+        "Both the adulterer AND adulteress \"shall surely be put to death\"",
+        "Divorce is not the prescribed remedy for proven adultery"
+      ]},
+      { type: "p", text: "**Horn 2: The husband does NOT have proof of adultery**" },
+      { type: "ul", items: [
+        "Writing a certificate that claims adultery is bearing false witness",
+        "This is false witness in a CAPITAL case — adultery carries death",
+        "Deuteronomy 19:16-19: The false witness receives the punishment he sought for his victim",
+        "The husband who falsely claims adultery on the certificate becomes liable for DEATH"
+      ]},
+      { type: "h2", text: "There Is No Middle Ground" },
+      { type: "p", text: "If adultery is the ONLY ground for divorce, then:" },
+      { type: "ul", items: [
+        "Proven adultery → death penalty, not divorce",
+        "Unproven adultery → false witness, husband liable for death",
+        "No adultery → no grounds for divorce at all"
+      ]},
+      { type: "p", text: "**Under your framework, divorce could NEVER legitimately be used.** Every divorce certificate would either be unnecessary (she should be executed) or fraudulent (he's bearing false witness)." },
+      { type: "p", text: "This proves that 'ervah' in Deuteronomy 24:1 cannot mean adultery. It must refer to something that warrants divorce but NOT death — something less than a capital offense. The death penalty problem forces us to conclude that lawful grounds for divorce exist that are NOT adultery." }
+    ],
+    question: "If 'nakedness' means adultery, when would divorce ever legitimately be used? Proven adultery requires death (Lev 20:10). Claiming adultery without proof is false witness in a capital case — making the husband liable for death (Deut 19:16-19). Your interpretation makes divorce impossible to use lawfully."
+  },
+  {
+    id: 8,
+    part: 1,
+    title: "Torah Calls Her His WIFE",
+    subtitle: "The Second Marriage in Deuteronomy 24 Uses Marriage Language, Not Adultery Language",
+    scriptures: [
+      {
+        ref: "Deuteronomy 24:2-4 (NASB95)",
+        text: "And she leaves his house and goes and **becomes another man's wife**, and if the latter **husband** turns against her and writes her a certificate of divorce... or if the latter **husband** dies who **took her to be his wife**..."
+      }
+    ],
+    content: [
+      { type: "p", text: "Rich, you've argued that the SECOND marriage in Deuteronomy 24 is actually adultery — but they aren't stoned because of \"mercy.\" You cite Joseph with Mary and Jesus with the adulteress. You claim:" },
       { type: "quote", text: "The reason she is not stoned to death is (1) the husband has not demanded her death, eg Joseph with Mary (Matt 1:19), and (2) mercy has always been lawful (Matt 9:13, Hosea 6:6)... First marriage = righteous. Second marriage = defiled. Remarriage to first = abomination.", source: "Your Instagram post (Dec 8, 2025)" },
-      { type: "p", text: "This argument collapses under scrutiny:" },
-      { type: "h2", text: "Problem 1: She Is Called His WIFE" },
+      { type: "p", text: "This argument collapses under scrutiny. Torah itself tells us the SECOND marriage is NOT adultery:" },
+      { type: "h2", text: "Problem 1: The Second Husband Is Called Her HUSBAND, She Is Called His WIFE" },
       { type: "scripture", ref: "Deuteronomy 24:3 (NASB95)", text: "If the latter husband turns against her and writes her a certificate of divorce... or if the latter **husband** dies who took her to be his **wife**..." },
-      { type: "p", text: "Torah says he \"took her to be his wife\" (לְקָחָהּ לוֹ לְאִשָּׁה, l'kachah lo l'ishah). She is his אִשָּׁה (ishah) — wife. Not \"the woman he's sinning with.\" Not \"his adulteress.\" His WIFE. Torah treats this as a real marriage, not ongoing adultery being tolerated through mercy." },
-      { type: "h2", text: "Problem 2: Torah Has Adultery Language — And Doesn't Use It Here" },
+      { type: "p", text: "Torah calls the second man her \"husband\" (בַּעַל, ba'al) and says he \"took her to be his wife\" (לְקָחָהּ לוֹ לְאִשָּׁה, l'kachah lo l'ishah). She is HIS אִשָּׁה (ishah) — the second husband's wife. Not \"the woman he's sinning with.\" Not \"his adulteress.\" His WIFE. Torah treats the second marriage as a real marriage, not ongoing adultery being tolerated through mercy." },
+      { type: "p", text: "The LXX confirms this. Deuteronomy 24:2 reads: **καὶ ἀπελθοῦσα γένηται ἀνδρὶ ἑτέρῳ** — \"and having departed, she becomes [belonging] to another man.\" Verse 3 calls the second man **ὁ ἀνὴρ ὁ ἔσχατος** (\"the latter husband\") and says he **ἔλαβεν αὐτὴν ἑαυτῷ γυναῖκα** — \"took her for himself as wife.\" Both Hebrew and Greek use standard marriage terminology, not adultery language." },
+      { type: "h2", text: "Problem 2: Torah Has Adultery Language — And Doesn't Use It for the Second Marriage" },
       { type: "p", text: "When Torah describes adultery, it uses specific language:" },
       { type: "ul", items: [
         "**Leviticus 20:10:** \"A man who **commits adultery with** (יִנְאַף, yin'af) the wife of a man...\"",
         "**Deuteronomy 22:22:** \"If a man is found **lying with** (שֹׁכֵב עִם, shokev im) a woman married to a husband...\""
       ]},
-      { type: "p", text: "But in Deuteronomy 24, none of this language appears. Instead:" },
+      { type: "p", text: "But when describing the second marriage in Deuteronomy 24, none of this adultery language appears. Instead, Torah uses standard marriage terminology:" },
       { type: "ul", items: [
-        "He **\"took her to be his wife\"** (לָקַח, lakach) — standard marriage verb",
-        "She is **\"his wife\"** (לְאִשָּׁה) — belonging to HIM, not still belonging to another",
-        "No נָאַף (adultery) language anywhere",
-        "No שֹׁכֵב עִם (\"lying with\") language anywhere"
+        "The second husband **\"took her to be his wife\"** (לָקַח, lakach) — standard marriage verb",
+        "She is **\"his wife\"** (לְאִשָּׁה) — belonging to the SECOND husband, not still belonging to the first",
+        "No נָאַף (adultery) language anywhere in the second marriage",
+        "No שֹׁכֵב עִם (\"lying with\") language anywhere in the second marriage"
       ]},
-      { type: "p", text: "**Torah knows how to describe adultery. It doesn't describe the second marriage that way.** If this were adultery being tolerated through mercy, why would Torah use marriage language instead of adultery language?" },
-      { type: "h2", text: "Problem 3: No Atonement, No Punishment" },
+      { type: "p", text: "**Torah knows how to describe adultery. It doesn't describe the second marriage that way.** If the second marriage were adultery being tolerated through mercy, why would Torah use marriage language instead of adultery language?" },
+      { type: "h2", text: "Problem 3: No Atonement, No Punishment for the Second Marriage" },
       { type: "p", text: "If the second marriage is adultery covered by mercy, where is:" },
       { type: "ul", items: [
-        "The sin offering required?",
+        "The sin offering required for the second marriage?",
         "The guilt offering?",
         "Any indication of wrongdoing by the second husband?",
         "The \"purge the evil from among you\" language used for actual adultery (Deut 22:22)?"
       ]},
-      { type: "p", text: "Torah regulates this second marriage as legitimate — even allowing HIM to divorce HER with a certificate. You cannot divorce someone you're not married to. Torah treats them as married." },
-      { type: "h2", text: "Problem 4: Why Add MORE Prohibition If It's Already Sin?" },
-      { type: "p", text: "If the second marriage is already adultery (a capital offense), why does v.4 need to add that returning to the first husband is an \"abomination\"? You don't pile \"abomination\" on top of capital sin being tolerated by mercy. The structure of the passage assumes the second marriage is lawful, and ONLY the return to the first husband after that is prohibited." },
-      { type: "h2", text: "Problem 5: 'Defiled' Refers to Her Status Regarding the FIRST Husband" },
+      { type: "p", text: "Torah regulates the second marriage as legitimate — even allowing the SECOND husband to divorce HER with a certificate. You cannot divorce someone you're not married to. Torah treats the second marriage as a real marriage." },
+      { type: "h2", text: "Problem 4: Why Add MORE Prohibition If the Second Marriage Is Already Sin?" },
+      { type: "p", text: "If the second marriage is already adultery (a capital offense), why does v.4 need to add that returning to the first husband is an \"abomination\"? You don't pile \"abomination\" on top of capital sin being tolerated by mercy. The structure of the passage assumes the second marriage is lawful, and ONLY the return to the first husband after the second marriage is prohibited." },
+      { type: "h2", text: "Problem 5: 'Defiled' Refers to Her Status Regarding the FIRST Husband, Not the Second Marriage" },
       { type: "p", text: "You claim \"defiled\" means the second marriage is sinful. But read v.4 carefully:" },
       { type: "scripture", ref: "Deuteronomy 24:4 (NASB95)", text: "Her former husband who sent her away is not allowed to take her again to be his wife, since **she has been defiled**; for that is an abomination before YHVH." },
-      { type: "p", text: "She is defiled **with respect to her first husband** — meaning she cannot return to him. This is NOT saying her second marriage defiled her morally. It's saying her having been with another man makes her ineligible to return to husband #1. The defilement is relational, not moral." },
+      { type: "p", text: "She is defiled **with respect to her first husband** — meaning she cannot return to him after having been in a second marriage. This is NOT saying her second marriage defiled her morally. It's saying her having been with the second husband makes her ineligible to return to husband #1. The defilement is relational to the first husband, not a moral condemnation of the second marriage." },
       { type: "p", text: "This is exactly why Messiah had to die for Israel — she was \"defiled\" (had gone after other gods) and could not simply return to her first husband (YHVH) under Deut 24:4. A new covenant was required." },
-      { type: "h2", text: "Problem 6: Joseph and the Adulteress Don't Help You" },
+      { type: "h2", text: "Problem 6: Joseph and the Adulteress Don't Help Your Case About Second Marriages" },
+      { type: "p", text: "**Joseph with Mary:** Yes, Joseph thought Mary had committed adultery — a betrothed woman who lies with another man IS committing adultery under Torah (Deut 22:23-24). Joseph had not yet consummated, Mary was visibly pregnant, and he assumed the worst. His decision to \"put her away quietly\" rather than expose her was mercy toward what he believed was actual adultery during an active betrothal." },
+      { type: "p", text: "But this is completely different from the second marriage in Deuteronomy 24. Joseph's situation involves:" },
       { type: "ul", items: [
-        "**Joseph with Mary:** He thought she had committed fornication BEFORE marriage (during betrothal). This is about pre-marital sin, not ongoing adultery in a second marriage.",
-        "**Jesus and the adulteress:** She was caught in the ACT. Witnesses existed. This was actual adultery being shown mercy — not a regulated marriage being called adultery."
+        "An ACTIVE betrothal covenant (not dissolved)",
+        "Alleged sex with someone OTHER than her betrothed",
+        "A woman still bound to Joseph"
       ]},
-      { type: "p", text: "Neither example supports calling a Torah-regulated second marriage \"adultery tolerated through mercy.\"" },
-      { type: "h2", text: "The Real Question Remains" },
-      { type: "p", text: "If \"nakedness\" means adultery, when would divorce ever be used instead of the death penalty? Your \"mercy\" answer doesn't work because Torah treats the second marriage as legitimate, not as tolerated sin." }
+      { type: "p", text: "You're trying to use this to justify calling a SECOND MARRIAGE after divorce \"adultery tolerated through mercy.\" But in Deuteronomy 24, the woman has been RELEASED with a certificate from her first husband. She is NOT still bound to husband #1. She is free to become the second husband's wife (Deut 24:2). Joseph's mercy toward suspected adultery during an active betrothal doesn't justify calling a lawful second marriage after divorce \"adultery.\"" },
+      { type: "p", text: "**Jesus and the adulteress (John 8):** This example is doubly problematic:" },
+      { type: "ul", items: [
+        "**Textual issue:** The passage (John 7:53-8:11) is widely disputed among scholars — it doesn't appear in the earliest manuscripts. Building doctrine on it is precarious.",
+        "**Torah requirements not met:** Even accepting the story, Torah requires BOTH parties to be executed (Lev 20:10, Deut 22:22 — \"both of them shall die\"). Where was the man? His absence alone violates the Torah procedure.",
+        "**No valid witnesses remained:** By the time Jesus said \"Let him who is without sin cast the first stone,\" all her accusers left. The 2-3 witnesses required by Torah (Deut 17:6, 19:15) were gone. There was no longer sufficient testimony for execution.",
+        "**Jesus didn't show \"mercy\" to proven adultery** — He pointed out that the legal requirements for conviction weren't met. That's not the same as saying \"this is adultery but I'm being merciful.\""
+      ]},
+      { type: "p", text: "Neither example supports calling the Torah-regulated second marriage in Deuteronomy 24 \"adultery tolerated through mercy.\"" }
     ],
-    question: "If the second marriage in Deuteronomy 24 is adultery, why does Torah say he 'took her to be his wife' (לְאִשָּׁה), use no adultery language (נָאַף, שֹׁכֵב עִם), regulate the marriage with certificates, require no atonement, assign no punishment, and only prohibit return to the FIRST husband? Your 'mercy' argument cannot explain why Torah treats this as a real marriage."
+    question: "If the SECOND marriage in Deuteronomy 24 is adultery, why does Torah call the second man her 'husband,' say he 'took her to be his wife' (לְאִשָּׁה), use no adultery language (נָאַף, שֹׁכֵב עִם), regulate the second marriage with certificates, require no atonement, assign no punishment, and only prohibit return to the FIRST husband? Your 'mercy' argument cannot explain why Torah treats the second marriage as a real marriage."
   },
   {
-    id: 8,
+    id: 9,
     part: 1,
     title: "The Category Error",
     subtitle: "You Quote Passages About 'Married Women' — But Divorced Women Aren't Married",
@@ -352,7 +473,7 @@ const sections = [
     question: "Romans 7:2 describes \"a married woman\" — in Greek, *hypandros*, meaning \"under a husband.\" But Numbers 30:9 already proved that a divorced woman is NOT under a husband — her vows stand because no husband can annul them. How can you apply Romans 7:2 to divorced women when Torah explicitly classifies them as NOT being under a husband?"
   },
   {
-    id: 9,
+    id: 10,
     part: 1,
     title: "The Rahab Problem",
     subtitle: "100 Pagan Unions Dissolve, But One Believer Union Is Permanent?",
@@ -362,6 +483,11 @@ const sections = [
     },
     content: [
       { type: "p", text: "You teach that Rahab—who may have had dozens or hundreds of one-flesh unions as a prostitute—had all of those unions dissolved when she converted. But you also teach that a believing woman who is divorced remains permanently one-flesh and can NEVER remarry." },
+      { type: "p", text: "In a recent interview, you explained this clearly while discussing the Samaritan woman:" },
+      { type: "quote", text: "So for this woman five husbands, there's no such thing as boyfriends... the man who enters you that's your husband, and so she's done this five times, she's had five husbands five men have entered her... [For unbelievers] a union can be made and it can be made repeatedly but each time it is a marriage.", source: "Interview with Pete Rambo (Dec 10, 2025) [~01:38:42-01:39:00]" },
+      { type: "p", text: "You also explicitly stated that for converts like Rahab, former unions are dissolved:" },
+      { type: "quote", text: "My case law example would be Rahab. Rahab had been a prostitute, she become one flesh with a bunch of men... she converts to the god of Israel... she then gets married to Salmon and becomes a great grandmother of Jesus... so law would be unbelieving unions not binding.", source: "Interview with Pete Rambo (Dec 10, 2025) [~01:36:47-01:37:00]" },
+      { type: "p", text: "So your framework is crystal clear:" },
       { type: "ul", items: [
         "**Rahab (pagan prostitute, converts):** Potentially 100+ unions → YES, she can remarry (\"new beginning\")",
         "**Believing woman (wrongfully divorced):** ONE union → NO, bound until he dies"
@@ -369,12 +495,29 @@ const sections = [
       { type: "p", text: "You defend Rahab's redemption passionately. In fact, when someone questioned whether former prostitutes could marry, you responded:" },
       { type: "quote", text: "Rahab was a redeemed whore and became a Grandmother of Jesus. Your rejection of their redemption is a rejection of the Gospel itself. You should be ashamed.", source: "Your Twitter/X post (Dec 4, 2025)" },
       { type: "p", text: "Beautiful words, Rich. I agree completely. So why don't you extend the same grace to divorced women? Why is Rahab's \"new beginning\" powerful enough to dissolve 100 unions, but a divorced believing woman — who was ALREADY a new creation when she married — is bound forever to a man who may have abandoned her?" },
-      { type: "p", text: "You tell critics that rejecting Rahab's redemption is \"a rejection of the Gospel itself.\" But you reject the redemption of divorced women every day. Is that not also a rejection of the Gospel?" }
+      { type: "p", text: "You tell critics that rejecting Rahab's redemption is \"a rejection of the Gospel itself.\" But you reject the redemption of divorced women every day. Is that not also a rejection of the Gospel?" },
+      { type: "h2", text: "The 1 Corinthians 7 Paradox — Conversion Dissolves Unions... Or Does It?" },
+      { type: "p", text: "Rich, your Rahab position creates an impossible contradiction with Paul's instructions in 1 Corinthians 7." },
+      { type: "scripture", ref: "1 Corinthians 7:13-14 (NASB95)", text: "And if any woman has a husband who is an unbeliever, and he consents to live with her, **she should not divorce him**. For the unbelieving husband is made holy because of his wife..." },
+      { type: "p", text: "Consider a pagan woman married to a pagan man. She converts. According to your Rahab principle:" },
+      { type: "ul", items: [
+        "She is now a \"new creation\"",
+        "Her pre-conversion one-flesh union should be dissolved",
+        "She should be FREE — just like Rahab"
+      ]},
+      { type: "p", text: "But Paul says the exact opposite: **don't divorce him.** Why would Paul need to say this if her conversion already dissolved the union?" },
+      { type: "p", text: "**Your only options:**" },
+      { type: "table", headers: ["If you say...", "Then..."], rows: [
+        { cells: ["Conversion dissolves unions (Rahab)", "The converted woman ISN'T married to the unbeliever anymore. Paul's instruction makes no sense."], highlight: false },
+        { cells: ["Conversion does NOT dissolve unions (1 Cor 7)", "Rahab's unions weren't dissolved either. She was one-flesh with 100 men when she married Salmon."], highlight: true }
+      ]},
+      { type: "p", text: "And there's a further problem: If conversion DOES dissolve the union, the converted woman should NOT rejoin her unbelieving husband — that would be yoking herself to an unbeliever! Yet Paul commands her to stay." },
+      { type: "p", text: "Paul's instruction only makes sense if the marriage SURVIVED her conversion. Which means conversion does NOT dissolve one-flesh unions. Which means Rahab's weren't dissolved either." }
     ],
-    question: "You passionately defend Rahab's redemption and ability to marry despite her past. Why don't divorced believing women receive the same grace? Why is 'new creation' powerful enough to dissolve Rahab's 100 unions but not powerful enough to free a divorced woman from her one union?"
+    question: "You passionately defend Rahab's redemption and ability to marry despite her past. Why don't divorced believing women receive the same grace? And if conversion gives Rahab a \"new beginning\" that dissolves her one-flesh unions, why does Paul tell the converted woman to remain with her unbelieving husband? Either conversion dissolves unions (and Paul's instruction is nonsensical), or it does not (and Rahab was still one-flesh with every man she had slept with). Which is it?"
   },
   {
-    id: 10,
+    id: 11,
     part: 1,
     title: "Believer/Unbeliever One-Flesh",
     subtitle: "Your Framework Requires One-Flesh to Behave Differently Based on Belief",
@@ -383,7 +526,11 @@ const sections = [
       source: "Your Instagram post (Dec 11, 2025)"
     },
     content: [
-      { type: "p", text: "Rich, you've now made your position explicit: divorce from an unbeliever releases, but divorce from a believer does not. But you also teach that one-flesh is a \"physical state.\" Physical states don't change based on religious belief. Yet your framework requires one-flesh to behave differently based on belief status:" },
+      { type: "p", text: "Rich, you've now made your position explicit: divorce from an unbeliever releases, but divorce from a believer does not. In a recent interview, you stated this clearly:" },
+      { type: "quote", text: "When an unbeliever leaves a believing woman she is lawfully available to remarry... [For unbelievers] a union can be made and it can be made repeatedly but each time it is a marriage.", source: "Interview with Pete Rambo (Dec 10, 2025) [~01:35:45, 01:38:36]" },
+      { type: "p", text: "You also affirmed that Old Testament divorces of unbelieving spouses were valid:" },
+      { type: "quote", text: "In Ezra and Nehemiah they had to divorce them it wasn't a lawful union.", source: "Interview with Pete Rambo (Dec 10, 2025) [~01:34:16]" },
+      { type: "p", text: "But Rich, you also teach that one-flesh is a \"physical state.\" Physical states don't change based on religious belief. Yet your framework requires one-flesh to behave differently based on belief status:" },
       { type: "ul", items: [
         "**Between two believers:** Cannot be dissolved (only death)",
         "**With unbeliever who leaves:** CAN be dissolved (1 Cor 7:15)",
@@ -402,7 +549,9 @@ const sections = [
       ]},
       { type: "p", text: "You're taking Paul's instruction to a specific situation (wife who left) and applying it universally to all divorced women. That's not exegesis — it's eisegesis." },
       { type: "h2", text: "The \"Royal Priesthood\" Argument" },
-      { type: "p", text: "You recently argued that 1 Peter 2:9 makes all believers a \"royal priesthood,\" therefore Leviticus 21:7 applies — priests cannot marry divorced women. This argument destroys itself:" },
+      { type: "p", text: "You recently argued that 1 Peter 2:9 makes all believers a \"royal priesthood,\" therefore Leviticus 21:7 applies — priests cannot marry divorced women. In your own words:" },
+      { type: "quote", text: "The priestly class is not allowed to marry a divorced woman... We are a royal priesthood as a whole in the Christian church... Jesus may have been teaching us in the gospels that we are to adhere to the priestly class commandment regarding divorced women... that's why I air on the most conservative end of this... the priests weren't to marry divorced women so we don't marry divorced women.", source: "Interview with Pete Rambo (Dec 10, 2025) [~01:30:09-01:31:05]" },
+      { type: "p", text: "This argument destroys itself:" },
       { type: "scripture", ref: "Leviticus 21:7, 14 (NASB95)", text: "They shall not take a woman who is profaned by harlotry, **nor shall they take a woman divorced from her husband**... A widow, or a divorced woman, or one who is profaned by harlotry, these he [the high priest] may not take." },
       { type: "p", text: "If all believers are literally Levitical priests:" },
       { type: "ul", items: [
@@ -415,12 +564,31 @@ const sections = [
       { type: "p", text: "**1 Peter 2:9 is speaking of spiritual priesthood — access to God, offering spiritual sacrifices (v.5). Peter is not imposing Levitical marriage restrictions on all believers.** The same passage calls us \"living stones\" (v.5) — are we literally rocks?" },
       { type: "h2", text: "1 Corinthians 7:12-14" },
       { type: "p", text: "You categorize believer/unbeliever unions as \"UNLAWFUL\" (Marriage Law Worksheet). But Paul says if the unbeliever is content to stay, DON'T divorce — the unbelieving spouse is \"sanctified\" through the believer." },
-      { type: "p", text: "If these unions are \"unlawful,\" why would Paul command believers to REMAIN in them and call the unbeliever \"sanctified\"?" }
+      { type: "p", text: "If these unions are \"unlawful,\" why would Paul command believers to REMAIN in them and call the unbeliever \"sanctified\"?" },
+      { type: "h2", text: "The 1 Timothy 5:8 \"Reclassification\" Problem" },
+      { type: "p", text: "You've suggested an escape valve: if a \"believing\" husband fails to provide, he can be reclassified as an unbeliever via 1 Timothy 5:8, and then 1 Corinthians 7:15 applies:" },
+      { type: "quote", text: "1 Timothy 5:8, for example, states that if a man does not provide for his household, he has denied the faith and is worse than an unbeliever. So, that's one example.", source: "\"Divinity of Marriage\" video [01:08:12]" },
+      { type: "p", text: "Your Marriage Law Worksheet even lists this under \"Male unbeliever verification (1 Tim 5:8, 1 John 2:4, Ex 21:10-11).\"" },
+      { type: "p", text: "But Rich, this creates a massive logical problem. You teach that:" },
+      { type: "ol", items: [
+        "One-flesh is established at intercourse — the moment of union",
+        "One-flesh between two believers is PERMANENT until death",
+        "The character of the union is fixed at formation"
+      ]},
+      { type: "p", text: "If both parties were believers at the time they became one-flesh, then the union was formed as a **believer-to-believer** union. You cannot retroactively change what kind of union it was." },
+      { type: "p", text: "**Think about it:** If a man professes faith, marries a believing woman, they become one-flesh as two believers — and THEN he abandons his obligations years later — the union was still FORMED between two believers. His later behavior doesn't travel back in time and change what happened at the moment of union." },
+      { type: "p", text: "Your options:" },
+      { type: "ul", items: [
+        "**If belief status at FORMATION matters:** The union was believer + believer. It should be permanent. His later \"reclassification\" is irrelevant — the union's character was already established.",
+        "**If CURRENT belief status matters:** Then the \"permanent until death\" claim is false. One-flesh CAN be dissolved by changes in belief status. This undermines your entire framework."
+      ]},
+      { type: "p", text: "You can't have it both ways. Either the union's character is fixed at formation (and reclassification doesn't help), or it's fluid based on current status (and \"permanent\" is meaningless)." },
+      { type: "p", text: "**This is the same problem as Rahab in reverse.** You say Rahab's pre-conversion unions were dissolved when she converted (changing TO believer). Now you're saying a believer union can be dissolved when he's reclassified (changing FROM believer). In both cases, you're allowing belief status changes to dissolve one-flesh — while simultaneously claiming believer-to-believer one-flesh is permanent. The inconsistency is glaring.**" }
     ],
-    question: "You say one-flesh with a believer is permanent but one-flesh with an unbeliever can be dissolved. Where does Scripture teach that one-flesh operates differently based on belief status? And if 1 Peter 2:9 makes all believers priests who cannot marry divorced women (Lev 21:7), why doesn't the same logic prohibit marrying former prostitutes (Rahab) and widows?"
+    question: "You say one-flesh with a believer is permanent but one-flesh with an unbeliever can be dissolved. Where does Scripture teach that one-flesh operates differently based on belief status? If a man can be 'reclassified' as an unbeliever via 1 Timothy 5:8 and that dissolves the union — wasn't the union FORMED when both were believers? How does his later behavior change what kind of union was created at the moment they became one-flesh?"
   },
   {
-    id: 11,
+    id: 12,
     part: 1,
     title: "Put Away vs Divorce",
     subtitle: "The Certificate Makes the Difference",
@@ -484,7 +652,7 @@ const sections = [
     question: "If 'put away' and 'divorce' are interchangeable, why does God distinguish between them in Jeremiah 3:8 (Israel got both) and Isaiah 50:1 (Judah got no certificate)? Why does the LXX use separate terms for the certificate (βιβλίον ἀποστασίου) and the sending away (ἐξαποστέλλω)? And why would Jesus address a woman separating WITHOUT certificate (Mark 10:12) if the certificate accomplishes nothing?"
   },
   {
-    id: 12,
+    id: 13,
     part: 1,
     title: "Israel and Judah",
     subtitle: "God's Own Actions Prove the Certificate Releases",
@@ -500,6 +668,8 @@ const sections = [
     ],
     content: [
       { type: "p", text: "God's treatment of Israel versus Judah proves everything about what the certificate accomplishes." },
+      { type: "h2", text: "The Same Greek Term in OT and NT" },
+      { type: "p", text: "The Septuagint (LXX) translates Jeremiah 3:8 using **βιβλίον ἀποστασίου** (biblion apostasiou) — \"certificate of divorce.\" This is the EXACT SAME Greek phrase Jesus and the Pharisees use in Matthew 19:7 and Mark 10:4. The terminology is consistent: the certificate God gave Israel is the same type of certificate Moses prescribed in Deuteronomy 24:1." },
       { type: "h2", text: "Israel Had a Chance to Return — Before the Certificate" },
       { type: "p", text: "Look at Jeremiah 3:7-8 carefully. The sequence matters:" },
       { type: "ol", items: [
@@ -533,7 +703,59 @@ const sections = [
     question: "If the certificate accomplishes nothing, why did God give one to Israel but withhold it from Judah? Why does God call Israel 'more righteous' than 'treacherous' Judah if both are equally bound? Why do they have different restoration paths? Your framework erases a distinction God Himself made."
   },
   {
-    id: 13,
+    id: 14,
+    part: 1,
+    title: "Where's the Mercy?",
+    subtitle: "Even Your Allies See the Problem — And You Have No Answer",
+    content: [
+      { type: "p", text: "Rich, I want to close this section on divorce and remarriage with something that happened in your recent interview with Pete Rambo — a fellow polygyny advocate who shares much of your theology." },
+      { type: "p", text: "Pete asked you directly about the pastoral implications of your framework. Here is his full question:" },
+      { type: "quote", text: "What's the practical implication? Because there are a lot of divorced women out there that did it in ignorance... they were wrong, you know, now what? ... To understand where you're coming from, that leaves a whole lot of women uncovered and in limbo. And tough turkey, you know the truth now, you know, whatever. So where's the mercy, where's the grace? What's the proper application in this transition period?", source: "Pete Rambo, Interview with Rich Tidwell (Dec 10, 2025) [~01:31:54-01:32:20]" },
+      { type: "p", text: "Pete was asking about divorced women in the church — what do they do now? You spent several minutes answering, and you DID provide answers — but only for certain categories of women:" },
+      { type: "ul", items: [
+        "**Women divorced for adultery:** \"Who wants to marry an adulteress?\" (implying they're unmarriageable anyway)",
+        "**Women left by unbelievers:** Free to remarry under 1 Corinthians 7:15",
+        "**Pre-conversion unions:** Dissolved at conversion (Rahab example)"
+      ]},
+      { type: "p", text: "But Rich, you conveniently left out the largest and most painful category in most church contexts: **the believing woman divorced BY a believing husband** — not for adultery, but because he dealt treacherously with her. The exact scenario Malachi 2 describes." },
+      { type: "p", text: "For THAT woman, your only answer was 1 Corinthians 7:10-11: \"she should remain unmarried or else be reconciled to her husband.\"" },
+      { type: "p", text: "In other words: **she's stuck.** Permanent celibacy until her ex-husband dies — potentially 40+ years." },
+      { type: "h2", text: "The Binding Only Goes One Way" },
+      { type: "p", text: "Rich, notice what's missing from your framework: If she is still \"bound\" to him as you claim, where is HIS obligation? Exodus 21:10-11 says if a man takes another wife, he must not diminish the first wife's food, clothing, or conjugal rights — **or she goes free.**" },
+      { type: "p", text: "But in your framework:" },
+      { type: "ul", items: [
+        "**She** is permanently bound to him",
+        "**He** has no continuing obligation to provide for her",
+        "**He** can remarry (in your polygyny-affirming view)",
+        "**She** cannot — she must \"remain unmarried or be reconciled\""
+      ]},
+      { type: "p", text: "You've created a one-way binding. She's stuck; he's free. That's not how Torah works." },
+      { type: "h2", text: "The Church Makes It Even Worse" },
+      { type: "p", text: "And here's where the mess becomes impossible: Most churches believe a man can only have one wife. So when the divorced husband remarries:" },
+      { type: "ul", items: [
+        "**Even if she wanted to reconcile** — the church would tell her no, because he's already remarried",
+        "**He cannot provide conjugal rights** — he's married to someone else now, and the church says that's his only wife",
+        "**Your own instruction becomes impossible** — \"remain unmarried OR be reconciled\" but reconciliation is blocked"
+      ]},
+      { type: "p", text: "So she's told to \"be reconciled\" to a man the church won't let her be reconciled to, or \"remain unmarried\" for potentially the rest of her life. **Your framework traps her in permanent limbo.**" },
+      { type: "h2", text: "Your Other Categories Don't Help Either" },
+      { type: "p", text: "And here's the thing, Rich: even those other categories you addressed — I've already demonstrated in this letter that your framework for them is logically incoherent:" },
+      { type: "ul", items: [
+        "**Rahab and pre-conversion unions:** If conversion dissolves one-flesh, why does Paul tell the converted woman NOT to divorce her unbelieving husband (1 Cor 7:13)? Your \"new beginning\" doctrine contradicts Paul's instruction. (See Section 10)",
+        "**Women left by unbelievers:** You teach one-flesh is a \"physical state\" — but physical states don't change based on religious belief. Your framework requires one-flesh to behave differently for believers vs. unbelievers, which is logically impossible. (See Section 11)",
+        "**The \"reclassification\" escape valve:** If a believing husband can be \"reclassified\" as an unbeliever via 1 Timothy 5:8, the union was still FORMED between two believers. His later behavior doesn't travel back in time to change what kind of union was created. (See Section 11)"
+      ]},
+      { type: "p", text: "So even your escape hatches have escape hatches that don't work." },
+      { type: "h2", text: "The Bottom Line" },
+      { type: "p", text: "Pete asked \"where's the mercy, where's the grace?\"" },
+      { type: "p", text: "Your framework's answer for the faithful believing woman whose believing husband kicked her to the curb? **There is none.** No mercy. No grace. Just \"remain unmarried or be reconciled\" to the man who dealt treacherously with her — the very treachery Malachi 2 condemns." },
+      { type: "p", text: "Rich, when even your allies are asking \"where's the mercy?\" — and you have no answer except permanent celibacy for the victim — something is deeply wrong with your framework." },
+      { type: "p", text: "Torah provided mercy. Deuteronomy 24:1-2 gave the divorced woman permission to \"go and become another man's wife.\" Exodus 21:10-11 let the neglected wife \"go out free.\" Numbers 30:9 treated her as having no husband. **God's law protected these women. Your framework binds them.**" }
+    ],
+    question: "Pete Rambo asked you directly: 'Where's the mercy? Where's the grace?' For the believing woman divorced by a believing husband — not for adultery — what is your answer? You provided escape hatches for adulteresses, for women left by unbelievers, for converts — but for the faithful woman whose husband dealt treacherously with her, you offer only permanent celibacy. Is that mercy? Is that grace? Or is that punishing the victim?"
+  },
+  {
+    id: 15,
     part: 2,
     title: "Torah Calls Her WIFE",
     subtitle: "Your Definitions Make Scripture Impossible to Enforce",
@@ -552,6 +774,11 @@ const sections = [
       { type: "h2", text: "Torah Calls Her a WIFE" },
       { type: "p", text: "Look at Deuteronomy 22:24. The na'ara who is betrothed is called his **\"WIFE\"** (אִשְׁתּוֹ, ishto). Not \"future wife.\" Not \"pledged woman.\" WIFE. And she is held accountable with the death penalty for adultery." },
       { type: "p", text: "You say she's \"not a wife but a virgin.\" Torah says she IS a wife. **Who is correct — you or Moses?**" },
+      { type: "h2", text: "The Septuagint Confirms This" },
+      { type: "p", text: "The Septuagint (LXX) — the Greek translation that Jesus and the apostles quoted — translates Deuteronomy 22:24 with remarkable clarity:" },
+      { type: "scripture", ref: "Deuteronomy 22:24 (LXX)", text: "...καὶ τὸν ἄνθρωπον, ὅτι ἐταπείνωσε **τὴν γυναῖκα τοῦ πλησίον** — \"...and the man, because he humbled **the wife of his neighbor**.\"" },
+      { type: "p", text: "The LXX uses **γυναῖκα** (gynaika) — the accusative form of γυνή (gynē), which is THE standard Greek word for \"wife.\" This is the same word used throughout the New Testament for married women (Matt 1:20, 24; 1 Cor 7:2-4; Eph 5:22-25)." },
+      { type: "p", text: "And notice: this betrothed young woman is called a νεᾶνις (neanis - \"young woman\") in verse 21, yet ALSO called γυναῖκα (gynē - \"wife\") in verse 24. **The LXX confirms what the Hebrew says: a young betrothed woman IS a wife.**" },
       { type: "h2", text: "The Logical Impossibility" },
       { type: "p", text: "Your framework creates an impossible situation:" },
       { type: "ul", items: [
@@ -567,7 +794,7 @@ const sections = [
     question: "Deuteronomy 22:24 calls the betrothed na'ara his 'WIFE' (אִשְׁתּוֹ) and charges her with adultery. You say she's 'not a wife but a virgin' until 20. If she's not a wife, how can she commit adultery? Torah says she IS a wife. Who is correct — you or Moses?"
   },
   {
-    id: 14,
+    id: 16,
     part: 2,
     title: "Your Definitions Contradict Torah",
     subtitle: "Numbers 30 and Malachi 2 Both Destroy Your Framework",
@@ -575,10 +802,12 @@ const sections = [
       { type: "h2", text: "Numbers 30: Vow Accountability in Youth" },
       { type: "p", text: "You define ne'urim as \"youth\" (under 20, not yet accountable). But look at what Numbers 30 actually says:" },
       { type: "scripture", ref: "Numbers 30:3-5, 16 (NASB95)", text: "If a woman makes a vow to YHVH, and binds herself by an obligation in her father's house **in her youth** (בִּנְעֻרֶיהָ, bine'ureha)... and her father hears her vow... if her father says nothing to her, then all her vows shall stand... These are the statutes which YHVH commanded Moses, concerning the relationship of a husband to his wife, and of a father to his daughter **in her youth** (בִּנְעֻרֶיהָ) in her father's house." },
+      { type: "p", text: "The Septuagint (LXX) translates this as **ἐν τῇ νεότητι αὐτῆς** (en tē neotēti autēs) — \"in her youth.\" The Greek νεότης (neotēs) is the same root used in Malachi 2:14 for \"wife of your youth.\"" },
       { type: "p", text: "If covenant accountability only begins at 20+, how can a ne'urim girl already be **covenant-responsible for vows to God** unless her father annuls them? Her vows to YHVH are binding. That's covenant accountability. In her youth." },
       { type: "p", text: "You cannot claim ne'urim means \"not yet covenant-accountable\" when Torah explicitly holds ne'urim women covenant-accountable for their vows." },
       { type: "h2", text: "Malachi 2:14: \"The Wife of Your Youth\"" },
-      { type: "scripture", ref: "Malachi 2:14 (NASB95)", text: "...YHVH has been a witness between you and **the wife of your youth** (אֵשֶׁת נְעוּרֶיךָ, eshet ne'urekha), against whom you have dealt treacherously, though she is your companion and **your wife by covenant**." },
+      { type: "scripture", ref: "Malachi 2:14-15 (NASB95)", text: "...YHVH has been a witness between you and **the wife of your youth** (אֵשֶׁת נְעוּרֶיךָ, eshet ne'urekha), against whom you have dealt treacherously, though she is your companion and **your wife by covenant**." },
+      { type: "p", text: "The LXX translates this as **γυναῖκα νεότητός σου** (gynaika neotētos sou) — \"wife of your youth.\" Notice: she is called γυναῖκα (gynē - wife), not \"future wife\" or \"pledged woman.\" And her youth (νεότητος) is not a disqualifier — it's simply a descriptor of WHEN they married." },
       { type: "p", text: "Look at the Hebrew: אֵשֶׁת נְעוּרֶיךָ — \"wife of your youth.\" The word for \"youth\" here is from the SAME ROOT as ne'urim. God Himself calls a woman married in her ne'urim (youth) a **\"wife by covenant.\"**" },
       { type: "p", text: "You insist a woman in her ne'urim cannot be lawfully married. God says she is \"your wife by covenant.\" **Who is adding to Torah here — God or you?**" },
       { type: "h2", text: "Your Framework Collapses" },
@@ -594,7 +823,7 @@ const sections = [
     question: "Numbers 30 holds ne'urim women accountable for vows to God. Malachi 2:14 calls a woman married in her youth 'your wife by covenant.' How can ne'urim women be covenant-accountable but not marriage-accountable? God calls her 'wife by covenant' — why do you say she cannot be?"
   },
   {
-    id: 15,
+    id: 17,
     part: 2,
     title: "Your Own Argument Condemns You",
     subtitle: "The Silence That Defends Polygyny Also Destroys Your Age 20 Requirement",
@@ -648,7 +877,7 @@ const sections = [
     question: "You argue that Jesus's silence on polygyny — a practice ILLEGAL under Roman law but permitted by Torah — proves it remains lawful. But on marriage age, Torah specifies nothing, Jewish practice was to marry in the teens, and Roman law permitted marriage at 12. Jesus was equally silent. How can silence prove polygyny acceptable while the same silence condemns teen marriage? Where does your 'age 20' standard come from if not Torah, Jewish practice, OR Roman law?"
   },
   {
-    id: 16,
+    id: 18,
     part: 2,
     title: "The Linguistic Argument Fails",
     subtitle: "Your ʾîš/ʾiššâ Argument Contradicts Your Own Definitions",
@@ -687,7 +916,7 @@ const sections = [
     question: "You say ʾiššâ means a woman 20+. But Deuteronomy 22:24 calls the na'ara (whom you define as under 20) his 'wife' (אֵשֶׁת, from ʾiššâ). How can both be true? Either the na'ara is 20+ (contradicting your definition) or ʾiššâ doesn't require age 20 (destroying your argument). Which is it?"
   },
   {
-    id: 17,
+    id: 19,
     part: 2,
     title: "The Missing Command",
     subtitle: "God Didn't Say It — In Torah OR Through Christ",
@@ -704,25 +933,68 @@ const sections = [
     question: "Where in Torah does it say 'A virgin shall not be married until age 20'? If this were God's standard, why didn't He state it explicitly — as He did for military service, temple tax, and Levitical duty? And why didn't Christ or the apostles correct the widespread practice of marrying women in their teens?"
   },
   {
-    id: 18,
+    id: 20,
     part: 2,
     title: "A Question About Mary",
-    subtitle: "Your Framework Indicts Joseph, Every Jewish Father, and God Himself",
+    subtitle: "Your Census Argument Fails, and Your Framework Indicts Joseph and God",
     content: [
-      { type: "p", text: "Rich, think about what your framework is actually saying when you apply it consistently." },
-      { type: "p", text: "We know from historical records that Jewish girls in the Second Temple period were typically betrothed in their teens — this was the norm, not the exception. But let's not even go there. Let's assume Mary was 18 or 19 when she was betrothed to Joseph and found with child by the Holy Spirit." },
-      { type: "p", text: "By your framework, an 18 or 19 year old is a \"child.\" Her marriage is a \"child bride\" situation. The man who marries her is — by your implication — a pedophile or pervert." },
-      { type: "p", text: "So if Mary was 18 or 19, does that make Joseph a pervert for betrothing her? Does it make God complicit in \"child marriage\" for choosing her and overshadowing her with the Holy Spirit? **Are you prepared to say that?**" },
+      { type: "p", text: "Rich, you've publicly argued that Mary must have been at least 20 years old because she participated in the Roman census with Joseph. You've stated:" },
+      { type: "quote", text: "Twenty is likewise the age for all adult services such as giving offerings (Ex 30:14), serving in the army (Num 1:3), being counted in a census (Num 26:4), serving in the Temple (1 Chron 23:24). Even the Virgin Mary was at least 20 years old as her and Joseph participated in the census (Luke 2:3-5).", source: "Your Twitter/X post (Dec 6, 2025)" },
+      { type: "p", text: "This argument fails on multiple levels:" },
+      { type: "h2", text: "Problem 1: This Was a ROMAN Census, Not an Israelite Census" },
+      { type: "p", text: "The census in Luke 2 was ordered by Caesar Augustus — it was a Roman administrative census for taxation purposes, not an Israelite religious census. Numbers 26:4 refers to a specific Israelite census for military and inheritance purposes among those who came out of Egypt. Rome didn't follow Torah age requirements. They had their own rules." },
+      { type: "p", text: "You're conflating two completely different types of censuses from two completely different governing authorities with two completely different purposes." },
+      { type: "h2", text: "Problem 2: Roman Censuses Counted Entire Households — Including Children" },
+      { type: "p", text: "Scholarly evidence demonstrates that Roman provincial censuses counted entire households regardless of age:" },
+      { type: "ul", items: [
+        "**Grammateus Project** (University of Geneva papyrology): \"The declarant was usually the male head of the household, but **women and children were included**, along with their property.\" ([source](https://grammateus.unige.ch/descriptions/decl_census))",
+        "**HistoriaRomana**: \"The head of each household, the *paterfamilias*, was **responsible for declaring information on behalf of his wife, children, and slaves**.\" ([source](https://historiaromana.veertualia.com/counting-the-empire-the-roman-census-in-the-1st-century-ad/))"
+      ]},
+      { type: "p", text: "The evidence is clear: Roman provincial censuses were household registrations that counted everyone — men, women, children, even slaves. The 20-year-old requirement in Numbers 26:4 was for a specific Israelite military census, not a universal age for any census." },
+      { type: "p", text: "In fact, Luke 2:5 specifically mentions that Mary was \"with child\" — the unborn Jesus was relevant to the registration! If only those 20+ were counted, why mention her pregnancy at all?" },
+      { type: "h2", text: "The Irony: You're Using Roman Law to Prove Torah — But Roman Law Destroys Your Position" },
+      { type: "p", text: "Rich, think about what you're doing. You're trying to apply YOUR Torah-based extrapolation (20 years old = adult, therefore minimum marriage age) to a ROMAN census, to then prove Mary was over 20. But you're appealing to the wrong legal system — and that legal system destroys your argument:" },
+      { type: "p", text: "**Society for Classical Studies**: \"Roman legal sources strongly indicate that women could not marry before age 12.\" ([source](https://www.classicalstudies.org/roman-law-and-marriage-underage-girls))" },
+      { type: "p", text: "Under Roman law — the very law that ordered this census — the minimum marriage age for girls was **12**, not 20. So even if participating in a Roman census somehow proved adulthood (it doesn't), Roman \"adulthood\" for marriage purposes was 12 for women." },
+      { type: "p", text: "You can't appeal to a Roman census to prove Mary was 20+ when Roman law itself permitted marriage at 12. The Roman census proves nothing about Torah's supposed \"age 20\" requirement — because Rome had no such requirement." },
+      { type: "h2", text: "Problem 3: Roman Women Couldn't Register Independently Anyway" },
+      { type: "scripture", ref: "Luke 2:4-5 (NASB95)", text: "Joseph also went up from Galilee... **to be registered** along with Mary, who was betrothed to him, and was with child." },
+      { type: "p", text: "The text says Joseph went \"to be registered\" (ἀπογράψασθαι, apograpsasthai). Mary was \"with\" (σύν, syn) him. But even if you wanted to argue Mary was somehow registering independently, Roman law wouldn't require her to be 20+ — it would require her to have a male guardian." },
+      { type: "p", text: "Under Roman law, **women were never legally independent regardless of age**:" },
+      { type: "ul", items: [
+        "**Wikipedia (Age of Majority)**: \"The age of adulthood was set at **12 for girls** and 14 for boys.\" ([source](https://en.wikipedia.org/wiki/Age_of_majority))",
+        "**Law Explorer**: \"For girls, the *tutela impuberis* ended at the age of **twelve**, only to be replaced by the *tutela mulieris*. An adult woman (*mulier*) who became independent on the death of her father or husband was **also required to have a tutor** (guardian).\" ([source](https://lawexplores.com/the-guardianship-of-women/))"
+      ]},
+      { type: "p", text: "In Roman law, girls became legal \"adults\" (*mulier*) at **12**, not 20. But even then, they were never fully independent — they remained under male guardianship (*tutela mulieris*) for life unless they had 3+ children (*ius liberorum*). Full economic independence at age 25 applied only to **men**, not women." },
+      { type: "p", text: "So your argument collapses entirely:" },
+      { type: "ul", items: [
+        "If Mary was registering as part of Joseph's household → She didn't need to be any particular age (Roman censuses counted everyone)",
+        "If Mary was somehow registering \"independently\" → Roman law would require a male guardian, not age 20. And she would have been a legal \"adult\" at 12 anyway."
+      ]},
+      { type: "p", text: "There is no scenario in Roman law where a woman needed to be 20 years old to participate in anything. You're importing a Torah-based extrapolation into a Roman legal context where it has no application." },
+      { type: "p", text: "**And notice what you're actually doing, Rich:** You're taking a Torah census requirement that applied only to **MALES** (Num 1:2-3, 26:2 — \"every male... from twenty years old and upward\"), applying it to a **ROMAN** census (which had completely different rules), to prove that **MARY** (a woman) was over 20 — when Roman law said women were legal adults at **12**, not 20." },
+      { type: "p", text: "You know exactly why you need Mary to be over 20. If the mother of our Messiah was betrothed as a teenager — as was normal Jewish practice — your entire \"age 20\" framework collapses. So you're forced into this desperate, illogical argument: using a male-only Torah census requirement to interpret a Roman census to prove a woman's age meets a standard that exists in neither legal system." },
+      { type: "h2", text: "Problem 4: Your Argument Proves Too Much" },
+      { type: "p", text: "If Numbers 26:4 means ONLY those 20+ could be in ANY census, then:" },
+      { type: "ul", items: [
+        "Children under 20 were never counted in any census — but the scholarly evidence proves Roman censuses included \"women and children\" as part of the household declaration",
+        "The unborn Jesus shouldn't have been relevant — but Luke specifically mentions Mary was \"with child\"",
+        "No one under 20 could give offerings (Ex 30:14 by your logic) — but children participated in Passover"
+      ]},
+      { type: "p", text: "You're taking age requirements for SPECIFIC Israelite purposes (military service, temple tax, Levitical duty) and universalizing them to ALL contexts including a Roman administrative census. That's not how Torah works — and it's not how Roman censuses worked either." },
+      { type: "h2", text: "The Historical Reality" },
+      { type: "p", text: "We know from historical records that Jewish girls in the Second Temple period were typically betrothed in their early to mid-teens — this was the norm, not the exception. Your census argument is an attempt to escape this historical reality, but it doesn't work." },
+      { type: "p", text: "But let's assume for argument's sake that Mary was 18 or 19 when she was betrothed to Joseph and found with child by the Holy Spirit. By your framework, an 18 or 19 year old is a \"child.\" Her marriage would be a \"child bride\" situation. The man who marries her would be — by your framework — guilty of the very conduct you condemn." },
+      { type: "p", text: "So if Mary was 18 or 19, does that make Joseph guilty of the very conduct you condemn for betrothing her? Does it portray God as initiating a union your framework classifies as immoral — choosing her and overshadowing her with the Holy Spirit? **Are you prepared to say that?**" },
       { type: "h2", text: "Joseph Was Called Righteous" },
-      { type: "p", text: "Scripture tells us Joseph was a \"righteous man\" (Matt 1:19). If betrothing a woman under 20 were sinful — if it made a man a pervert or pedophile as your framework implies — wouldn't Scripture have noted Joseph's righteousness in THIS regard?" },
-      { type: "p", text: "Wouldn't we read something like: \"Joseph, a righteous man, unlike those around him who betrothed virgins before 20, chose to betroth Mary because she was of adult marriageable age\"?" },
-      { type: "p", text: "But we don't. Scripture commends Joseph's righteousness and says nothing about Mary's age being notable. No rebuke of the widespread practice. No correction of the \"tradition.\" **The silence is deafening.**" },
-      { type: "p", text: "I'm not asking this to be inflammatory. I'm asking to show that your \"under 20 = child\" rule isn't coming from Scripture or history — it's a modern line you're importing that, if applied consistently, makes God Himself complicit in what you call perversion. **That alone should tell you the framework is wrong.**" }
+      { type: "p", text: "Scripture tells us Joseph was a \"righteous man\" (Matt 1:19). If betrothing a woman under 20 were sinful — if it made a man guilty of the conduct you condemn as your framework implies — wouldn't Scripture have noted Joseph's righteousness in THIS regard?" },
+      { type: "p", text: "But we don't see that. Scripture commends Joseph's righteousness and says nothing about Mary's age being notable. No rebuke of the widespread practice of teen betrothal. No correction of the \"tradition.\" **The silence is deafening.**" },
+      { type: "p", text: "Your census argument is a desperate attempt to avoid the obvious problem: if your framework is correct, it makes Joseph guilty of the very conduct you condemn, and portrays God as initiating a union your framework classifies as immoral. **That alone should tell you the framework is wrong.**" }
     ],
-    question: "If Mary was 18 or 19 when betrothed to Joseph, does your framework make Joseph a pedophile and God complicit in 'child marriage'? Scripture calls Joseph 'righteous' with no mention of Mary's age. Why?"
+    question: "Your argument that Mary must have been 20+ because she 'participated in the census' fails — this was a ROMAN census for taxation that counted everyone including children, not the Israelite military census of Numbers 26:4. Luke even mentions she was 'with child' — was the unborn Jesus also 20+? And if Mary WAS under 20, does your framework make Joseph guilty of the very conduct you condemn, and portray God as initiating a union your framework classifies as immoral?"
   },
   {
-    id: 19,
+    id: 21,
     part: 2,
     title: "The False Witness",
     subtitle: "By Your Own Standard, You Are Bearing False Witness Against Your Brothers",
@@ -755,7 +1027,7 @@ const sections = [
     question: "You use Romans 4:15 ('where there is no law, there is no transgression') to defend polygyny. By that same principle, where is the Torah law against marrying an 18 or 19 year old? If there is none, then by your own standard, it is NOT a transgression — and calling these men 'pedophiles' is bearing false witness. What does Deuteronomy 19:18-19 say should happen to a false witness?"
   },
   {
-    id: 20,
+    id: 22,
     part: 2,
     title: "The Loophole You've Created",
     subtitle: "Your Framework Creates a Hunting Ground for Predators",
@@ -776,7 +1048,7 @@ const sections = [
     question: "Under your framework, what recourse does a father have if a man seduces his 19-year-old daughter? Exodus 22:16-17 requires the seducer to marry her or pay bride price — but you say she CAN'T be married until 20. The seducer walks free. How does your framework protect her?"
   },
   {
-    id: 21,
+    id: 23,
     part: 3,
     title: "The Irony",
     subtitle: "You Have Become What You Fight Against",
@@ -846,7 +1118,7 @@ const sections = [
     question: "You accuse others of pursuing 'carnal interests' and 'perversions.' But whose framework gives men full freedom while binding permanent celibacy on divorced women and removing Torah's protections from young women? Whose framework forbids entire categories of women from marrying while accusing others of being 'doctrines of demons' for forbidding marriage?"
   },
   {
-    id: 22,
+    id: 24,
     part: 3,
     title: "The Principles You're Violating",
     subtitle: "You Use These Rules for Polygyny — Why Not for Divorced Women?",
@@ -905,7 +1177,7 @@ const sections = [
     question: "Your interpretation of Jesus's divorce teaching would require Jesus to have annulled Deuteronomy 24:2, Numbers 30:9, and Exodus 21:10-11 — making Him 'least in the kingdom' by His own words. Since that's impossible, doesn't your interpretation HAVE to be wrong? And if you continue teaching it, aren't YOU the one annulling commandments?"
   },
   {
-    id: 23,
+    id: 25,
     part: 3,
     title: "Final Summary",
     subtitle: "The Questions You Must Answer",
@@ -975,10 +1247,19 @@ const closing = {
 // Parse markdown-style bold text
 const parseText = (text) => {
   if (!text) return null;
-  const parts = text.split(/(\*\*.*?\*\*)/g);
+  // Handle ***bold italic***, **bold**, and [link](url)
+  const parts = text.split(/(\*\*\*.*?\*\*\*|\*\*.*?\*\*|\[.*?\]\(.*?\))/g);
   return parts.map((part, i) => {
+    if (part.startsWith('***') && part.endsWith('***')) {
+      return <strong key={i} className="font-semibold italic">{part.slice(3, -3)}</strong>;
+    }
     if (part.startsWith('**') && part.endsWith('**')) {
       return <strong key={i} className="font-semibold">{part.slice(2, -2)}</strong>;
+    }
+    // Handle markdown links [text](url)
+    const linkMatch = part.match(/^\[(.*?)\]\((.*?)\)$/);
+    if (linkMatch) {
+      return <a key={i} href={linkMatch[2]} target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 underline">{linkMatch[1]}</a>;
     }
     return part;
   });
