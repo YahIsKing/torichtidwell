@@ -545,20 +545,6 @@ const sections = [
         "The lawful divorce provisions already in Torah (Deut 24:1-2)"
       ]},
       { type: "p", text: "You're taking Paul's instruction to a specific situation (wife who left) and applying it universally to all divorced women. That's not exegesis — it's eisegesis." },
-      { type: "h2", text: "The \"Royal Priesthood\" Argument" },
-      { type: "p", text: "You recently argued that 1 Peter 2:9 makes all believers a \"royal priesthood,\" therefore Leviticus 21:7 applies — priests cannot marry divorced women. In your own words:" },
-      { type: "quote", text: "The priestly class is not allowed to marry a divorced woman... We are a royal priesthood as a whole in the Christian church... Jesus may have been teaching us in the gospels that we are to adhere to the priestly class commandment regarding divorced women... that's why I air on the most conservative end of this... the priests weren't to marry divorced women so we don't marry divorced women.", source: "Interview with Pete Rambo (Dec 10, 2025) [~01:30:09-01:31:05]" },
-      { type: "p", text: "This argument destroys itself:" },
-      { type: "scripture", ref: "Leviticus 21:7, 14 (NASB95)", text: "They shall not take a woman who is profaned by harlotry, **nor shall they take a woman divorced from her husband**... A widow, or a divorced woman, or one who is profaned by harlotry, these he [the high priest] may not take." },
-      { type: "p", text: "If all believers are literally Levitical priests:" },
-      { type: "ul", items: [
-        "**Priests cannot marry prostitutes** (Lev 21:7) — But you DEFEND Rahab marrying Salmon. Was Salmon not a believer?",
-        "**High priests cannot marry widows** (Lev 21:14) — But you teach widows CAN remarry. Are some believers more priestly than others?",
-        "**Priests have dietary and ceremonial requirements** — Do all believers follow Levitical purity laws?"
-      ]},
-      { type: "p", text: "You cannot selectively apply Leviticus 21 to divorced women while ignoring that the SAME passage would prohibit Rahab's marriage and all widow remarriage." },
-      { type: "p", text: "And if we follow your logic to its conclusion: **Leviticus 21:13-14 requires priests to marry ONLY virgins.** Were both of your wives virgins when you married them, Rich? If not, by your own \"royal priesthood\" argument, your marriages would be invalid." },
-      { type: "p", text: "**1 Peter 2:9 is speaking of spiritual priesthood — access to God, offering spiritual sacrifices (v.5). Peter is not imposing Levitical marriage restrictions on all believers.** The same passage calls us \"living stones\" (v.5) — are we literally rocks?" },
       { type: "h2", text: "1 Corinthians 7:12-14" },
       { type: "p", text: "You categorize believer/unbeliever unions as \"UNLAWFUL\" (Marriage Law Worksheet). But Paul says if the unbeliever is content to stay, DON'T divorce — the unbelieving spouse is \"sanctified\" through the believer." },
       { type: "p", text: "If these unions are \"unlawful,\" why would Paul command believers to REMAIN in them and call the unbeliever \"sanctified\"?" },
