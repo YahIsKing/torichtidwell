@@ -243,7 +243,7 @@ const sections = [
       { type: "p", text: "Look carefully at what Jeremiah 3:7-8 tells us:" },
       { type: "scripture", ref: "Jeremiah 3:7-8 (NASB95)", text: "I thought, 'After she has done all these things **she will return to Me**'; but she did not return... And I saw that for all the adulteries of faithless Israel, **I had sent her away and given her a writ of divorce**." },
       { type: "p", text: "God expected Israel to return. While released, she was SUPPOSED to come back. Her sin during this period — though real — was the sin of a released woman. But she did not return. Instead, she \"joined\" other gods." },
-      { type: "p", text: "**Once Israel joined others, Deuteronomy 24:4 kicked in.** Now she CANNOT return to her first husband. The door that was open closed." },
+      { type: "p", text: "**Once Israel joined others, Deuteronomy 24:4 kicked in.** Now she CANNOT return to her first husband. That open door was closed." },
       { type: "h2", text: "Compare This to Judah" },
       { type: "p", text: "Judah never received a certificate (Isaiah 50:1). She was NOT released. Yet she ALSO went after other gods — while still bound in covenant. This is why God says:" },
       { type: "scripture", ref: "Jeremiah 3:11 (NASB95)", text: "Faithless Israel has proved herself **more righteous** than treacherous Judah." },
