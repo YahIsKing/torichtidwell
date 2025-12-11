@@ -37,10 +37,6 @@ const introduction = {
     {
       title: "A note on where we likely agree",
       content: "I want to be clear: I am fervently against the modern practice of women divorcing their husbands for any reason at all, and I do not advocate for men marrying women who have unlawfully divorced their husbands for unbiblical reasons. I suspect we agree very strongly on this. The serial divorce culture in the modern West is an abomination. But in your opposition to this evil, you are painting with such a broad brush that lawfully divorced women — and women who were treacherously divorced by their husbands — are bound in permanent celibacy with no biblical remedy."
-    },
-    {
-      title: "A note on deflection",
-      content: "Rich, when people challenge your positions, you have posted things like: 'If one desires the Law of God only when it serves their carnal interests, and not when it restrains their perversions, they're not pursuing divine transformation but mere mortal validation.' The implication is clear — if someone disagrees with your framework, it's because they're 'carnal' and pursuing 'perversions.' But as this letter will show, the scriptural arguments against your positions are substantial. I ask that you engage them directly rather than impugning the motives of those who raise them."
     }
   ]
 };
