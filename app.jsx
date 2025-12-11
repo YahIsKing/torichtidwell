@@ -270,7 +270,7 @@ const sections = [
     scriptures: [
       {
         ref: "Malachi 2:14-16 (NASB95)",
-        text: "YHVH has been a witness between you and **the wife of your youth**, against whom **you have dealt treacherously**... 'For I hate divorce,' says YHVH, the God of Israel, 'and him who covers his garment with wrong'... **So take heed to your spirit, that you do not deal treacherously.**"
+        text: "The LORD has been a witness between you and **the wife of your youth**, against whom **you have dealt treacherously**, though she is your companion and your wife by covenant... 'For I hate divorce,' says the LORD, the God of Israel, 'and him who covers his garment with wrong,' says the LORD of hosts. **'So take heed to your spirit, that you do not deal treacherously.'**"
       }
     ],
     content: [
