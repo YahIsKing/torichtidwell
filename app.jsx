@@ -975,7 +975,7 @@ const sections = [
       { type: "p", text: "By inventing an age requirement Torah doesn't give, you've nullified the protection Torah DOES give. A 19-year-old's father cannot invoke Exodus 22:16-17 in your framework because, according to you, she can't be married. The seducer walks free." },
       { type: "p", text: "**This is the fruit of adding to Torah.** You create loopholes that wicked men can exploit, while claiming to protect the very people your framework abandons." }
     ],
-    question: "Under your framework, what recourse does a father have if a man seduces his 19-year-old daughter? Exodus 22:16-17 requires the seducer to marry her or pay bride price — but you say she CAN'T be married until 20. The seducer walks free. How does your framework protect her?"
+    question: "Under your framework, what recourse does a father have if a man seduces his 19-year-old daughter? Exodus 22:16-17 requires the seducer to marry her AND pay the bride price — but you say she CAN'T be married until 20. The seducer walks free. How does your framework protect her?"
   },
   {
     id: 22,
