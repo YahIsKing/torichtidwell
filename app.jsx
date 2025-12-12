@@ -857,7 +857,7 @@ const sections = [
       { type: "p", text: "Your argument: Polygyny was widespread among Jews. Torah permits it. Jesus and the apostles said nothing against it. Therefore it remains lawful." },
       { type: "p", text: "**Now apply that same logic to marriage age.**" },
       { type: "h2", text: "The Historical Record of Jewish Practice" },
-      { type: "p", text: "Scholarly sources confirm that Jewish girls in the Second Temple period were typically betrothed in their early to mid-teens — this was standard practice, not exceptional:" },
+      { type: "p", text: "Betrothal in the teens is well attested and uncontroversial in Second Temple Jewish sources:" },
       { type: "ul", items: [
         "**Adiel Schremer** (*Male and Female He Created Them*, Zalman Shazar Center, 2003): \"Girls were married sometime after reaching sexual maturity (around twelve or thirteen), perhaps up until their late teens\" in Palestine. ([source](https://muse.jhu.edu/article/217015/summary))",
         "**Jewish Encyclopedia** (1906), \"Marriage Laws\": \"A daughter who was a minor could be given in marriage by her father; and such a marriage was valid.\" Puberty was defined as 12 for females. ([source](https://www.jewishencyclopedia.com/articles/10435-marriage-laws))"
@@ -1002,8 +1002,8 @@ const sections = [
         "**Grammateus Project** (University of Geneva papyrology): \"The declarant was usually the male head of the household, but **women and children were included**, along with their property.\" ([source](https://grammateus.unige.ch/descriptions/decl_census))",
         "**HistoriaRomana**: \"The head of each household, the *paterfamilias*, was **responsible for declaring information on behalf of his wife, children, and slaves**.\" ([source](https://historiaromana.veertualia.com/counting-the-empire-the-roman-census-in-the-1st-century-ad/))"
       ]},
-      { type: "p", text: "The evidence is clear: Roman provincial censuses were household registrations that counted everyone — men, women, children, even slaves. The 20-year-old requirement in Numbers 26:4 was for a specific Israelite military census, not a universal age for any census." },
-      { type: "p", text: "In fact, Luke 2:5 specifically mentions that Mary was \"with child\" — the unborn Jesus was relevant to the registration! If only those 20+ were counted, why mention her pregnancy at all?" },
+      { type: "p", text: "The evidence is clear: Roman provincial censuses were household registrations in which the head of household declared dependents, including wives, children, and slaves. The 20-year-old requirement in Numbers 26:4 was for a specific Israelite military census, not a universal age for any census." },
+      { type: "p", text: "Interestingly, Luke 2:5 specifically mentions that Mary was \"with child\" — the narrative draws attention to her pregnancy, not her age. If age 20 were a prerequisite for census participation, you'd expect that to be the notable detail, not her pregnancy." },
       { type: "h2", text: "The Irony: You're Using Roman Law to Prove Torah — But Roman Law Destroys Your Position" },
       { type: "p", text: "Rich, think about what you're doing. You're trying to apply YOUR Torah-based extrapolation (20 years old = adult, therefore minimum marriage age) to a ROMAN census, to then prove Mary was over 20. But you're appealing to the wrong legal system — and that legal system destroys your argument:" },
       { type: "p", text: "**Society for Classical Studies**: \"Roman legal sources strongly indicate that women could not marry before age 12.\" ([source](https://www.classicalstudies.org/roman-law-and-marriage-underage-girls))" },
@@ -1020,7 +1020,7 @@ const sections = [
       { type: "p", text: "In Roman law, girls became legal \"adults\" (*mulier*) at **12**, not 20. But even then, they were never fully independent — they remained under male guardianship (*tutela mulieris*) for life unless they had 3+ children (*ius liberorum*). Full economic independence at age 25 applied only to **men**, not women." },
       { type: "p", text: "So your argument collapses entirely:" },
       { type: "ul", items: [
-        "If Mary was registering as part of Joseph's household → She didn't need to be any particular age (Roman censuses counted everyone)",
+        "If Mary was registering as part of Joseph's household → She didn't need to be any particular age (the head of household declared dependents)",
         "If Mary was somehow registering \"independently\" → Roman law would require a male guardian, not age 20. And she would have been a legal \"adult\" at 12 anyway."
       ]},
       { type: "p", text: "There is no scenario in Roman law where a woman needed to be 20 years old to participate in anything. You're importing a Torah-based extrapolation into a Roman legal context where it has no application." },
@@ -1030,12 +1030,11 @@ const sections = [
       { type: "p", text: "If Numbers 26:4 means ONLY those 20+ could be in ANY census, then:" },
       { type: "ul", items: [
         "Children under 20 were never counted in any census — but the scholarly evidence proves Roman censuses included \"women and children\" as part of the household declaration",
-        "The unborn Jesus shouldn't have been relevant — but Luke specifically mentions Mary was \"with child\"",
         "No one under 20 could give offerings (Ex 30:14 by your logic) — but children participated in Passover"
       ]},
       { type: "p", text: "You're taking age requirements for SPECIFIC Israelite purposes (military service, temple tax, Levitical duty) and universalizing them to ALL contexts including a Roman administrative census. That's not how Torah works — and it's not how Roman censuses worked either." },
       { type: "h2", text: "The Historical Reality" },
-      { type: "p", text: "We know from historical records that Jewish girls in the Second Temple period were typically betrothed in their early to mid-teens — this was the norm, not the exception. Your census argument is an attempt to escape this historical reality, but it doesn't work." },
+      { type: "p", text: "Betrothal in the teens is well attested and uncontroversial in Second Temple Jewish sources. Your census argument is an attempt to escape this historical reality, but it doesn't work." },
       { type: "p", text: "But let's assume for argument's sake that Mary was 18 or 19 when she was betrothed to Joseph and found with child by the Holy Spirit. By your framework, an 18 or 19 year old is a \"child.\" Her marriage would be a \"child bride\" situation. The man who marries her would be — by your framework — guilty of the very conduct you condemn." },
       { type: "p", text: "So if Mary was 18 or 19, does that make Joseph guilty of the very conduct you condemn for betrothing her? Does it portray God as initiating a union your framework classifies as immoral — choosing her and overshadowing her with the Holy Spirit? **Are you prepared to say that?**" },
       { type: "h2", text: "Joseph Was Called Righteous" },
@@ -1043,7 +1042,7 @@ const sections = [
       { type: "p", text: "But we don't see that. Scripture commends Joseph's righteousness and says nothing about Mary's age being notable. No rebuke of the widespread practice of betrothal before 20. No correction of the \"tradition.\" **The silence is deafening.**" },
       { type: "p", text: "Your census argument is a desperate attempt to avoid the obvious problem: if your framework is correct, it makes Joseph guilty of the very conduct you condemn, and portrays God as initiating a union your framework classifies as immoral. **That alone should tell you the framework is wrong.**" }
     ],
-    question: "Your argument that Mary must have been 20+ because she 'participated in the census' fails — this was a ROMAN census for taxation that counted everyone including children, not the Israelite military census of Numbers 26:4. Luke even mentions she was 'with child' — was the unborn Jesus also 20+? And if Mary WAS under 20, does your framework make Joseph guilty of the very conduct you condemn, and portray God as initiating a union your framework classifies as immoral?"
+    question: "Your argument that Mary must have been 20+ because she 'participated in the census' fails — this was a ROMAN census for taxation where the head of household declared dependents including wives and children, not the Israelite military census of Numbers 26:4. And if Mary WAS under 20, does your framework make Joseph guilty of the very conduct you condemn, and portray God as initiating a union your framework classifies as immoral?"
   },
   {
     id: 21,
