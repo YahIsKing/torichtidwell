@@ -1045,7 +1045,7 @@ const sections = [
       { type: "p", text: "Monogamy-only doctrine forbids men from taking *additional* wives. Your doctrine forbids *entire categories of women* from marrying at all. **Who is forbidding more marriages here?**" },
       { type: "p", text: "You use 1 Timothy 4:1-3 as a weapon against your critics while your own framework does exactly what the passage condemns — **forbidding marriage**." }
     ],
-    question: "You accuse others of pursuing 'carnal interests' and 'perversions.' But whose framework gives men full freedom while binding permanent celibacy on divorced women and removing Torah's protections from young women? Whose framework forbids entire categories of women from marrying while accusing others of being 'doctrines of demons' for forbidding marriage?"
+    question: "You accuse others of pursuing 'carnal interests' and 'perversions.' But whose framework gives men full freedom while binding permanent celibacy on divorced women and removing Torah's protections from young women? Whose framework forbids entire categories of women from marrying while accusing others of being 'doctrines of demons' for forbidding marriage? And whose framework allows predatory men to target 18- and 19-year-old women for sex with zero covenantal consequences — since, by your logic, no valid marriage can exist?"
   },
   {
     id: 23,
