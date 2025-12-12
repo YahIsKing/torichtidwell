@@ -1292,20 +1292,24 @@ const sections = [
         "**1 Timothy 4:1-3** — You call monogamy-only a \"Doctrine of Demons\" for forbidding marriage. YOUR positions forbid more.",
         "**Matthew 5:19** — Your interpretation would make Christ an annuller of Torah. Since that's impossible, your interpretation must be wrong — and YOU are the one annulling commandments."
       ]},
-      { type: "h2", text: "A Brotherly Appeal" },
-      { type: "p", text: "Rich, I began this letter with thanksgiving for your zeal, and I want to end it the same way. I believe you genuinely want to honor YHWH and His Torah. I believe you care about protecting women and upholding the sanctity of marriage. These are good desires, and I share them." },
-      { type: "p", text: "But brother, I am asking you to prayerfully consider whether your framework — in its zeal to protect — has actually bound burdens that God has not bound, and removed protections that God has given." },
-      { type: "p", text: "You fight every day against Christians who add \"one wife\" to Torah's silence on polygyny. You know exactly how it feels to have people bind what God has not bound, to have your faithfulness questioned, to be called a pervert for following what you believe Scripture permits. You're a pastor with two wives who is routinely slandered for what God does not condemn. I am asking you to extend that same grace to others — to your divorced brothers and sisters in Christ who believe Torah permits remarriage, and to those who married at 18 or 19 in full compliance with civil and biblical law." },
-      { type: "p", text: "When you call marriage at 18-19 years old \"child marriage\" and a \"perversion,\" are you really willing to say that to your 18- and 19-year-old brothers and sisters in Messiah? Would you forbid a man and his wife married at 18 from membership in your church? Would you tell a young bride she's living in sin? These are real people, Rich — not abstractions. They are members of the body of Christ who have broken no law, civil or biblical." },
-      { type: "p", text: "If I have erred in my understanding of these passages, I welcome correction. Show me from Torah where I am wrong. But if these arguments have merit — if Torah really does release the divorced woman, if there really is no age 20 marriage requirement — then I ask you to consider what it means to continue teaching otherwise." },
-      { type: "p", text: "We who teach will be judged with greater strictness (James 3:1). That warning applies to both of us. May we both have the humility to be corrected by Scripture, and the courage to change when we have been shown to be wrong." },
-      { type: "p", text: "I offer this letter not as an attack, but as iron sharpening iron. Whatever wounds it may cause, let them be the faithful wounds of a friend (Proverbs 27:6)." },
-      { type: "p", text: "Rich, I ask you to take these questions before the Lord in prayer. Search the Scriptures. If my arguments are wrong, show me where. But if they have merit, I trust you will have the integrity to reconsider — for the sake of the brothers and sisters affected by these teachings. Grace and peace to you, brother." }
+      { type: "p", text: "These questions deserve answers. If I have erred, show me from Torah where I am wrong. But if these arguments have merit, then I ask you to consider what it means to continue teaching otherwise." }
     ]
   }
 ];
 
 const closing = {
+  paragraphs: [
+    "Rich, I began this letter with thanksgiving for your zeal, and I want to end it with a word of warning — as a brother, not an adversary.",
+    "I believe you genuinely want to honor YHWH and His Torah. I believe you care about protecting women and upholding the sanctity of marriage. These are good desires, and I share them. But brother, I am asking you to prayerfully consider whether your framework — in its zeal to protect — has actually bound burdens that God has not bound, and removed protections that God has given.",
+    "You fight every day against Christians who add \"one wife\" to Torah's silence on polygyny. You know exactly how it feels to have people bind what God has not bound, to have your faithfulness questioned, to be called a pervert for following what you believe Scripture permits. You're a pastor with two wives who is routinely slandered for what God does not condemn. **I am asking you to extend that same grace to others** — to your divorced brothers and sisters in Christ who believe Torah permits remarriage, to those who are still learning and don't yet understand that Torah does in fact permit remarriage, and to those who married at 18 or 19 in full compliance with civil and biblical law.",
+    "A few weeks ago, I felt led by the Spirit to send you a message with a resounding appeal: **slow down and focus.** You seem to have brushed it off. Instead of pausing to consider, you have doubled down — more posts, more statements, more lines drawn in the sand.",
+    "Rich, I believe the moment I warned you about has already come. You are in it right now. With every public declaration, you are boxing yourself in further. Each statement makes it harder to walk back, harder to reconsider, harder to say \"I was wrong.\" The sunk cost of your public persona will pressure you to defend these positions not because they are true, but because you have said them too many times to reverse course.",
+    "So you have a choice to make. Will you publicly correct yourself and stand on truth, regardless of what it costs you? Or will you continue defending positions that contradict Torah because the alternative feels too costly?",
+    "And here's the deeper question I want you to sit with: **If you are constructing doctrines to protect yourself — whether from accusations, from critics, or from uncomfortable implications — are you really walking in faith?** You know as well as I do that Yah is our protector. He is our shield. He is our defender. If you don't trust Him to protect you — if you think you need to build theological hedges around yourself for safety — then who are you really trusting? Is that righteousness? Is that faith? Or is that the wisdom of man masquerading as the wisdom of God?",
+    "We who teach will be judged with greater strictness (James 3:1). That warning applies to both of us. The path of integrity is the path of humility — the willingness to say \"I was wrong\" when shown truth, regardless of what you've said before, regardless of how many people heard you say it. That is the narrow path. That is what \"iron sharpens iron\" actually looks like.",
+    "I offer this letter not as an attack, but as iron sharpening iron. Whatever wounds it may cause, let them be the faithful wounds of a friend (Proverbs 27:6). I pray you receive it in the spirit it was written — not to tear down, but to sharpen. Not to accuse, but to appeal.",
+    "May we both be found faithful to His Word, adding nothing and taking nothing away."
+  ],
   signature: "Your brother in Messiah,",
   signatureLine2: "seeking truth together in love",
   finalVerse: {
@@ -1621,6 +1625,15 @@ const ClosingView = ({ onPrev, onRestart }) => (
           Iron Sharpens Iron
         </h1>
         <div className="w-16 h-px bg-gray-200 mx-auto my-6" />
+      </div>
+
+      {/* Closing Content */}
+      <div className="prose prose-gray max-w-none mb-12">
+        {closing.paragraphs.map((para, idx) => (
+          <p key={idx} className="font-serif text-lg leading-relaxed text-gray-700 mb-6">
+            {parseText(para)}
+          </p>
+        ))}
       </div>
 
       {/* Signature */}
