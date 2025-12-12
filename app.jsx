@@ -1152,23 +1152,24 @@ const sections = [
         "**1 Timothy 4:1-3** — You call monogamy-only a \"Doctrine of Demons\" for forbidding marriage. YOUR positions forbid more.",
         "**Matthew 5:19** — Your interpretation would make Christ an annuller of Torah. Since that's impossible, your interpretation must be wrong — and YOU are the one annulling commandments."
       ]},
-      { type: "h2", text: "Final Words" },
-      { type: "p", text: "You fight every day against Christians who add \"one wife\" to Torah's silence on polygyny. You know exactly how it feels to have people bind what God has not bound." },
-      { type: "p", text: "Yet you turn around and do the same thing — adding restrictions where Torah gives none, ignoring explicit permissions, misapplying passages about married women to divorced women, and invalidating Torah's actual protections." },
-      { type: "p", text: "And Rich, it is NOT fulfilling the royal law to love your neighbor as yourself when you're calling a man married to an 18 or 19 year old a pervert or pedophile. That is not love. That is slander against a brother who has broken no law — civil or biblical." },
-      { type: "p", text: "**You are doing the very thing you condemn others for every day.**" },
-      { type: "p", text: "I ask these questions not to tear down, but to sharpen. If your positions are from YHVH, they will withstand scrutiny. If they contain error, I trust you would want to correct them rather than bind heavy burdens on your brothers and sisters in Christ that God has not bound." }
+      { type: "h2", text: "A Brotherly Appeal" },
+      { type: "p", text: "Rich, I began this letter with thanksgiving for your zeal, and I want to end it the same way. I believe you genuinely want to honor YHWH and His Torah. I believe you care about protecting women and upholding the sanctity of marriage. These are good desires, and I share them." },
+      { type: "p", text: "But brother, I am asking you to prayerfully consider whether your framework — in its zeal to protect — has actually bound burdens that God has not bound, and removed protections that God has given." },
+      { type: "p", text: "You fight every day against Christians who add \"one wife\" to Torah's silence on polygyny. You know exactly how it feels to have people bind what God has not bound, to have your faithfulness questioned, to be called names for following what you believe Scripture teaches. I am asking you to extend that same grace to others — to the divorced woman who believes Torah permits her to remarry, to the man who married an 18-year-old in full compliance with civil and biblical law." },
+      { type: "p", text: "If I have erred in my understanding of these passages, I welcome correction. Show me from Torah where I am wrong. But if these arguments have merit — if Torah really does release the divorced woman, if there really is no age 20 requirement — then I ask you to consider what it means to continue teaching otherwise." },
+      { type: "p", text: "We who teach will be judged with greater strictness (James 3:1). That warning applies to both of us. May we both have the humility to be corrected by Scripture, and the courage to change when we have been shown to be wrong." },
+      { type: "p", text: "I offer this letter not as an attack, but as iron sharpening iron. Whatever wounds it may cause, let them be the faithful wounds of a friend (Proverbs 27:6)." }
     ],
-    question: "Rich, your interpretation forces Christ to be a Torah-annuller, which is impossible. Therefore your interpretation must be wrong. On your own standards — Romans 4:15, Mark 7:9 — where is the law forbidding divorced women to remarry? Where is the law requiring age 20? And if there is no law, how is there transgression?"
+    question: "Rich, I ask you to take these questions before the Lord in prayer. Search the Scriptures. If my arguments are wrong, show me where. But if they have merit, I trust you will have the integrity to reconsider — for the sake of the brothers and sisters affected by these teachings. Grace and peace to you, brother."
   }
 ];
 
 const closing = {
-  signature: "Your brother in Christ,",
-  signatureLine2: "seeking truth together",
+  signature: "Your brother in Messiah,",
+  signatureLine2: "seeking truth together in love",
   finalVerse: {
-    text: "Let the word of Christ richly dwell within you, with all wisdom teaching and admonishing one another...",
-    ref: "Colossians 3:16 (NASB95)"
+    text: "Now may the God of peace Himself sanctify you entirely; and may your spirit and soul and body be preserved complete, without blame at the coming of our Lord Yeshua the Messiah. Faithful is He who calls you, and He also will bring it to pass.",
+    ref: "1 Thessalonians 5:23-24 (NASB95)"
   }
 };
 
