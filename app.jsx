@@ -14,7 +14,7 @@ const siteConfig = {
 const introduction = {
   salutation: "To Rich, a brother in Messiah, called to teach and proclaim the ways of YHVH:",
   paragraphs: [
-    "Grace to you and peace from God our Father and the LORD Yeshua the Messiah. I give thanks for your zeal for the Torah and your desire to call God's people to righteousness. Your labor in teaching is not unnoticed, and I trust that your heart is to honor the Word of the Living God.",
+    "Grace to you and peace from God our Father and the Lord Yeshua the Messiah. I give thanks for your zeal for the Torah and your desire to call God's people to righteousness. Your labor in teaching is not unnoticed, and I trust that your heart is to honor the Word of the Living God.",
     "Yet as one who also seeks to walk in truth, I am compelled to write to you concerning certain matters of doctrine where I believe correction is needed. For as it is written, 'Iron sharpens iron, so one man sharpens another' (Proverbs 27:17). It is in this spirit — not of accusation, but of brotherly appeal — that I bring these things before you.",
     "If your positions are sound, they will withstand scrutiny. If they contain error, I trust you would want to know, that you might not lead others astray. For we who teach will be judged with greater strictness (James 3:1).",
     "This letter addresses two of your primary teachings that I believe are in error:"
@@ -256,7 +256,7 @@ const sections = [
         "**Israel was supposed to return** — the door was open",
         "**Israel joined other gods instead** — she didn't come back while she could",
         "**Deuteronomy 24:4 now applies** — she CANNOT return to her first husband",
-        "**Messiah had to die** — so Israel enters a NEW covenant with a risen LORD, not \"returning to her former husband\""
+        "**Messiah had to die** — so Israel enters a NEW covenant with a risen Lord, not \"returning to her former husband\""
       ]},
       { type: "p", text: "**This entire theology depends on the divorce being REAL.** If the certificate never released Israel, there's no Deuteronomy 24:4 problem to solve. If there's no problem, Messiah's death doesn't solve anything regarding Israel's return. And if the certificate accomplished nothing, Israel and Judah would bear equal guilt — but God Himself says Israel was \"more righteous.\"" }
     ],
@@ -535,7 +535,7 @@ const sections = [
       ]},
       { type: "p", text: "If one-flesh is truly physical, why does it behave differently based on belief? Physics doesn't care if you're a Christian." },
       { type: "h2", text: "The 1 Corinthians 7:10-11 Problem" },
-      { type: "scripture", ref: "1 Corinthians 7:10-11 ", text: "But to the married I give instructions, not I, but the LORD, that the wife should not leave her husband (but if she does leave, **she must remain unmarried, or else be reconciled to her husband**), and that the husband should not divorce his wife." },
+      { type: "scripture", ref: "1 Corinthians 7:10-11 ", text: "But to the married I give instructions, not I, but the Lord, that the wife should not leave her husband (but if she does leave, **she must remain unmarried, or else be reconciled to her husband**), and that the husband should not divorce his wife." },
       { type: "p", text: "You quote this as a blanket prohibition on remarriage. But read it carefully. Paul addresses **a wife who LEFT her husband** — she initiated the separation. Her options: remain unmarried OR be reconciled. This makes sense — she left, so she should either return or stay single." },
       { type: "p", text: "This passage does NOT address:" },
       { type: "ul", items: [
@@ -1161,7 +1161,7 @@ const sections = [
       { type: "p", text: "We who teach will be judged with greater strictness (James 3:1). That warning applies to both of us. May we both have the humility to be corrected by Scripture, and the courage to change when we have been shown to be wrong." },
       { type: "p", text: "I offer this letter not as an attack, but as iron sharpening iron. Whatever wounds it may cause, let them be the faithful wounds of a friend (Proverbs 27:6)." }
     ],
-    question: "Rich, I ask you to take these questions before the LORD in prayer. Search the Scriptures. If my arguments are wrong, show me where. But if they have merit, I trust you will have the integrity to reconsider — for the sake of the brothers and sisters affected by these teachings. Grace and peace to you, brother."
+    question: "Rich, I ask you to take these questions before the Lord in prayer. Search the Scriptures. If my arguments are wrong, show me where. But if they have merit, I trust you will have the integrity to reconsider — for the sake of the brothers and sisters affected by these teachings. Grace and peace to you, brother."
   }
 ];
 
@@ -1169,7 +1169,7 @@ const closing = {
   signature: "Your brother in Messiah,",
   signatureLine2: "seeking truth together in love",
   finalVerse: {
-    text: "Now may the God of peace Himself sanctify you entirely; and may your spirit and soul and body be preserved complete, without blame at the coming of our LORD Yeshua the Messiah. Faithful is He who calls you, and He also will bring it to pass.",
+    text: "Now may the God of peace Himself sanctify you entirely; and may your spirit and soul and body be preserved complete, without blame at the coming of our Lord Yeshua the Messiah. Faithful is He who calls you, and He also will bring it to pass.",
     ref: "1 Thessalonians 5:23-24 "
   }
 };
