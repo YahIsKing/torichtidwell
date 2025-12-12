@@ -768,9 +768,8 @@ const sections = [
       { type: "h2", text: "The Historical Record of Jewish Practice" },
       { type: "p", text: "Scholarly sources confirm that Jewish girls in the Second Temple period were typically betrothed in their early to mid-teens — this was standard practice, not exceptional:" },
       { type: "ul", items: [
-        "**Adiel Schremer** (*Male and Female He Created Them*, Zalman Shazar Center, 2003): \"Girls were married sometime after reaching sexual maturity (around twelve or thirteen), perhaps up until their late teens\" in Palestine.",
-        "**Mishnah Ketuboth 57b**: Distinguishes betrothal periods for \"virgins who are minors\" (under 12) vs. adults — showing even pre-pubescent girls could be betrothed.",
-        "**Jewish Encyclopedia (1906)**: \"A daughter who was a minor could be given in marriage by her father\" — with puberty defined as 12 for females."
+        "**Adiel Schremer** (*Male and Female He Created Them*, Zalman Shazar Center, 2003): \"Girls were married sometime after reaching sexual maturity (around twelve or thirteen), perhaps up until their late teens\" in Palestine. ([source](https://muse.jhu.edu/article/217015/summary))",
+        "**Jewish Encyclopedia** (1906), \"Marriage Laws\": \"A daughter who was a minor could be given in marriage by her father; and such a marriage was valid.\" Puberty was defined as 12 for females. ([source](https://www.jewishencyclopedia.com/articles/10435-marriage-laws))"
       ]},
       { type: "p", text: "Betrothing women in their teens wasn't a fringe practice — it was **even MORE widespread than polygyny**. If this practice were sinful, if it made men perverts and pedophiles as your framework implies, **where is the rebuke?**" },
       { type: "h2", text: "Roman Law Makes This Even Worse for You" },
