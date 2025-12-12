@@ -534,6 +534,9 @@ const sections = [
         "**Pagan unions before conversion:** CAN be dissolved (Rahab's \"new beginning\")"
       ]},
       { type: "p", text: "If one-flesh is truly physical, why does it behave differently based on belief? Physics doesn't care if you're a Christian." },
+      { type: "p", text: "In another interview, you made this even more explicit — one-flesh is created even in unlawful unions:" },
+      { type: "quote", text: "You become one flesh with a prostitute but it's unlawful. You become one flesh with an unbeliever or a foreigner in Israel's circumstances — that's unlawful. So there's unlawful marriages... but the one flesh union was created. In other words they had intercourse, they created an unlawful marriage union.", source: "BTM Podcast (~00:30:12-00:31:05)" },
+      { type: "p", text: "Rich, you just admitted that one-flesh unions ARE created with unbelievers. You call them \"unlawful\" but acknowledge the union exists. Yet you also teach these unions CAN be dissolved — while believer unions cannot. **If one-flesh is physical and is created in both cases, why can one be dissolved and not the other?**" },
       { type: "h2", text: "The 1 Corinthians 7:10-11 Problem" },
       { type: "scripture", ref: "1 Corinthians 7:10-11 ", text: "But to the married I give instructions, not I, but the Lord, that the wife should not leave her husband (but if she does leave, **she must remain unmarried, or else be reconciled to her husband**), and that the husband should not divorce his wife." },
       { type: "p", text: "You quote this as a blanket prohibition on remarriage. But read it carefully. Paul addresses **a wife who LEFT her husband** — she initiated the separation. Her options: remain unmarried OR be reconciled. This makes sense — she left, so she should either return or stay single." },
@@ -688,6 +691,91 @@ const sections = [
   },
   {
     id: 14,
+    part: 1,
+    title: "The Forced Celibacy Contradiction",
+    subtitle: "You Condemn the Very Thing Your Framework Creates",
+    content: [
+      { type: "h2", text: "Let Me Be Clear About Who I'm Talking About" },
+      { type: "p", text: "Rich, before I make this argument, I need to be absolutely clear: **I am NOT talking about women who treacherously divorced their believing husbands.** A woman doesn't have the right to simply divorce her husband for any reason she pleases and then remarry. I'm not excusing that, and I'm not arguing for their freedom to remarry." },
+      { type: "p", text: "I AM talking about:" },
+      { type: "ul", items: [
+        "**Lawfully divorced women** — women whose husbands dealt treacherously with THEM (the Malachi 2 scenario), who were put away, whose husbands do not want them back, and who are not being provided for",
+        "**Believers who divorced in ignorance** — women or men who didn't understand what they were doing at the time, whose ex-spouses have since remarried, and who couldn't even reconcile now if they wanted to because the church enforces monogamy",
+        "**Women who remarried and are now widowed or divorced again** — women who cannot return to their first husband because Deuteronomy 24:4 forbids it as an abomination"
+      ]},
+      { type: "p", text: "These people represent a real and significant category. According to your framework, they are condemned to permanent celibacy with no path forward. That's who I'm asking about." },
+      { type: "h2", text: "Your Own Argument Against Forced Celibacy" },
+      { type: "p", text: "Rich, in a recent interview you made an extended argument against forced celibacy:" },
+      { type: "quote", text: "I don't believe the Bible forces anyone into celibacy. I think when Jesus talks about celibacy in Matthew 19 he says 'to the one who can receive it' — like there are people called to it. It shouldn't be forced upon anybody.", source: "BTM Podcast (~00:58:04-00:58:16)" },
+      { type: "quote", text: "I think that forced celibacy is not the answer. I think that it's actually unkind.", source: "BTM Podcast (~00:57:01-00:57:06)" },
+      { type: "p", text: "You argued that prohibiting women from marriage has serious spiritual consequences:" },
+      { type: "quote", text: "Women are literally prohibited from marriage and from childbearing and from fulfilling the divine mandate to procreate if we absolutely disallow and disavow polygamy.", source: "BTM Podcast (~00:56:15-00:56:24)" },
+      { type: "p", text: "You even tied childbearing to women's sanctification:" },
+      { type: "quote", text: "Paul states that childbearing for wives is part of their sanctification process... Yet women will be saved through childbearing if they continue in faith and love and holiness with self control.", source: "BTM Podcast (~00:55:51-00:56:11), referencing 1 Timothy 2:15" },
+      { type: "h2", text: "By Your Own Criteria, Your Framework Fails" },
+      { type: "p", text: "Rich, you say polygyny is the answer for the \"12 million women\" who cannot find husbands. But many of those 12 million ARE the lawfully divorced women and the believers who divorced in ignorance that I'm describing. Your framework excludes them from the very solution you're proposing." },
+      { type: "p", text: "By your own criteria, your framework for these people is:" },
+      { type: "ul", items: [
+        "**Forcing celibacy** — They must \"remain unmarried or be reconciled\" for life, but reconciliation is impossible when the ex-spouse has remarried and the church won't allow it — or when Torah itself forbids returning to the first husband (Deut 24:4)",
+        "**Prohibiting childbearing and violating the divine mandate** — By your interpretation, they cannot fulfill \"be fruitful and multiply\"",
+        "**Interfering with sanctification** — By your interpretation of 1 Timothy 2:15, childbearing is \"part of their sanctification process\"",
+        "**Being \"unkind\"** — Your own word for forced celibacy"
+      ]},
+      { type: "p", text: "**You condemn forced celibacy as unbiblical and unkind — then force it on these people through your framework.**" },
+      { type: "h2", text: "The Reclassification Sophistry" },
+      { type: "p", text: "Rich, I know you have an attempted escape valve: the 1 Timothy 5:8 \"reclassification.\" You've argued that if a believing husband fails to provide, he can be reclassified as an unbeliever (\"worse than an unbeliever\"), and then 1 Corinthians 7:15 applies — the woman is \"not bound.\"" },
+      { type: "p", text: "But your position is that one-flesh between believers cannot be dissolved by anything except death. So when Torah says in Exodus 21:10-11 that she \"shall go out free\" if he fails to provide — you say that doesn't dissolve the one-flesh bond for believers." },
+      { type: "p", text: "Yet you turn around and say: \"If he fails to provide, we can reclassify him as an unbeliever via 1 Timothy 5:8, and THEN she's free.\"" },
+      { type: "p", text: "Do you see the problem?" },
+      { type: "ul", items: [
+        "**Your claim:** One-flesh between believers cannot be dissolved (except by death)",
+        "**Your claim:** Divorce doesn't dissolve believer marriages",
+        "**Your claim:** If he fails to provide, he can be \"reclassified\" as an unbeliever",
+        "**Your claim:** Once reclassified, 1 Corinthians 7:15 applies and she's free"
+      ]},
+      { type: "p", text: "But wait — this is even more absurd than it first appears. You teach that believer/unbeliever unions are \"unlawful\" (though one-flesh is still created):" },
+      { type: "quote", text: "Unlawful unions would be a believer and unbeliever. If you don't know this, you need to get familiar with this... It's not blessed by God. It's not a lawful union.", source: "Divinity of Marriage presentation (~01:16:01-01:16:48)" },
+      { type: "p", text: "But if that's true, **Paul could not advise believers to stay married to their unbelieving spouses** (1 Cor 7:12-14). If such unions were truly unlawful, Paul would have to tell converts to divorce their unbelieving spouses — they couldn't remain in an unlawful union." },
+      { type: "p", text: "So which is it? If believer/unbeliever marriages are unlawful, Paul's advice is wrong. If Paul's advice is right, then simply \"reclassifying\" someone as an unbeliever doesn't make the marriage unlawful or dissolvable. **Your reclassification trick doesn't even work on its own terms.**" },
+      { type: "p", text: "And even if we set that aside: If failure to provide triggers reclassification, and reclassification allows freedom... then **failure to provide DOES dissolve believer marriages** — you've just added extra steps to get there. Why not simply accept what Torah plainly says? Exodus 21:10-11: if he doesn't provide food, clothing, or conjugal rights — **she goes out free.** Deuteronomy 24:1-2: if she has a writ of divorce — **she may remarry.**" },
+      { type: "p", text: "But here's the deeper problem: **this reclassification doesn't help the people I'm describing anyway.** The woman whose husband dealt treacherously with her and divorced her — he's already gone. He's not \"failing to provide\" in an ongoing marriage; he already PUT HER AWAY. Your reclassification trick requires an ongoing marriage. These people don't have ongoing marriages — they have certificates of divorce and ex-spouses who remarried." },
+      { type: "p", text: "So even your workaround doesn't provide an answer. They're still stuck." },
+      { type: "p", text: "And I find it curious, Rich: **I never hear you talk about forcing the man who is supposedly still bound to her to give her her conjugal rights, food, and clothing.** If he's still one-flesh with her — if the bond isn't dissolved — then his obligations under Exodus 21:10 continue. Where is your teaching on holding these men accountable? Where is your demand that they provide for the women they put away?" },
+      { type: "h2", text: "The Deuteronomy 24:4 Problem" },
+      { type: "p", text: "There's yet another category your framework cannot handle: the woman who was legitimately divorced, remarried, and is now either widowed or divorced again." },
+      { type: "p", text: "Consider this scenario: A woman is lawfully divorced by her first husband (he dealt treacherously with her). She later marries a second believing husband. Then that second husband dies — or he also divorces her." },
+      { type: "p", text: "Your answer for divorced women is \"remain unmarried or be reconciled\" (1 Cor 7:10-11). But reconciled to whom? Her first husband? **Torah explicitly forbids this:**" },
+      { type: "scripture", ref: "Deuteronomy 24:4", text: "Her former husband who sent her away is not allowed to take her again to be his wife, since she has been defiled; for that is an abomination before the LORD." },
+      { type: "p", text: "So \"be reconciled\" to the first husband is not just impossible — it's an **abomination**. Torah forbids it. That option is permanently off the table." },
+      { type: "p", text: "What about the second husband?" },
+      { type: "ul", items: [
+        "**If he died:** You would say she's NOT a widow — she was committing adultery with him, so his death doesn't free her.",
+        "**If he divorced her:** By your framework, she's supposedly still \"one-flesh\" with him AND still \"one-flesh\" with her first husband (since you claim believer divorce doesn't dissolve one-flesh). So she's bound to TWO men simultaneously?"
+      ]},
+      { type: "p", text: "On the first point, here's what you've taught:" },
+      { type: "quote", text: "Jesus taught and we affirm that if any man marries a divorced woman, he commits adultery with her... because she remains one flesh with her believing spouse until he dies.", source: "\"David's Two Wives\" (~00:04:38-00:05:16)" },
+      { type: "p", text: "By your framework, she's still bound to her first husband — whom she cannot return to (Deut 24:4). **She's trapped.**" },
+      { type: "p", text: "And here's the real bind: Even if she WANTED to reconcile with her first husband — even if HE wanted her back — **Torah says no.** It's an abomination. So your instruction to \"be reconciled\" is impossible for this woman. The only option left is \"remain unmarried\" — permanent celibacy for a woman who was lawfully divorced and holds a writ of divorce." },
+      { type: "p", text: "Rich, Torah itself removes the \"be reconciled\" option for this category of women. Your framework has no answer for them except forced celibacy — the very thing you call \"unkind.\"" },
+      { type: "h2", text: "Torah Is Simple. Your Framework Is a Mess." },
+      { type: "p", text: "Rich, look at the tangled mess your framework creates: reclassification workarounds, permanent one-flesh bonds that somehow don't require provision, women bound to two men simultaneously, reconciliation that's both required AND forbidden. It's a theological Gordian knot." },
+      { type: "p", text: "But Torah is simple: **If you have a writ of divorce, you can remarry. You just can't return to the first husband.** That's it. That's the whole rule. Deuteronomy 24:1-4 isn't complicated — it's straightforward." },
+      { type: "scripture", ref: "Deuteronomy 30:11-14", text: "For this commandment which I command you today is not too difficult for you, nor is it out of reach. It is not in heaven, that you should say, 'Who will go up to heaven for us to get it for us and make us hear it, that we may observe it?' Nor is it beyond the sea... But the word is very near you, in your mouth and in your heart, that you may observe it." },
+      { type: "p", text: "God said His commandments are **not too difficult**. They're near us. They're observable. So why does your framework require flow charts, reclassification workarounds, and theological gymnastics to navigate?" },
+      { type: "p", text: "Rich, do you remember why Jesus had to confront so much hypocrisy in His day? It was because the scribes and Pharisees had buried God's simple, observable commandments under layers of extra-biblical tradition and complication. They had made the law a burden instead of a blessing. Jesus rebuked them: \"You tie up heavy burdens and lay them on men's shoulders\" (Matt 23:4)." },
+      { type: "p", text: "I say this as a brother: **That is what your framework does.** It takes Torah's clear provision — a writ of divorce allows remarriage — and buries it under complications that trap people in impossible situations. The prostitute finds freedom. The believing sister finds a life sentence." },
+      { type: "p", text: "Why are we adding all of this complication instead of just doing what Torah plainly says? Why create a framework that traps people in impossible situations when God's Law provides a clear path forward?" },
+      { type: "p", text: "And Rich, answer me this: **Why is there redemption, and marriage, and procreation, and fruitfulness available to the prostitute who slept with 500 men — but not to one of your believing sisters who finds herself in this situation?**" },
+      { type: "p", text: "I'm not talking about a recalcitrant, unrepentant woman who treacherously divorced her husband and refuses to acknowledge any wrongdoing. I'm talking about women in these categories — women who either through no fault of their own OR through their own sin (which they've repented of) — find themselves trapped in an impossible situation according to your framework. Rahab gets a husband, children, and a place in the lineage of Messiah. But your believing sister who was put away, or who divorced in ignorance and repented? Permanent celibacy. How is that consistent?" },
+      { type: "p", text: "Rich, respectfully: **Your second wife got a second chance.** She came to Christ, married you, and God has blessed you with a beautiful child together. Praise God for that — I mean it sincerely. But under your framework, you are denying that same second chance to sisters in Christ who find themselves in these impossible situations. Why does Kristan get redemption, marriage, and fruitfulness, but the believing woman who was put away by a treacherous husband does not? **And as I've shown, you cannot logically say they can** — your framework doesn't allow for it, even though you think it does." },
+      { type: "h2", text: "You Cannot Have It Both Ways" },
+      { type: "p", text: "Either forced celibacy is acceptable — in which case, why use it as an argument FOR polygyny? Or forced celibacy is \"unkind\" and unbiblical — in which case, your framework for these divorced believers is unkind and unbiblical." },
+      { type: "p", text: "You said it yourself: \"It shouldn't be forced upon anybody.\" **Your own words condemn your own framework.**" }
+    ],
+    question: "You said: 'I don't believe the Bible forces anyone into celibacy. It shouldn't be forced upon anybody.' You called forced celibacy 'unkind.' Yet for the woman whose husband dealt treacherously with her — or for the believer who divorced in ignorance and whose ex-spouse has remarried — or for the woman who remarried and is now widowed or divorced again (and cannot return to her first husband per Deuteronomy 24:4) — your framework offers only permanent celibacy. By your own criteria, isn't that 'unkind'?"
+  },
+  {
+    id: 15,
     part: 2,
     title: "Torah Calls Her WIFE",
     subtitle: "Your Definitions Make Scripture Impossible to Enforce",
@@ -726,7 +814,7 @@ const sections = [
     question: "Deuteronomy 22:24 calls the betrothed na'ara his 'WIFE' (אִשְׁתּוֹ) and charges her with adultery. You say she's 'not a wife but a virgin' until 20. If she's not a wife, how can she commit adultery? Torah says she IS a wife. Who is correct — you or Moses?"
   },
   {
-    id: 15,
+    id: 16,
     part: 2,
     title: "Your Definitions Contradict Torah",
     subtitle: "Numbers 30 and Malachi 2 Both Destroy Your Framework",
@@ -755,7 +843,7 @@ const sections = [
     question: "Numbers 30 holds ne'urim women accountable for vows to God. Malachi 2:14 calls a woman married in her youth 'your wife by covenant.' How can ne'urim women be covenant-accountable but not marriage-accountable? God calls her 'wife by covenant' — why do you say she cannot be?"
   },
   {
-    id: 16,
+    id: 17,
     part: 2,
     title: "Your Own Argument Condemns You",
     subtitle: "The Silence That Defends Polygyny Also Destroys Your Age 20 Requirement",
@@ -807,7 +895,7 @@ const sections = [
     question: "You argue that Jesus's silence on polygyny — a practice ILLEGAL under Roman law but permitted by Torah — proves it remains lawful. But on marriage age, Torah specifies nothing, Jewish practice was to marry in the teens, and Roman law permitted marriage at 12. Jesus was equally silent. How can silence prove polygyny acceptable while the same silence condemns marriage before 20? Where does your 'age 20' standard come from if not Torah, Jewish practice, OR Roman law?"
   },
   {
-    id: 17,
+    id: 18,
     part: 2,
     title: "The Linguistic Argument Fails",
     subtitle: "Your ʾîš/ʾiššâ Argument Contradicts Your Own Definitions",
@@ -846,7 +934,7 @@ const sections = [
     question: "You say ʾiššâ means a woman 20+. But Deuteronomy 22:24 calls the na'ara (whom you define as under 20) his 'wife' (אֵשֶׁת, from ʾiššâ). How can both be true? Either the na'ara is 20+ (contradicting your definition) or ʾiššâ doesn't require age 20 (destroying your argument). Which is it?"
   },
   {
-    id: 18,
+    id: 19,
     part: 2,
     title: "The Missing Command",
     subtitle: "God Didn't Say It — In Torah OR Through Christ",
@@ -863,7 +951,7 @@ const sections = [
     question: "Where in Torah does it say 'A virgin shall not be married until age 20'? If this were God's standard, why didn't He state it explicitly — as He did for military service, temple tax, and Levitical duty? And why didn't Christ or the apostles correct the widespread practice of marrying women in their teens?"
   },
   {
-    id: 19,
+    id: 20,
     part: 2,
     title: "A Question About Mary",
     subtitle: "Your Census Argument Fails, and Your Framework Indicts Joseph and God",
@@ -924,7 +1012,7 @@ const sections = [
     question: "Your argument that Mary must have been 20+ because she 'participated in the census' fails — this was a ROMAN census for taxation that counted everyone including children, not the Israelite military census of Numbers 26:4. Luke even mentions she was 'with child' — was the unborn Jesus also 20+? And if Mary WAS under 20, does your framework make Joseph guilty of the very conduct you condemn, and portray God as initiating a union your framework classifies as immoral?"
   },
   {
-    id: 20,
+    id: 21,
     part: 2,
     title: "The False Witness",
     subtitle: "By Your Own Standard, You Are Bearing False Witness Against Your Brothers",
@@ -957,7 +1045,7 @@ const sections = [
     question: "You use Romans 4:15 ('where there is no law, there is no transgression') to defend polygyny. By that same principle, where is the Torah law against marrying an 18 or 19 year old? If there is none, then by your own standard, it is NOT a transgression — and calling these men 'pedophiles' is bearing false witness. What does Deuteronomy 19:18-19 say should happen to a false witness?"
   },
   {
-    id: 21,
+    id: 22,
     part: 2,
     title: "The Loophole You've Created",
     subtitle: "Your Framework Creates a Hunting Ground for Predators",
@@ -978,7 +1066,7 @@ const sections = [
     question: "Under your framework, what recourse does a father have if a man seduces his 19-year-old daughter? Exodus 22:16-17 requires the seducer to marry her AND pay the bride price — but you say she CAN'T be married until 20. The seducer walks free. How does your framework protect her?"
   },
   {
-    id: 22,
+    id: 23,
     part: 3,
     title: "The Irony",
     subtitle: "You Have Become What You Fight Against",
@@ -1048,7 +1136,7 @@ const sections = [
     question: "You accuse others of pursuing 'carnal interests' and 'perversions.' But whose framework gives men full freedom while binding permanent celibacy on divorced women and removing Torah's protections from young women? Whose framework forbids entire categories of women from marrying while accusing others of being 'doctrines of demons' for forbidding marriage? And whose framework allows predatory men to target 18- and 19-year-old women for sex with zero covenantal consequences — since, by your logic, no valid marriage can exist?"
   },
   {
-    id: 23,
+    id: 24,
     part: 3,
     title: "The Principles You're Violating",
     subtitle: "You Use These Rules for Polygyny — Why Not for Divorced Women?",
@@ -1109,7 +1197,7 @@ const sections = [
     question: "Your interpretation of Jesus's divorce teaching would require Jesus to have annulled Deuteronomy 24:2, Numbers 30:9, and Exodus 21:10-11 — making Him 'least in the kingdom' by His own words. Since that's impossible, doesn't your interpretation HAVE to be wrong? And if you continue teaching it, aren't YOU the one annulling commandments?"
   },
   {
-    id: 24,
+    id: 25,
     part: 3,
     title: "Final Summary",
     subtitle: "The Questions You Must Answer",
