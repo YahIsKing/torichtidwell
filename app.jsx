@@ -1148,7 +1148,7 @@ const sections = [
       { type: "h2", text: "On Your Own Standards" },
       { type: "ul", items: [
         "**Romans 4:15** — \"Where there is no law, there is no transgression.\" Apply your own standard.",
-        "**Mark 7:9, 13** — Jesus rebuked those who INVALIDATE the word of God. Your age 20 requirement invalidates Exodus 22:16-17.",
+        "**Mark 7:9, 13** — Jesus rebuked those who INVALIDATE the word of God. Your age 20 requirement invalidates Exodus 22:16-17, Deuteronomy 22:23-24, and Numbers 30:6-8. Your divorce positions invalidate Deuteronomy 24:2, Numbers 30:9, and Exodus 21:10-11.",
         "**1 Timothy 4:1-3** — You call monogamy-only a \"Doctrine of Demons\" for forbidding marriage. YOUR positions forbid more.",
         "**Matthew 5:19** — Your interpretation would make Christ an annuller of Torah. Since that's impossible, your interpretation must be wrong — and YOU are the one annulling commandments."
       ]},
