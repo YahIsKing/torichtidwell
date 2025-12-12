@@ -1159,9 +1159,9 @@ const sections = [
       { type: "p", text: "When you call marriage at 18-19 years old \"child marriage\" and a \"perversion,\" are you really willing to say that to your 18- and 19-year-old brothers and sisters in Messiah? Would you forbid a man and his wife married at 18 from membership in your church? Would you tell a young bride she's living in sin? These are real people, Rich — not abstractions. They are members of the body of Christ who have broken no law, civil or biblical." },
       { type: "p", text: "If I have erred in my understanding of these passages, I welcome correction. Show me from Torah where I am wrong. But if these arguments have merit — if Torah really does release the divorced woman, if there really is no age 20 marriage requirement — then I ask you to consider what it means to continue teaching otherwise." },
       { type: "p", text: "We who teach will be judged with greater strictness (James 3:1). That warning applies to both of us. May we both have the humility to be corrected by Scripture, and the courage to change when we have been shown to be wrong." },
-      { type: "p", text: "I offer this letter not as an attack, but as iron sharpening iron. Whatever wounds it may cause, let them be the faithful wounds of a friend (Proverbs 27:6)." }
-    ],
-    question: "Rich, I ask you to take these questions before the Lord in prayer. Search the Scriptures. If my arguments are wrong, show me where. But if they have merit, I trust you will have the integrity to reconsider — for the sake of the brothers and sisters affected by these teachings. Grace and peace to you, brother."
+      { type: "p", text: "I offer this letter not as an attack, but as iron sharpening iron. Whatever wounds it may cause, let them be the faithful wounds of a friend (Proverbs 27:6)." },
+      { type: "p", text: "Rich, I ask you to take these questions before the Lord in prayer. Search the Scriptures. If my arguments are wrong, show me where. But if they have merit, I trust you will have the integrity to reconsider — for the sake of the brothers and sisters affected by these teachings. Grace and peace to you, brother." }
+    ]
   }
 ];
 
