@@ -801,10 +801,10 @@ const sections = [
       { type: "p", text: "**You cannot use the argument from silence to defend polygyny and then reject it when the same logic — applied to an even MORE universally accepted practice — destroys your age 20 requirement.**" },
       { type: "h2", text: "A Note on Civil Law Today" },
       { type: "p", text: "To be absolutely clear: I am NOT advocating for marriage to anyone under the legal age in any jurisdiction today. I affirm Romans 13:1-7 and the importance of obeying civil law. This argument is about **historical practice at the time of Christ** and the glaring inconsistency in your methodology." },
-      { type: "p", text: "If Jesus's silence on polygyny (which contradicted Roman law but aligned with Torah) proves its acceptability, then His silence on teen marriage (which aligned with BOTH Torah's silence AND Roman law AND universal Jewish practice) proves it even more strongly. Your 'age 20' standard is foreign to Torah, Jewish practice, and Roman law alike." },
+      { type: "p", text: "If Jesus's silence on polygyny (which contradicted Roman law but aligned with Torah) proves its acceptability, then His silence on marriage before 20 (which aligned with BOTH Torah's silence AND Roman law AND universal Jewish practice) proves it even more strongly. Your 'age 20' standard is foreign to Torah, Jewish practice, and Roman law alike." },
       { type: "p", text: "**And consider the impossible situation your framework creates today:** A man lawfully married to an 18 or 19 year old woman under civil law — you claim he's a pedophile violating Torah and living in deep sin. Yet you offer absolutely NO Torah recourse or instructions on how to remedy it. Is he supposed to divorce her? Where does Torah command that? Is he supposed to wait until she turns 20 and then they're suddenly married? Where does Torah say that? You've created a 'sin' with no scriptural solution — because it isn't a sin at all." }
     ],
-    question: "You argue that Jesus's silence on polygyny — a practice ILLEGAL under Roman law but permitted by Torah — proves it remains lawful. But on marriage age, Torah specifies nothing, Jewish practice was to marry in the teens, and Roman law permitted marriage at 12. Jesus was equally silent. How can silence prove polygyny acceptable while the same silence condemns teen marriage? Where does your 'age 20' standard come from if not Torah, Jewish practice, OR Roman law?"
+    question: "You argue that Jesus's silence on polygyny — a practice ILLEGAL under Roman law but permitted by Torah — proves it remains lawful. But on marriage age, Torah specifies nothing, Jewish practice was to marry in the teens, and Roman law permitted marriage at 12. Jesus was equally silent. How can silence prove polygyny acceptable while the same silence condemns marriage before 20? Where does your 'age 20' standard come from if not Torah, Jewish practice, OR Roman law?"
   },
   {
     id: 17,
@@ -1140,10 +1140,10 @@ const sections = [
         "**Your Linguistic Argument Fails** — Deut 22:24 calls the na'ara his \"wife\" (אֵשֶׁת). Self-contradiction.",
         "**Numbers 30 Contradiction** — You say ne'urim are not covenant-accountable, but Torah holds them accountable for vows.",
         "**\"Wife of Your Youth\" (Malachi 2:14)** — God calls a woman married in her ne'urim \"your wife by covenant.\"",
-        "**Your Own Argument Condemns You** — Silence on polygyny = permitted. Silence on teen marriage = forbidden?",
+        "**Your Own Argument Condemns You** — Silence on polygyny = permitted. Silence on marriage before 20 = forbidden?",
         "**The False Witness** — You call men \"pedophiles\" for marrying legal adults who broke no law.",
         "**The Loophole** — Your framework leaves 18-19 year olds unprotected. Predators walk free.",
-        "**The Ancient Israel Irony** — You celebrate their fertility through polygyny while condemning teen marriage."
+        "**The Ancient Israel Irony** — You celebrate their fertility through polygyny while condemning marriage before 20."
       ]},
       { type: "h2", text: "On Your Own Standards" },
       { type: "ul", items: [
