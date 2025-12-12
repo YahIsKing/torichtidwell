@@ -1100,7 +1100,9 @@ const sections = [
         "You teach that Deuteronomy 24:2's permission no longer applies — **annulling it**",
         "You teach that Numbers 30:9's classification no longer applies — **annulling it**",
         "You teach that Exodus 21:10-11's freedom no longer applies — **annulling it**",
-        "Your age 20 requirement nullifies Exodus 22:16-17's protection for 18-19 year olds — **annulling it**"
+        "Your age 20 requirement nullifies Exodus 22:16-17's protection for 18-19 year olds — **annulling it**",
+        "Your age 20 requirement nullifies Deuteronomy 22:23-24's adultery statute for betrothed women under 20 — **annulling it**",
+        "Your age 20 requirement nullifies Numbers 30:6-8's provision for husbands to annul vows of women married in their youth — **annulling it**"
       ]},
       { type: "p", text: "Jesus said whoever annuls commandments and teaches others to do the same shall be called least in the kingdom. **These are His words, Rich. Not mine.** And your framework is doing exactly what He warned against — while claiming His authority to do it." }
     ],
