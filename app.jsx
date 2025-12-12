@@ -637,57 +637,6 @@ const sections = [
   {
     id: 13,
     part: 1,
-    title: "Israel and Judah",
-    subtitle: "God's Own Actions Prove the Certificate Releases",
-    scriptures: [
-      {
-        ref: "Jeremiah 3:7-8 (NASB95)",
-        text: "I thought, 'After she has done all these things **she will return to Me'; but she did not return**, and her treacherous sister Judah saw it. And I saw that for all the adulteries of faithless Israel, **I had sent her away and given her a writ of divorce**..."
-      },
-      {
-        ref: "Isaiah 50:1 (NASB95)",
-        text: "Thus says YHVH, '**Where is the certificate of divorce** by which I have sent your mother away?'"
-      }
-    ],
-    content: [
-      { type: "p", text: "God's treatment of Israel versus Judah proves everything about what the certificate accomplishes." },
-      { type: "h2", text: "The Same Greek Term in OT and NT" },
-      { type: "p", text: "The Septuagint (LXX) translates Jeremiah 3:8 using **βιβλίον ἀποστασίου** (biblion apostasiou) — \"certificate of divorce.\" This is the EXACT SAME Greek phrase Jesus and the Pharisees use in Matthew 19:7 and Mark 10:4. The terminology is consistent: the certificate God gave Israel is the same type of certificate Moses prescribed in Deuteronomy 24:1." },
-      { type: "h2", text: "Israel Had a Chance to Return — Before the Certificate" },
-      { type: "p", text: "Look at Jeremiah 3:7-8 carefully. The sequence matters:" },
-      { type: "ol", items: [
-        "Israel sinned — was a harlot",
-        "God offered reconciliation: \"she will return to Me\"",
-        "Israel refused: \"but she did not return\"",
-        "THEN God gave the writ: \"I had sent her away AND given her a writ of divorce\""
-      ]},
-      { type: "p", text: "**While still married, Israel could repent and return.** The certificate ended that possibility. Once given, Deuteronomy 24:4 applied — she could no longer return to her first husband after being joined to another." },
-      { type: "h2", text: "Judah Never Received a Certificate" },
-      { type: "p", text: "Isaiah 50:1 is addressed to Judah. God asks rhetorically: \"Where is your mother's certificate of divorce?\" The implied answer: There isn't one. I never gave her one." },
-      { type: "p", text: "Judah was \"sent away\" (exiled to Babylon) but never formally divorced. She remained in covenant — estranged, but not released." },
-      { type: "h2", text: "Different Status, Different Restoration" },
-      { type: "ul", items: [
-        "**Israel:** Certificate given → Fully released → Free to \"remarry\" (idolatry) → Deut 24:4 bars return → Requires Messiah's death for restoration",
-        "**Judah:** No certificate → Still bound (estranged) → Can return through repentance → No Deut 24:4 barrier"
-      ]},
-      { type: "scripture", ref: "Jeremiah 3:11 (NASB95)", text: "And YHVH said to me, '**Faithless Israel has proved herself more righteous than treacherous Judah.**'" },
-      { type: "p", text: "Why is Israel MORE righteous than Judah? Both sinned. But Israel's sin came AFTER being released. Judah's sin was treachery against an active covenant. The certificate changed their legal status before God." },
-      { type: "h2", text: "Your Framework Destroys This Theology" },
-      { type: "p", text: "If the certificate \"means nothing\":" },
-      { type: "ul", items: [
-        "Why did God give one to Israel but withhold it from Judah?",
-        "Why does God call Judah \"more treacherous\" if both are equally bound?",
-        "Why the different restoration paths if both are in the same legal status?",
-        "Why would Messiah need to die for Israel if she was never truly released?"
-      ]},
-      { type: "p", text: "**Your framework makes the certificate cruel, not protective.** It tells her she \"may go and become another man's wife\" (Deut 24:2) but claims if she does, she's committing adultery. That's a trap — false permission that damns her." },
-      { type: "p", text: "But Torah is not cruel. When God gave Israel a certificate, He was RELEASING her — genuinely, legally, actually. The certificate protected her from the treachery charge that Judah bore. **Your position turns God's merciful provision into a cruel deception.**" }
-    ],
-    question: "If the certificate accomplishes nothing, why did God give one to Israel but withhold it from Judah? Why does God call Israel 'more righteous' than 'treacherous' Judah if both are equally bound? Why do they have different restoration paths? Your framework erases a distinction God Himself made."
-  },
-  {
-    id: 14,
-    part: 1,
     title: "Where's the Mercy?",
     subtitle: "Even Your Allies See the Problem — And You Have No Answer",
     content: [
@@ -738,7 +687,7 @@ const sections = [
     question: "Pete Rambo asked you directly: 'Where's the mercy? Where's the grace?' For the believing woman divorced by a believing husband — not for adultery — what is your answer? You provided escape hatches for adulteresses, for women left by unbelievers, for converts — but for the faithful woman whose husband dealt treacherously with her, you offer only permanent celibacy. Is that mercy? Is that grace? Or is that punishing the victim?"
   },
   {
-    id: 15,
+    id: 14,
     part: 2,
     title: "Torah Calls Her WIFE",
     subtitle: "Your Definitions Make Scripture Impossible to Enforce",
@@ -777,7 +726,7 @@ const sections = [
     question: "Deuteronomy 22:24 calls the betrothed na'ara his 'WIFE' (אִשְׁתּוֹ) and charges her with adultery. You say she's 'not a wife but a virgin' until 20. If she's not a wife, how can she commit adultery? Torah says she IS a wife. Who is correct — you or Moses?"
   },
   {
-    id: 16,
+    id: 15,
     part: 2,
     title: "Your Definitions Contradict Torah",
     subtitle: "Numbers 30 and Malachi 2 Both Destroy Your Framework",
@@ -806,7 +755,7 @@ const sections = [
     question: "Numbers 30 holds ne'urim women accountable for vows to God. Malachi 2:14 calls a woman married in her youth 'your wife by covenant.' How can ne'urim women be covenant-accountable but not marriage-accountable? God calls her 'wife by covenant' — why do you say she cannot be?"
   },
   {
-    id: 17,
+    id: 16,
     part: 2,
     title: "Your Own Argument Condemns You",
     subtitle: "The Silence That Defends Polygyny Also Destroys Your Age 20 Requirement",
@@ -860,7 +809,7 @@ const sections = [
     question: "You argue that Jesus's silence on polygyny — a practice ILLEGAL under Roman law but permitted by Torah — proves it remains lawful. But on marriage age, Torah specifies nothing, Jewish practice was to marry in the teens, and Roman law permitted marriage at 12. Jesus was equally silent. How can silence prove polygyny acceptable while the same silence condemns teen marriage? Where does your 'age 20' standard come from if not Torah, Jewish practice, OR Roman law?"
   },
   {
-    id: 18,
+    id: 17,
     part: 2,
     title: "The Linguistic Argument Fails",
     subtitle: "Your ʾîš/ʾiššâ Argument Contradicts Your Own Definitions",
@@ -899,7 +848,7 @@ const sections = [
     question: "You say ʾiššâ means a woman 20+. But Deuteronomy 22:24 calls the na'ara (whom you define as under 20) his 'wife' (אֵשֶׁת, from ʾiššâ). How can both be true? Either the na'ara is 20+ (contradicting your definition) or ʾiššâ doesn't require age 20 (destroying your argument). Which is it?"
   },
   {
-    id: 19,
+    id: 18,
     part: 2,
     title: "The Missing Command",
     subtitle: "God Didn't Say It — In Torah OR Through Christ",
@@ -916,7 +865,7 @@ const sections = [
     question: "Where in Torah does it say 'A virgin shall not be married until age 20'? If this were God's standard, why didn't He state it explicitly — as He did for military service, temple tax, and Levitical duty? And why didn't Christ or the apostles correct the widespread practice of marrying women in their teens?"
   },
   {
-    id: 20,
+    id: 19,
     part: 2,
     title: "A Question About Mary",
     subtitle: "Your Census Argument Fails, and Your Framework Indicts Joseph and God",
@@ -977,7 +926,7 @@ const sections = [
     question: "Your argument that Mary must have been 20+ because she 'participated in the census' fails — this was a ROMAN census for taxation that counted everyone including children, not the Israelite military census of Numbers 26:4. Luke even mentions she was 'with child' — was the unborn Jesus also 20+? And if Mary WAS under 20, does your framework make Joseph guilty of the very conduct you condemn, and portray God as initiating a union your framework classifies as immoral?"
   },
   {
-    id: 21,
+    id: 20,
     part: 2,
     title: "The False Witness",
     subtitle: "By Your Own Standard, You Are Bearing False Witness Against Your Brothers",
@@ -1010,7 +959,7 @@ const sections = [
     question: "You use Romans 4:15 ('where there is no law, there is no transgression') to defend polygyny. By that same principle, where is the Torah law against marrying an 18 or 19 year old? If there is none, then by your own standard, it is NOT a transgression — and calling these men 'pedophiles' is bearing false witness. What does Deuteronomy 19:18-19 say should happen to a false witness?"
   },
   {
-    id: 22,
+    id: 21,
     part: 2,
     title: "The Loophole You've Created",
     subtitle: "Your Framework Creates a Hunting Ground for Predators",
@@ -1031,7 +980,7 @@ const sections = [
     question: "Under your framework, what recourse does a father have if a man seduces his 19-year-old daughter? Exodus 22:16-17 requires the seducer to marry her or pay bride price — but you say she CAN'T be married until 20. The seducer walks free. How does your framework protect her?"
   },
   {
-    id: 23,
+    id: 22,
     part: 3,
     title: "The Irony",
     subtitle: "You Have Become What You Fight Against",
@@ -1101,7 +1050,7 @@ const sections = [
     question: "You accuse others of pursuing 'carnal interests' and 'perversions.' But whose framework gives men full freedom while binding permanent celibacy on divorced women and removing Torah's protections from young women? Whose framework forbids entire categories of women from marrying while accusing others of being 'doctrines of demons' for forbidding marriage?"
   },
   {
-    id: 24,
+    id: 23,
     part: 3,
     title: "The Principles You're Violating",
     subtitle: "You Use These Rules for Polygyny — Why Not for Divorced Women?",
@@ -1160,7 +1109,7 @@ const sections = [
     question: "Your interpretation of Jesus's divorce teaching would require Jesus to have annulled Deuteronomy 24:2, Numbers 30:9, and Exodus 21:10-11 — making Him 'least in the kingdom' by His own words. Since that's impossible, doesn't your interpretation HAVE to be wrong? And if you continue teaching it, aren't YOU the one annulling commandments?"
   },
   {
-    id: 25,
+    id: 24,
     part: 3,
     title: "Final Summary",
     subtitle: "The Questions You Must Answer",
