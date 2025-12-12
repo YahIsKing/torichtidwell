@@ -1,4 +1,7 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, createContext, useContext } from 'react';
+
+// Navigation context for internal section links
+const NavigationContext = createContext(null);
 
 // ============================================
 // CONTENT DATA - Edit this to change content
@@ -676,9 +679,9 @@ const sections = [
       { type: "h2", text: "Your Other Categories Don't Help Either" },
       { type: "p", text: "And here's the thing, Rich: even those other categories you addressed — I've already demonstrated in this letter that your framework for them is logically incoherent:" },
       { type: "ul", items: [
-        "**Rahab and pre-conversion unions:** If conversion dissolves one-flesh, why does Paul tell the converted woman NOT to divorce her unbelieving husband (1 Cor 7:13)? Your \"new beginning\" doctrine contradicts Paul's instruction. (See Section 10)",
-        "**Women left by unbelievers:** You teach one-flesh is a \"physical state\" — but physical states don't change based on religious belief. Your framework requires one-flesh to behave differently for believers vs. unbelievers, which is logically impossible. (See Section 11)",
-        "**The \"reclassification\" escape valve:** If a believing husband can be \"reclassified\" as an unbeliever via 1 Timothy 5:8, the union was still FORMED between two believers. His later behavior doesn't travel back in time to change what kind of union was created. (See Section 11)"
+        "**Rahab and pre-conversion unions:** If conversion dissolves one-flesh, why does Paul tell the converted woman NOT to divorce her unbelieving husband (1 Cor 7:13)? Your \"new beginning\" doctrine contradicts Paul's instruction. ([See Section 10](#section-10))",
+        "**Women left by unbelievers:** You teach one-flesh is a \"physical state\" — but physical states don't change based on religious belief. Your framework requires one-flesh to behave differently for believers vs. unbelievers, which is logically impossible. ([See Section 11](#section-11))",
+        "**The \"reclassification\" escape valve:** If a believing husband can be \"reclassified\" as an unbeliever via 1 Timothy 5:8, the union was still FORMED between two believers. His later behavior doesn't travel back in time to change what kind of union was created. ([See Section 11](#section-11))"
       ]},
       { type: "p", text: "So even your escape hatches have escape hatches that don't work." },
       { type: "h2", text: "The Bottom Line" },
@@ -887,10 +890,40 @@ const sections = [
       { type: "p", text: "On polygyny, you say: \"Roman law prohibited it, but Torah permits it, and Jesus said nothing — so we follow Torah.\"" },
       { type: "p", text: "On marriage age: Torah specifies no minimum age. Jewish practice was to marry in the teens. Roman law permitted marriage at 12. Jesus said nothing. The apostles said nothing. **And yet you reject the unanimous witness of Torah's silence, Jewish practice, Roman law, AND apostolic silence to invent a standard that appears nowhere?**" },
       { type: "p", text: "**You cannot use the argument from silence to defend polygyny and then reject it when the same logic — applied to an even MORE universally accepted practice — destroys your age 20 requirement.**" },
+      { type: "h2", text: "The Israel Population Irony" },
+      { type: "p", text: "Rich, you regularly point to ancient Israel's population growth as **good fruit** of polygyny. You celebrate how \"God built Israel through Jacob and four wives\" and how Israel grew through procreation. You use this as evidence that polygyny is righteous." },
+      { type: "p", text: "But here's what you're missing: Ancient Israel achieved that population growth through polygyny **AND** through marrying women in their teens — not at age 20. The same practices you celebrate as \"good fruit\" included the very thing you now condemn as perversion. **You're celebrating the fruit while condemning half the tree that produced it.**" },
+      { type: "p", text: "If Israel's marriage practices produced good fruit, why do you condemn half of what they did? During all those centuries of population growth that you praise — Moses never said \"wait until 20.\" None of the prophets said it. The practice continued through the time of Christ, and He said nothing. The apostles said nothing. **The entire period of Israel's history that you point to as evidence of righteous fruit — no one ever established your age 20 requirement.**" },
+      { type: "h2", text: "Paul Had the Perfect Opportunity — And Didn't Say 'Age 20'" },
+      { type: "p", text: "Rich, consider 1 Corinthians 7:36-38, where Paul directly addresses the question of when a father should give his daughter in marriage:" },
+      { type: "scripture", ref: "1 Corinthians 7:36-38 (NASB95)", text: "But if any man thinks that he is acting unbecomingly toward his virgin daughter, if she is **past her youth** (ὑπέρακμος, hyperakmos), and if it must be so, let him do what he wishes, he does not sin; let them marry. But if any man stands firm in his heart, being under no constraint, but has authority over his own will, and has decided this in his own heart, to keep his own virgin daughter, he will do well. So then both he who **gives his own virgin daughter in marriage** (γαμίζω, gamizō) does well, and he who does not give her in marriage will do better." },
+      { type: "p", text: "Paul was writing to a Greek audience, addressing the exact question of marriage timing. **If age 20 was the biblical standard, this was the perfect moment for Paul to correct both the Jews and the Greeks — who were clearly both marrying before twenty.** Instead, Paul used **hyperakmos** — a term meaning \"past the bloom of youth\" or \"past sexual maturity.\"" },
+      { type: "p", text: "What does hyperakmos actually mean? The authoritative Greek lexicons are clear:" },
+      { type: "ul", items: [
+        "**Liddell-Scott-Jones (LSJ)**: \"ὑπέρακμον, **sexually well-developed**\" ([source](https://lsj.gr/wiki/ὑπέρακμος))",
+        "**Thayer's Greek Lexicon**: \"beyond the ἀκμή or bloom of life, past prime\" ([source](https://www.blueletterbible.org/lexicon/g5230/kjv/tr/0-1/))",
+        "**Strong's G5230**: From ὑπέρ (hyper, \"beyond\") + ἀκμή (akme, \"bloom/prime\"). Meaning: \"past the bloom of youth,\" referring to post-pubescent physical maturity. ([source](https://biblehub.com/greek/5230.htm))"
+      ]},
+      { type: "h2", text: "What Did 'Past Sexual Maturity' Mean in Paul's Era?" },
+      { type: "p", text: "We don't have to guess. **Soranus of Ephesus** was a Greek physician practicing in Rome during the reigns of Trajan and Hadrian (~98-138 AD) — a direct contemporary of the apostolic era. His *Gynecology* was the authoritative medical text on women's health for 1,500 years. In his chapter titled \"Up to What Time Females Should Be Kept Virgins,\" Soranus writes:" },
+      { type: "quote", text: "As a matter of fact in most instances the first appearance of menstruation takes place around the **14th year**. This age then is really the natural one indicating the time for defloration.", source: "Soranus, *Gynecology* 1.VIII (Temkin translation, p. 31)" },
+      { type: "p", text: "And in the very next chapter, \"How to Recognize Those Capable of Conception,\" he states:" },
+      { type: "quote", text: "One must judge the majority from the ages of **15 to 40** to be fit for conception, if they are not mannish, compact, and oversturdy, or too flabby and very moist.", source: "Soranus, *Gynecology* 1.IX (Temkin translation, p. 33)" },
+      { type: "p", text: "Rich, this is a Greek physician **contemporary with Paul** explicitly stating that age 14 is \"the natural one indicating the time for defloration\" and that ages 15-40 are fit for conception. **Not age 20.**" },
+      { type: "p", text: "When Paul used hyperakmos (\"past sexual maturity\") in 1 Corinthians 7:36, his Greek audience would have understood this the same way Soranus did — referring to post-pubescent physical maturity, which occurred around age 14. **No reasonable person in the medical field — ancient or modern — is going to argue that a woman has to be past age 20 to be 'beyond sexual maturity.'**" },
+      { type: "p", text: "**This is the final nail in the coffin.** Moses didn't say it. The prophets didn't say it. Christ didn't say it. And now we see that Paul — directly addressing the question of when a father should give his daughter in marriage — didn't say it either. He used a Greek medical term that his contemporaries understood to mean post-pubescent maturity around age 14-15. The Holy Spirit, inspiring Paul's pen, chose hyperakmos — not \"age 20.\"" },
+      { type: "p", text: "And even if we accept your interpretation — that this passage is about a man marrying his betrothed rather than a father giving his daughter — it still doesn't change the argument. Paul still didn't say \"age 20.\" He still used hyperakmos. He could have been specific. He wasn't. The argument stands either way." },
+      { type: "p", text: "Paul's advice here is clear: wait until your virgin daughter is fully developed, mature, and ready to be an actual wife before giving her in marriage. I agree with that principle completely. Just as a husband is to \"live with his wife in an understanding way\" (1 Peter 3:7), a father should live with his daughter in an understanding way — discerning when she is truly ready. There may well be scenarios where a particular young woman isn't ready for marriage until she's 22, 23, or even 25, depending on her psychological and emotional development. That's wisdom, and that's a father's role to discern. But we still can't say the age of marriage is 20 where God clearly does not, lest we introduce contradictions and irreconcilable errors in the Law." },
+      { type: "h2", text: "Brother, Have You Really Thought This Through?" },
+      { type: "p", text: "Rich, I want you to sit with this for a moment. Moses could have explicitly declared a minimum age for marriage — but he didn't. None of the prophets did. Christ didn't do it. None of the apostles did. Every single one of them had opportunities to establish this if it were important. None of them did." },
+      { type: "p", text: "Now, I understand your position is that you've pieced together various passages — census ages, military service, terminology — to construct an age 20 requirement. But that's exactly my point: you had to *construct* it. Moses never declared it. No inspired author ever stated it plainly. You're the one assembling the pieces into a doctrine that the text itself never explicitly teaches." },
+      { type: "p", text: "Brother, I'm not trying to be harsh here. I'm asking you to honestly consider: if this requirement were as clear and important as you make it out to be, why did God leave it for you to piece together? Why didn't Moses just say it? Why didn't any prophet, apostle, or Christ Himself simply state it? That's worth reflecting on." },
       { type: "h2", text: "A Note on Civil Law Today" },
       { type: "p", text: "To be absolutely clear: I am NOT advocating for marriage to anyone under the legal age in any jurisdiction today. I affirm Romans 13:1-7 and the importance of obeying civil law. This argument is about **historical practice at the time of Christ** and the glaring inconsistency in your methodology." },
-      { type: "p", text: "If Jesus's silence on polygyny (which contradicted Roman law but aligned with Torah) proves its acceptability, then His silence on marriage before 20 (which aligned with BOTH Torah's silence AND Roman law AND universal Jewish practice) proves it even more strongly. Your 'age 20' standard is foreign to Torah, Jewish practice, and Roman law alike." },
-      { type: "p", text: "**And consider the impossible situation your framework creates today:** A man lawfully married to an 18 or 19 year old woman under civil law — you claim he's a pedophile violating Torah and living in deep sin. Yet you offer absolutely NO Torah recourse or instructions on how to remedy it. Is he supposed to divorce her? Where does Torah command that? Is he supposed to wait until she turns 20 and then they're suddenly married? Where does Torah say that? You've created a 'sin' with no scriptural solution — because it isn't a sin at all." }
+      { type: "p", text: "**But it is sinful for you to slander your brothers and sisters in Christ who are violating no civil or Torah law by marrying a fully mature 18- or 19-year-old woman.** They are obeying civil law. They are obeying Torah. And you are calling them pedophiles and perverts. That is bearing false witness." },
+      { type: "p", text: "And it's not just the husband and wife you're slandering. The father who gives his daughter in marriage at 18 or 19 — is he a pervert? The family and friends who attend the wedding — are they accomplices to child abuse? The pastor or elder who officiates — is he enabling predation? The judge or civil authority who signs the marriage license — is he a child predator for authorizing the union? **By your logic, yes.** Everyone involved in a perfectly lawful, Torah-compliant marriage is somehow participating in wickedness. Do you hear how absurd this sounds?" },
+      { type: "p", text: "**And consider the impossible situation your framework creates today:** A man lawfully married to an 18 or 19 year old woman under civil law — you claim he's a pedophile violating Torah and living in deep sin. Yet you offer absolutely NO Torah recourse or instructions on how to remedy it. Is he supposed to divorce her? Where does Torah command that? Is he supposed to wait until she turns 20 and then they're suddenly married? Where does Torah say that? You've created a 'sin' with no scriptural solution — because it isn't a sin at all." },
+      { type: "p", text: "So while your framework affords you the protection of no one being able to even remotely accuse you of being interested in anybody under 20 — and I can understand why you would want that protection, given some of the disgusting accusations I've seen leveled against you, accusations I have personally stepped up to defend you against — it offers 18- and 19-year-old sisters in Christ absolutely no protection. Protection from predators and actual evil men who would use your framework and the civil law combined to prey on them. Torah's protections in Exodus 22:16-17 and Deuteronomy 22:28-29 apply to these young women — but your framework renders those protections unenforceable for them. You've protected yourself while leaving them exposed." }
     ],
     question: "You argue that Jesus's silence on polygyny — a practice ILLEGAL under Roman law but permitted by Torah — proves it remains lawful. But on marriage age, Torah specifies nothing, Jewish practice was to marry in the teens, and Roman law permitted marriage at 12. Jesus was equally silent. How can silence prove polygyny acceptable while the same silence condemns marriage before 20? Where does your 'age 20' standard come from if not Torah, Jewish practice, OR Roman law?"
   },
@@ -1098,7 +1131,7 @@ const sections = [
         "Permanent bondage even if husband abandoned obligations"
       ]},
       { type: "p", text: "Paul says it's \"better to marry than to burn.\" What is your answer for the legitimately divorced 25-year-old woman who lacks the gift of celibacy? You've told her she cannot remarry for perhaps 40+ years. **You have removed Paul's remedy and created a pressure cooker for sin.**" },
-      { type: "p", text: "**Every ambiguity in your framework resolves in favor of male freedom and against female protection.** So who is really pursuing \"carnal interests\"?" },
+      { type: "p", text: "**Every ambiguity in your framework resolves in favor of male freedom and against female protection.** Couldn't one make the argument against you here that your framework is supporting the carnal interests of males?" },
       { type: "h2", text: "The Double Standard" },
       { type: "p", text: "You spend nearly every day defending polygyny against \"enforced monogamy\" Christians. Your primary argument? **\"Where there is no law, there also is no violation\" (Romans 4:15).** You rightly point out that Torah never prohibits a man from having multiple wives, so calling it sin is ADDING to Scripture." },
       { type: "p", text: "**And yet you are doing the exact same thing to divorced women and to those who marry women under 20.**" },
@@ -1118,9 +1151,7 @@ const sections = [
       { type: "p", text: "Rich, how many of those 12 million women are divorced? You use this surplus to promote polygyny — arguing these women NEED polygyny to find husbands. But simultaneously, your framework teaches that most divorced believing women **can never remarry at all**." },
       { type: "p", text: "**You cannot have both.** YOUR framework denies divorced women remarriage. YOUR framework removes Torah's protections from women under 20. Who is really denying women marriage?" },
       { type: "h2", text: "The Ancient Israel Irony" },
-      { type: "p", text: "You hold up ancient Israel's practices as **good fruit** — their population growth through polygyny. But ancient Israel achieved that growth through polygyny AND through marrying women in their teens — not at age 20." },
-      { type: "p", text: "If ancient Israel's marriage practices produced good fruit, why do you condemn half of what they did? If marrying women under 20 was sinful, why didn't Christ or the apostles correct it? They corrected handwashing, Corban, Sabbath legalism, and divorce practices — but not this?" },
-      { type: "p", text: "**You're celebrating the fruit while condemning half the tree that produced it.**" },
+      { type: "p", text: "As I covered in detail earlier ([Section 17](#section-17)), you hold up ancient Israel's population growth as **good fruit** — but that growth came through polygyny AND marrying women in their teens. **You're celebrating the fruit while condemning half the tree that produced it.**" },
       { type: "h2", text: "The Doctrines of Demons Irony" },
       { type: "p", text: "You cite 1 Timothy 4:1-3 to call monogamy-only teaching a \"Doctrine of Demons.\" Let's look at what it says:" },
       { type: "scripture", ref: "1 Timothy 4:1-3 ", text: "But the Spirit explicitly says that in later times some will fall away from the faith, paying attention to deceitful spirits and doctrines of demons, by means of the hypocrisy of liars seared in their own conscience as with a branding iron, men who **forbid marriage**..." },
@@ -1199,6 +1230,27 @@ const sections = [
   {
     id: 25,
     part: 3,
+    title: "Your Brothers See the Problem",
+    subtitle: "Why Are Torah-Observant Believers Pushing Back?",
+    content: [
+      { type: "p", text: "Rich, you've said publicly:" },
+      { type: "quote", text: "I'm pro polygamy obviously but I'm against child brides... I've frustrated quite a few within the polygamy movement.", source: "BTM Podcast Part 1 (~00:17:43-00:18:40)" },
+      { type: "p", text: "You went on to explain you're \"very against three specific practices\": (1) child brides — claiming the age of adulthood is 20, (2) homosexuality between wives, and (3) marrying women \"one-flesh with a believer\" — your divorce/remarriage position. So you acknowledge that BOTH your age 20 requirement AND your divorce/remarriage teaching are causing pushback." },
+      { type: "p", text: "As for the second issue — homosexuality between wives — I've pushed back on that as well because it's yet another example of adding to Torah where Scripture is silent. I have multiple outstanding public questions to you on this topic that remain unanswered. But frankly, you're trying to solve a problem that only you think is a problem — without proving it from Scripture. It's a problem we don't have. And it comes across as meddling in the personal marriages of others and judging the servant of another (Romans 14:4), where you have no more business than you would telling a man how to teach or lead his wife in any other area where Scripture is silent. Where Scripture doesn't speak, we don't need to speak. The age 20 and divorce/remarriage issues affect far more people, so that's where I've focused this letter." },
+      { type: "p", text: "Let's be clear: **No one with any significant voice is promoting child brides.** Every single man I have spoken to in this space is adamantly against the idea of actual child brides. So I'm not sure who you're fighting against. No one is arguing that anyone should violate civil marriage laws. If you had simply said, \"I believe we should obey the laws of the land regarding marriage age,\" there would be no issue." },
+      { type: "p", text: "The problem is that **you claimed this is Torah law.** And that forces us to respond — not because we want to defend \"child marriage,\" but because we have to defend Torah against an addition that isn't there. Torah doesn't defend child marriage, and neither do any of the Scriptures. **The problem is you've redefined what a child is.** An 18- or 19-year-old woman is not a child by any biblical, historical, or legal standard." },
+      { type: "p", text: "And it's not just the age requirement. You've redefined a divorced woman as a married woman and trapped her in permanent celibacy — despite Torah explicitly saying she has no husband (Numbers 30:9), may become another man's wife (Deuteronomy 24:2), and goes out free if neglected (Exodus 21:10-11). As I demonstrated in [Section 2](#section-2) and following, your framework contradicts the very texts you claim to uphold." },
+      { type: "p", text: "Here's why this matters: The same hermeneutic that defends polygyny — \"where there is no law, there is no transgression\" (Romans 4:15), \"do not add to or take away\" (Deuteronomy 4:2) — **is the same hermeneutic that exposes your age 20 requirement as an addition.** If we let your addition stand unchallenged, we undermine the very foundation we use to defend polygyny. If you can just make up Torah requirements, so can the \"one wife\" crowd. You've shown them how." },
+      { type: "p", text: "So when your brothers push back, they're not pushing back because they want to marry children. They're pushing back because **you're holding a standard for polygyny that you're not holding for yourself on these other issues.** We're applying YOUR hermeneutic to YOUR positions — and they don't hold up." },
+      { type: "p", text: "As I demonstrated in [Section 17](#section-17), Paul directly addressed marriage timing in 1 Corinthians 7:36-38 and used hyperakmos — \"past the bloom of youth\" — not \"age 20.\" Your brothers have seen this evidence. They're not antinomians looking for license to sin. They're Torah-observant believers holding you to your own standard." },
+      { type: "p", text: "Rich, I encourage you to consider the intent of the enemy, who would love nothing more than to use you to cause division among brothers over something that isn't even in Torah. Even if your intent is good, consider whether the fruit is from Him — or whether it's fear-based, and not from Him at all." },
+      { type: "p", text: "We're not your enemies. We're brothers who want to see you succeed. But we can't stand by silently while you bind burdens on people that Torah does not bind — **the very thing you rightly criticize others for doing to you on polygyny.**" }
+    ],
+    question: "You've received pushback from Torah-observant believers who agree with you on polygyny but reject your positions on divorce/remarriage and age 20. They're applying the same 'do not add, do not take away' standard that you use to defend polygyny. If your own brothers — using your own hermeneutic — see these positions as additions to Torah, why are you unwilling to reconsider them?"
+  },
+  {
+    id: 26,
+    part: 3,
     title: "Final Summary",
     subtitle: "The Questions You Must Answer",
     scriptures: [
@@ -1267,7 +1319,7 @@ const closing = {
 // ============================================
 
 // Parse markdown-style bold text
-const parseText = (text) => {
+const parseText = (text, onSectionClick) => {
   if (!text) return null;
   // Handle ***bold italic***, **bold**, and [link](url)
   const parts = text.split(/(\*\*\*.*?\*\*\*|\*\*.*?\*\*|\[.*?\]\(.*?\))/g);
@@ -1281,22 +1333,42 @@ const parseText = (text) => {
     // Handle markdown links [text](url)
     const linkMatch = part.match(/^\[(.*?)\]\((.*?)\)$/);
     if (linkMatch) {
-      return <a key={i} href={linkMatch[2]} target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 underline">{linkMatch[1]}</a>;
+      const linkText = linkMatch[1];
+      const linkUrl = linkMatch[2];
+      // Check if it's an internal section link
+      const sectionMatch = linkUrl.match(/^#section-(\d+)$/);
+      if (sectionMatch && onSectionClick) {
+        const sectionId = parseInt(sectionMatch[1], 10);
+        return (
+          <button
+            key={i}
+            onClick={() => onSectionClick(sectionId)}
+            className="text-amber-700 hover:text-amber-900 underline cursor-pointer bg-transparent border-none p-0 font-inherit"
+          >
+            {linkText}
+          </button>
+        );
+      }
+      // External link
+      return <a key={i} href={linkUrl} target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 underline">{linkText}</a>;
     }
     return part;
   });
 };
 
-const Scripture = ({ reference, text }) => (
-  <div className="my-8 p-6 border border-orange-100 rounded-lg bg-orange-50/50">
-    <span className="font-sans text-[10px] font-semibold uppercase tracking-wider text-orange-400 block mb-3">
-      {reference}
-    </span>
-    <p className="font-serif text-lg italic leading-relaxed text-gray-800 m-0">
-      {parseText(text)}
-    </p>
-  </div>
-);
+const Scripture = ({ reference, text }) => {
+  const goToSection = useContext(NavigationContext);
+  return (
+    <div className="my-8 p-6 border border-orange-100 rounded-lg bg-orange-50/50">
+      <span className="font-sans text-[10px] font-semibold uppercase tracking-wider text-orange-400 block mb-3">
+        {reference}
+      </span>
+      <p className="font-serif text-lg italic leading-relaxed text-gray-800 m-0">
+        {parseText(text, goToSection)}
+      </p>
+    </div>
+  );
+};
 
 const Quote = ({ text, source }) => (
   <div className="my-8 p-6 border border-gray-200 rounded-lg">
@@ -1310,16 +1382,19 @@ const Quote = ({ text, source }) => (
   </div>
 );
 
-const Question = ({ text }) => (
-  <div className="my-10 p-7 bg-gray-50 border border-gray-600 rounded-lg">
-    <span className="font-sans text-[10px] font-semibold uppercase tracking-wider text-gray-900 block mb-3">
-      My Question
-    </span>
-    <p className="font-serif text-lg font-medium leading-relaxed text-gray-900 m-0">
-      {parseText(text)}
-    </p>
-  </div>
-);
+const Question = ({ text }) => {
+  const goToSection = useContext(NavigationContext);
+  return (
+    <div className="my-10 p-7 bg-gray-50 border border-gray-600 rounded-lg">
+      <span className="font-sans text-[10px] font-semibold uppercase tracking-wider text-gray-900 block mb-3">
+        My Question
+      </span>
+      <p className="font-serif text-lg font-medium leading-relaxed text-gray-900 m-0">
+        {parseText(text, goToSection)}
+      </p>
+    </div>
+  );
+};
 
 const Note = ({ title, content }) => (
   <div className="my-6 p-5 bg-gray-50 border-l-2 border-gray-500">
@@ -1329,9 +1404,11 @@ const Note = ({ title, content }) => (
 );
 
 const ContentBlock = ({ block }) => {
+  const goToSection = useContext(NavigationContext);
+  
   switch (block.type) {
     case 'p':
-      return <p className="font-serif text-lg leading-relaxed text-gray-800 mb-6">{parseText(block.text)}</p>;
+      return <p className="font-serif text-lg leading-relaxed text-gray-800 mb-6">{parseText(block.text, goToSection)}</p>;
     case 'h2':
       return <h2 className="font-serif text-2xl font-normal italic text-gray-900 mt-12 mb-6">{block.text}</h2>;
     case 'ul':
@@ -1339,7 +1416,7 @@ const ContentBlock = ({ block }) => {
         <ul className="my-6 ml-6 space-y-3">
           {block.items.map((item, i) => (
             <li key={i} className="font-serif text-lg leading-relaxed text-gray-800">
-              {parseText(item)}
+              {parseText(item, goToSection)}
             </li>
           ))}
         </ul>
@@ -1349,7 +1426,7 @@ const ContentBlock = ({ block }) => {
         <ol className="my-6 ml-6 space-y-3 list-decimal">
           {block.items.map((item, i) => (
             <li key={i} className="font-serif text-lg leading-relaxed text-gray-800">
-              {parseText(item)}
+              {parseText(item, goToSection)}
             </li>
           ))}
         </ol>
@@ -1373,7 +1450,7 @@ const ContentBlock = ({ block }) => {
             {block.ref}
           </span>
           <p className="font-serif text-base leading-relaxed text-gray-700">
-            {parseText(block.text)}
+            {parseText(block.text, goToSection)}
           </p>
         </div>
       );
@@ -1458,7 +1535,9 @@ const SectionView = ({ section, onNext, onPrev, isLast, nextTitle }) => {
   );
 };
 
-const IntroView = ({ onStart }) => (
+const IntroView = ({ onStart }) => {
+  const goToSection = useContext(NavigationContext);
+  return (
   <div className="min-h-screen py-16 px-6 lg:px-12">
     <div className="max-w-2xl mx-auto">
       {/* Header */}
@@ -1498,7 +1577,7 @@ const IntroView = ({ onStart }) => (
           {introduction.twoArguments.map((arg, i) => (
             <div key={i} className="p-6 border border-gray-200 rounded-lg">
               <h3 className="font-serif text-lg font-semibold text-gray-900 mb-3">{arg.title}</h3>
-              <p className="font-serif text-base leading-relaxed text-gray-600">{parseText(arg.summary)}</p>
+              <p className="font-serif text-base leading-relaxed text-gray-600">{parseText(arg.summary, goToSection)}</p>
             </div>
           ))}
         </div>
@@ -1527,7 +1606,8 @@ const IntroView = ({ onStart }) => (
       </div>
     </div>
   </div>
-);
+  );
+};
 
 const ClosingView = ({ onPrev, onRestart }) => (
   <div className="min-h-screen py-16 px-6 lg:px-12">
@@ -1588,7 +1668,7 @@ const ClosingView = ({ onPrev, onRestart }) => (
 // ============================================
 
 export default function App() {
-  const [currentSection, setCurrentSection] = useState(0); // 0 = intro, 1-24 = sections, 25 = closing
+  const [currentSection, setCurrentSection] = useState(0); // 0 = intro, 1-25 = sections, 26 = closing
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   useEffect(() => {
@@ -1617,6 +1697,7 @@ export default function App() {
   };
 
   return (
+    <NavigationContext.Provider value={goToSection}>
     <div className="bg-white min-h-screen flex">
       {/* Mobile Header */}
       <div className="lg:hidden fixed top-0 left-0 right-0 z-50 bg-white border-b border-gray-200 px-4 py-3 flex items-center justify-between">
@@ -1727,5 +1808,6 @@ export default function App() {
         )}
       </main>
     </div>
+    </NavigationContext.Provider>
   );
 }
