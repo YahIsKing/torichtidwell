@@ -1292,7 +1292,7 @@ const ContentBlock = ({ block }) => {
   }
 };
 
-const SectionView = ({ section, onNext, onPrev, isFirst, isLast, nextTitle }) => {
+const SectionView = ({ section, onNext, onPrev, isLast, nextTitle }) => {
   const part = parts.find(p => p.id === section.part);
   
   return (
@@ -1498,10 +1498,16 @@ const ClosingView = ({ onPrev, onRestart }) => (
 // ============================================
 
 export default function App() {
-  const [currentSection, setCurrentSection] = useState(0); // 0 = intro, 1-23 = sections, 24 = closing
+  const [currentSection, setCurrentSection] = useState(0); // 0 = intro, 1-24 = sections, 25 = closing
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   useEffect(() => {
     window.scrollTo(0, 0);
+  }, [currentSection]);
+
+  // Close mobile menu when section changes
+  useEffect(() => {
+    setMobileMenuOpen(false);
   }, [currentSection]);
 
   const handleNext = () => {
@@ -1522,11 +1528,41 @@ export default function App() {
 
   return (
     <div className="bg-white min-h-screen flex">
-      {/* Sidebar - Always visible */}
-      <aside className="fixed top-0 left-0 h-full w-80 bg-gray-50 border-r border-gray-200 overflow-y-auto flex-shrink-0">
+      {/* Mobile Header */}
+      <div className="lg:hidden fixed top-0 left-0 right-0 z-50 bg-white border-b border-gray-200 px-4 py-3 flex items-center justify-between">
+        <div onClick={() => goToSection(0)} className="cursor-pointer">
+          <h1 className="font-serif text-lg font-semibold text-gray-900">Iron Sharpens Iron</h1>
+        </div>
+        <button
+          onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+          className="p-2 rounded-lg hover:bg-gray-100 transition-colors"
+          aria-label="Toggle menu"
+        >
+          {mobileMenuOpen ? (
+            <svg className="w-6 h-6 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+            </svg>
+          ) : (
+            <svg className="w-6 h-6 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+            </svg>
+          )}
+        </button>
+      </div>
+
+      {/* Mobile Menu Overlay */}
+      {mobileMenuOpen && (
+        <div
+          className="lg:hidden fixed inset-0 bg-black/50 z-40"
+          onClick={() => setMobileMenuOpen(false)}
+        />
+      )}
+
+      {/* Sidebar - Hidden on mobile, visible on desktop */}
+      <aside className={`fixed top-0 left-0 h-full w-80 bg-gray-50 border-r border-gray-200 overflow-y-auto flex-shrink-0 z-50 transform transition-transform duration-300 ease-in-out ${mobileMenuOpen ? 'translate-x-0' : '-translate-x-full'} lg:translate-x-0`}>
         <div className="p-5">
           {/* Logo/Title */}
-          <div 
+          <div
             className="mb-6 cursor-pointer"
             onClick={() => goToSection(0)}
           >
@@ -1578,7 +1614,7 @@ export default function App() {
       </aside>
 
       {/* Main Content */}
-      <main className="ml-80 flex-1">
+      <main className="lg:ml-80 flex-1 pt-14 lg:pt-0">
         {currentSection === 0 && (
           <IntroView onStart={goToSection} />
         )}
@@ -1588,7 +1624,6 @@ export default function App() {
             section={sections[currentSection - 1]}
             onNext={handleNext}
             onPrev={handlePrev}
-            isFirst={currentSection === 1}
             isLast={currentSection === sections.length}
             nextTitle={sections[currentSection]?.title || 'Conclusion'}
           />
