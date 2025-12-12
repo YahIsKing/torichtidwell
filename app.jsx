@@ -61,7 +61,7 @@ const sections = [
     },
     scriptures: [
       {
-        ref: "Numbers 30:9 (NASB95)",
+        ref: "Numbers 30:9 ",
         text: "But the vow of a widow or of a **divorced woman**, everything by which she has bound herself, **shall stand against her**."
       }
     ],
@@ -98,7 +98,7 @@ const sections = [
     subtitle: "If He Doesn't Provide, She Goes Out Free",
     scriptures: [
       {
-        ref: "Exodus 21:10-11 (NASB95)",
+        ref: "Exodus 21:10-11 ",
         text: "If he takes to himself another woman, he may not reduce her food, her clothing, or **her conjugal rights**. If he will not do these three things for her, then **she shall go out for nothing, without payment of money**."
       }
     ],
@@ -131,11 +131,11 @@ const sections = [
     subtitle: "Why Specify \"Never\" If Divorce Is Always Impossible?",
     scriptures: [
       {
-        ref: "Deuteronomy 22:19 (NASB95)",
+        ref: "Deuteronomy 22:19 ",
         text: "And they shall fine him a hundred shekels of silver... and she shall remain his wife; **he cannot divorce her all his days**."
       },
       {
-        ref: "Deuteronomy 22:29 (NASB95)",
+        ref: "Deuteronomy 22:29 ",
         text: "...and she shall become his wife because he has violated her; **he cannot divorce her all his days**."
       }
     ],
@@ -163,11 +163,11 @@ const sections = [
     subtitle: "Why Prohibit Priests From Marrying Divorced Women If No One Can?",
     scriptures: [
       {
-        ref: "Leviticus 21:7 (NASB95)",
+        ref: "Leviticus 21:7 ",
         text: "They shall not take a woman who is profaned by harlotry, nor shall they take **a woman divorced from her husband**; for he is holy to his God."
       },
       {
-        ref: "Leviticus 21:14 (NASB95)",
+        ref: "Leviticus 21:14 ",
         text: "A widow, or a divorced woman, or one who is profaned by harlotry, these he may not take; but rather he is to marry **a virgin** of his own people."
       }
     ],
@@ -203,7 +203,7 @@ const sections = [
       { type: "h2", text: "Why Not the High Priest Standard?" },
       { type: "p", text: "Rich, there's another glaring problem with your \"royal priesthood\" argument. You appeal to Leviticus 21:7 — the **regular priest** standard — to prohibit marrying divorced women. But why stop there?" },
       { type: "p", text: "If we are truly a \"royal priesthood\" and should pursue the highest level of purity, shouldn't we look to the **high priest** standard?" },
-      { type: "scripture", ref: "Leviticus 21:13-14 (NASB95)", text: "He [the high priest] shall take a wife **in her virginity**. A widow, or a divorced woman, or one who is profaned by harlotry, these he may not take; but rather he is to marry **a virgin of his own people**." },
+      { type: "scripture", ref: "Leviticus 21:13-14 ", text: "He [the high priest] shall take a wife **in her virginity**. A widow, or a divorced woman, or one who is profaned by harlotry, these he may not take; but rather he is to marry **a virgin of his own people**." },
       { type: "p", text: "The high priest — the highest standard of priestly purity — could ONLY marry:" },
       { type: "ul", items: [
         "**A virgin** — not a widow, not divorced, not a former prostitute",
@@ -233,7 +233,7 @@ const sections = [
     subtitle: "If Divorce Accomplishes Nothing, Did God Do Something Meaningless?",
     scriptures: [
       {
-        ref: "Jeremiah 3:8 (NASB95)",
+        ref: "Jeremiah 3:8 ",
         text: "And I saw that for all the adulteries of faithless Israel, I had **sent her away and given her a writ of divorce**, yet her treacherous sister Judah did not fear."
       }
     ],
@@ -241,12 +241,12 @@ const sections = [
       { type: "p", text: "Rich, God Himself gave Israel a certificate of divorce. God used the same mechanism described in Deuteronomy 24:1. If divorce \"does not dissolve\" the covenant as you claim, then what did God do here? Did God perform a meaningless ritual?" },
       { type: "h2", text: "The Sequence Matters" },
       { type: "p", text: "Look carefully at what Jeremiah 3:7-8 tells us:" },
-      { type: "scripture", ref: "Jeremiah 3:7-8 (NASB95)", text: "I thought, 'After she has done all these things **she will return to Me**'; but she did not return... And I saw that for all the adulteries of faithless Israel, **I had sent her away and given her a writ of divorce**." },
+      { type: "scripture", ref: "Jeremiah 3:7-8 ", text: "I thought, 'After she has done all these things **she will return to Me**'; but she did not return... And I saw that for all the adulteries of faithless Israel, **I had sent her away and given her a writ of divorce**." },
       { type: "p", text: "God expected Israel to return. While released, she was SUPPOSED to come back. Her sin during this period — though real — was the sin of a released woman. But she did not return. Instead, she \"joined\" other gods." },
       { type: "p", text: "**Once Israel joined others, Deuteronomy 24:4 kicked in.** Now she CANNOT return to her first husband. That open door was closed." },
       { type: "h2", text: "Compare This to Judah" },
       { type: "p", text: "Judah never received a certificate (Isaiah 50:1). She was NOT released. Yet she ALSO went after other gods — while still bound in covenant. This is why God says:" },
-      { type: "scripture", ref: "Jeremiah 3:11 (NASB95)", text: "Faithless Israel has proved herself **more righteous** than treacherous Judah." },
+      { type: "scripture", ref: "Jeremiah 3:11 ", text: "Faithless Israel has proved herself **more righteous** than treacherous Judah." },
       { type: "p", text: "Think about this: **Israel's sin was LESS severe than Judah's** — even though both went after other gods. Why? Because Israel was released. She sinned as a free woman — it was rebellion and idolatry, but not treachery against an active covenant. Judah sinned while still bound — THAT is treachery." },
       { type: "p", text: "**The certificate made a real difference in how God judged their sin.** If the certificate accomplished nothing, why would Israel be \"more righteous\" than Judah?" },
       { type: "h2", text: "Why Did Messiah Have to Die?" },
@@ -269,7 +269,7 @@ const sections = [
     subtitle: "This Passage Condemns Faithless Husbands, Not Remarrying Women",
     scriptures: [
       {
-        ref: "Malachi 2:14-16 (NASB95)",
+        ref: "Malachi 2:14-16 ",
         text: "The LORD has been a witness between you and **the wife of your youth**, against whom **you have dealt treacherously**, though she is your companion and your wife by covenant... 'For I hate divorce,' says the LORD, the God of Israel, 'and him who covers his garment with wrong,' says the LORD of hosts. **'So take heed to your spirit, that you do not deal treacherously.'**"
       }
     ],
@@ -311,15 +311,15 @@ const sections = [
     },
     scriptures: [
       {
-        ref: "Leviticus 20:10 (NASB95)",
+        ref: "Leviticus 20:10 ",
         text: "If there is a man who commits adultery with **another man's wife**, one who commits adultery with his friend's wife, the adulterer and the adulteress **shall surely be put to death**."
       },
       {
-        ref: "Deuteronomy 22:22 (NASB95)",
+        ref: "Deuteronomy 22:22 ",
         text: "If a man is found lying with **a married woman**, then both of them shall die."
       },
       {
-        ref: "Deuteronomy 19:16-19 (NASB95)",
+        ref: "Deuteronomy 19:16-19 ",
         text: "If a malicious witness rises up against a man to accuse him of wrongdoing... and if the witness is a false witness and he has accused his brother falsely, then you shall do to him just as he had intended to do to his brother."
       }
     ],
@@ -358,7 +358,7 @@ const sections = [
     subtitle: "The Second Marriage in Deuteronomy 24 Uses Marriage Language, Not Adultery Language",
     scriptures: [
       {
-        ref: "Deuteronomy 24:2-4 (NASB95)",
+        ref: "Deuteronomy 24:2-4 ",
         text: "And she leaves his house and goes and **becomes another man's wife**, and if the latter **husband** turns against her and writes her a certificate of divorce... or if the latter **husband** dies who **took her to be his wife**..."
       }
     ],
@@ -367,7 +367,7 @@ const sections = [
       { type: "quote", text: "The reason she is not stoned to death is (1) the husband has not demanded her death, eg Joseph with Mary (Matt 1:19), and (2) mercy has always been lawful (Matt 9:13, Hosea 6:6)... First marriage = righteous. Second marriage = defiled. Remarriage to first = abomination.", source: "Your Instagram post (Dec 8, 2025)" },
       { type: "p", text: "This argument collapses under scrutiny. Torah itself tells us the SECOND marriage is NOT adultery:" },
       { type: "h2", text: "Problem 1: The Second Husband Is Called Her HUSBAND, She Is Called His WIFE" },
-      { type: "scripture", ref: "Deuteronomy 24:3 (NASB95)", text: "If the latter husband turns against her and writes her a certificate of divorce... or if the latter **husband** dies who took her to be his **wife**..." },
+      { type: "scripture", ref: "Deuteronomy 24:3 ", text: "If the latter husband turns against her and writes her a certificate of divorce... or if the latter **husband** dies who took her to be his **wife**..." },
       { type: "p", text: "Torah calls the second man her \"husband\" (אִישׁ, ish — the standard word for husband) and says he \"took her to be his wife\" (לְקָחָהּ לוֹ לְאִשָּׁה, l'kachah lo l'ishah). She is HIS אִשָּׁה (ishah) — the second husband's wife. Not \"the woman he's sinning with.\" Not \"his adulteress.\" His WIFE. Torah treats the second marriage as a real marriage, not ongoing adultery being tolerated through mercy." },
       { type: "p", text: "The LXX confirms this. Deuteronomy 24:2 reads: **καὶ ἀπελθοῦσα γένηται ἀνδρὶ ἑτέρῳ** — \"and having departed, she becomes [belonging] to another man.\" Verse 3 calls the second man **ὁ ἀνὴρ ὁ ἔσχατος** (\"the latter husband\") and says he **ἔλαβεν αὐτὴν ἑαυτῷ γυναῖκα** — \"took her for himself as wife.\" Both Hebrew and Greek use standard marriage terminology, not adultery language." },
       { type: "h2", text: "Problem 2: Torah Has Adultery Language — And Doesn't Use It for the Second Marriage" },
@@ -397,7 +397,7 @@ const sections = [
       { type: "p", text: "If the second marriage is already adultery (a capital offense), why does v.4 need to add that returning to the first husband is an \"abomination\"? You don't pile \"abomination\" on top of capital sin being tolerated by mercy. The structure of the passage assumes the second marriage is lawful, and ONLY the return to the first husband after the second marriage is prohibited." },
       { type: "h2", text: "Problem 5: 'Defiled' Refers to Her Status Regarding the FIRST Husband, Not the Second Marriage" },
       { type: "p", text: "You claim \"defiled\" means the second marriage is sinful. But read v.4 carefully:" },
-      { type: "scripture", ref: "Deuteronomy 24:4 (NASB95)", text: "Her former husband who sent her away is not allowed to take her again to be his wife, since **she has been defiled**; for that is an abomination before YHVH." },
+      { type: "scripture", ref: "Deuteronomy 24:4 ", text: "Her former husband who sent her away is not allowed to take her again to be his wife, since **she has been defiled**; for that is an abomination before YHVH." },
       { type: "p", text: "She is defiled **with respect to her first husband** — meaning she cannot return to him after having been in a second marriage. This is NOT saying her second marriage defiled her morally. It's saying her having been with the second husband makes her ineligible to return to husband #1. The defilement is relational to the first husband, not a moral condemnation of the second marriage." },
       { type: "p", text: "This is exactly why Messiah had to die for Israel — she was \"defiled\" (had gone after other gods) and could not simply return to her first husband (YHVH) under Deut 24:4. A new covenant was required." },
       { type: "h2", text: "Problem 6: Joseph and the Adulteress Don't Help Your Case About Second Marriages" },
@@ -432,15 +432,15 @@ const sections = [
     },
     scriptures: [
       {
-        ref: "Romans 7:2 (NASB95)",
+        ref: "Romans 7:2 ",
         text: "For **the married woman** is bound by law to her husband while he is living; but if her husband dies, she is released from the law concerning the husband."
       },
       {
-        ref: "Leviticus 20:10 (NASB95)",
+        ref: "Leviticus 20:10 ",
         text: "If there is a man who commits adultery with **another man's wife**..."
       },
       {
-        ref: "Deuteronomy 22:22 (NASB95)", 
+        ref: "Deuteronomy 22:22 ", 
         text: "If a man is found lying with **a married woman**..."
       }
     ],
@@ -495,7 +495,7 @@ const sections = [
       { type: "p", text: "You tell critics that rejecting Rahab's redemption is \"a rejection of the Gospel itself.\" But you reject the redemption of divorced women every day. Is that not also a rejection of the Gospel?" },
       { type: "h2", text: "The 1 Corinthians 7 Paradox — Conversion Dissolves Unions... Or Does It?" },
       { type: "p", text: "Rich, your Rahab position creates an impossible contradiction with Paul's instructions in 1 Corinthians 7." },
-      { type: "scripture", ref: "1 Corinthians 7:13-14 (NASB95)", text: "And if any woman has a husband who is an unbeliever, and he consents to live with her, **she should not divorce him**. For the unbelieving husband is made holy because of his wife..." },
+      { type: "scripture", ref: "1 Corinthians 7:13-14 ", text: "And if any woman has a husband who is an unbeliever, and he consents to live with her, **she should not divorce him**. For the unbelieving husband is made holy because of his wife..." },
       { type: "p", text: "Consider a pagan woman married to a pagan man. She converts. According to your Rahab principle:" },
       { type: "ul", items: [
         "She is now a \"new creation\"",
@@ -535,7 +535,7 @@ const sections = [
       ]},
       { type: "p", text: "If one-flesh is truly physical, why does it behave differently based on belief? Physics doesn't care if you're a Christian." },
       { type: "h2", text: "The 1 Corinthians 7:10-11 Problem" },
-      { type: "scripture", ref: "1 Corinthians 7:10-11 (NASB95)", text: "But to the married I give instructions, not I, but the Lord, that the wife should not leave her husband (but if she does leave, **she must remain unmarried, or else be reconciled to her husband**), and that the husband should not divorce his wife." },
+      { type: "scripture", ref: "1 Corinthians 7:10-11 ", text: "But to the married I give instructions, not I, but the Lord, that the wife should not leave her husband (but if she does leave, **she must remain unmarried, or else be reconciled to her husband**), and that the husband should not divorce his wife." },
       { type: "p", text: "You quote this as a blanket prohibition on remarriage. But read it carefully. Paul addresses **a wife who LEFT her husband** — she initiated the separation. Her options: remain unmarried OR be reconciled. This makes sense — she left, so she should either return or stay single." },
       { type: "p", text: "This passage does NOT address:" },
       { type: "ul", items: [
@@ -581,7 +581,7 @@ const sections = [
     },
     scriptures: [
       {
-        ref: "Deuteronomy 24:1 (NASB95)",
+        ref: "Deuteronomy 24:1 ",
         text: "When a man takes a wife and marries her, and it happens that she finds no favor in his eyes because he has found some indecency in her, and **he writes her a certificate of divorce** (סֵפֶר כְּרִיתֻת / βιβλίον ἀποστασίου) and puts it in her hand and **sends her out** (שִׁלְּחָהּ / ἐξαποστέλλω) from his house..."
       }
     ],
@@ -594,8 +594,8 @@ const sections = [
       { type: "p", text: "Deuteronomy 24:1 requires BOTH: he writes the certificate AND sends her away. The certificate is given INTO HER HANDS — it's her proof of release. Only then can she \"go and become another man's wife\" (Deut 24:2)." },
       { type: "h2", text: "Can You Have One Without the Other?" },
       { type: "p", text: "Yes. You can \"send away\" (separate) without giving the certificate. This is exactly what God did with Judah versus Israel:" },
-      { type: "scripture", ref: "Jeremiah 3:8 (NASB95)", text: "And I saw that for all the adulteries of faithless Israel, **I had sent her away and given her a writ of divorce**, yet her treacherous sister Judah did not fear; but she went and was a harlot also." },
-      { type: "scripture", ref: "Isaiah 50:1 (NASB95)", text: "Thus says YHVH, '**Where is the certificate of divorce** by which I have sent your mother away?'" },
+      { type: "scripture", ref: "Jeremiah 3:8 ", text: "And I saw that for all the adulteries of faithless Israel, **I had sent her away and given her a writ of divorce**, yet her treacherous sister Judah did not fear; but she went and was a harlot also." },
+      { type: "scripture", ref: "Isaiah 50:1 ", text: "Thus says YHVH, '**Where is the certificate of divorce** by which I have sent your mother away?'" },
       { type: "p", text: "Look at the contrast — same Greek terminology in the LXX:" },
       { type: "ul", items: [
         "**Jeremiah 3:8 (Israel):** \"I had sent her away AND given her a writ of divorce\" — both actions done",
@@ -621,7 +621,7 @@ const sections = [
       { type: "h2", text: "Your Own Words Condemn Your Position" },
       { type: "quote", text: "Marriage law doesn't change. God's law regarding marriage doesn't change.", source: "\"David's Two Wives\" video [00:14:24]" },
       { type: "p", text: "I agree completely. Marriage law doesn't change. So let's look at what Torah says:" },
-      { type: "scripture", ref: "Deuteronomy 24:1-2 (NASB95)", text: "When a man takes a wife and marries her, and it happens that she finds no favor in his eyes... he writes her a certificate of divorce and puts it in her hand and sends her out from his house, and she leaves his house and **goes and becomes another man's wife**..." },
+      { type: "scripture", ref: "Deuteronomy 24:1-2 ", text: "When a man takes a wife and marries her, and it happens that she finds no favor in his eyes... he writes her a certificate of divorce and puts it in her hand and sends her out from his house, and she leaves his house and **goes and becomes another man's wife**..." },
       { type: "p", text: "The passage describes her remarriage as a legitimate scenario — not a sin. It's assumed she will remarry, and the only prohibition that follows (v4) is against returning to her FIRST husband. Her remarriage itself is lawful." },
       { type: "p", text: "Now, if your interpretation of Jesus is correct — that no divorced woman can ever remarry without committing adultery — then Jesus CHANGED Deuteronomy 24. He took a passage that assumes lawful remarriage and made remarriage unlawful." },
       { type: "p", text: "But you say marriage law doesn't change. So which is it?" },
@@ -697,7 +697,7 @@ const sections = [
     },
     scriptures: [
       {
-        ref: "Deuteronomy 22:23-24 (NASB95)",
+        ref: "Deuteronomy 22:23-24 ",
         text: "If there is a girl who is a virgin engaged to a man, and another man finds her in the city and lies with her, then you shall bring them both out... and you shall stone them to death; the girl, because she did not cry out in the city, and the man, because he has violated his neighbor's **wife**."
       }
     ],
@@ -733,12 +733,12 @@ const sections = [
     content: [
       { type: "h2", text: "Numbers 30: Vow Accountability in Youth" },
       { type: "p", text: "You define ne'urim as \"youth\" (under 20, not yet accountable). But look at what Numbers 30 actually says:" },
-      { type: "scripture", ref: "Numbers 30:3-5, 16 (NASB95)", text: "If a woman makes a vow to YHVH, and binds herself by an obligation in her father's house **in her youth** (בִּנְעֻרֶיהָ, bine'ureha)... and her father hears her vow... if her father says nothing to her, then all her vows shall stand... These are the statutes which YHVH commanded Moses, concerning the relationship of a husband to his wife, and of a father to his daughter **in her youth** (בִּנְעֻרֶיהָ) in her father's house." },
+      { type: "scripture", ref: "Numbers 30:3-5, 16 ", text: "If a woman makes a vow to YHVH, and binds herself by an obligation in her father's house **in her youth** (בִּנְעֻרֶיהָ, bine'ureha)... and her father hears her vow... if her father says nothing to her, then all her vows shall stand... These are the statutes which YHVH commanded Moses, concerning the relationship of a husband to his wife, and of a father to his daughter **in her youth** (בִּנְעֻרֶיהָ) in her father's house." },
       { type: "p", text: "The Septuagint (LXX) translates this as **ἐν τῇ νεότητι αὐτῆς** (en tē neotēti autēs) — \"in her youth.\" The Greek νεότης (neotēs) is the same root used in Malachi 2:14 for \"wife of your youth.\"" },
       { type: "p", text: "If covenant accountability only begins at 20+, how can a ne'urim girl already be **covenant-responsible for vows to God** unless her father annuls them? Her vows to YHVH are binding. That's covenant accountability. In her youth." },
       { type: "p", text: "You cannot claim ne'urim means \"not yet covenant-accountable\" when Torah explicitly holds ne'urim women covenant-accountable for their vows." },
       { type: "h2", text: "Malachi 2:14: \"The Wife of Your Youth\"" },
-      { type: "scripture", ref: "Malachi 2:14-15 (NASB95)", text: "...YHVH has been a witness between you and **the wife of your youth** (אֵשֶׁת נְעוּרֶיךָ, eshet ne'urekha), against whom you have dealt treacherously, though she is your companion and **your wife by covenant**." },
+      { type: "scripture", ref: "Malachi 2:14-15 ", text: "...YHVH has been a witness between you and **the wife of your youth** (אֵשֶׁת נְעוּרֶיךָ, eshet ne'urekha), against whom you have dealt treacherously, though she is your companion and **your wife by covenant**." },
       { type: "p", text: "The LXX translates this as **γυναῖκα νεότητός σου** (gynaika neotētos sou) — \"wife of your youth.\" Notice: she is called γυναῖκα (gynē - wife), not \"future wife\" or \"pledged woman.\" And her youth (νεότητος) is not a disqualifier — it's simply a descriptor of WHEN they married." },
       { type: "p", text: "Look at the Hebrew: אֵשֶׁת נְעוּרֶיךָ — \"wife of your youth.\" The word for \"youth\" here is from the SAME ROOT as ne'urim. God Himself calls a woman married in her ne'urim (youth) a **\"wife by covenant.\"**" },
       { type: "p", text: "You insist a woman in her ne'urim cannot be lawfully married. God says she is \"your wife by covenant.\" **Who is adding to Torah here — God or you?**" },
@@ -819,7 +819,7 @@ const sections = [
       { type: "p", text: "Rich, your argument is that ʾîš and ʾiššâ mean adults (20+), and since Genesis 2:23-24 uses these terms, marriage requires age 20. Let's test this." },
       { type: "h2", text: "Deuteronomy 22:24 Destroys Your Argument" },
       { type: "p", text: "You claim ʾiššâ strictly means a woman 20+. But look at Deuteronomy 22:24:" },
-      { type: "scripture", ref: "Deuteronomy 22:24 (NASB95)", text: "...the man, because he has violated his neighbor's **wife** (אֵשֶׁת, eshet — from ʾiššâ)." },
+      { type: "scripture", ref: "Deuteronomy 22:24 ", text: "...the man, because he has violated his neighbor's **wife** (אֵשֶׁת, eshet — from ʾiššâ)." },
       { type: "p", text: "The betrothed na'ara is called his \"wife\" using the ʾiššâ root. But YOU say na'ara means \"young woman\" (under 20). So which is it?" },
       { type: "ul", items: [
         "**If ʾiššâ strictly means 20+:** Then the na'ara in Deut 22:24 must be 20+. But you say na'ara is under 20.",
@@ -888,7 +888,7 @@ const sections = [
       { type: "p", text: "Under Roman law — the very law that ordered this census — the minimum marriage age for girls was **12**, not 20. So even if participating in a Roman census somehow proved adulthood (it doesn't), Roman \"adulthood\" for marriage purposes was 12 for women." },
       { type: "p", text: "You can't appeal to a Roman census to prove Mary was 20+ when Roman law itself permitted marriage at 12. The Roman census proves nothing about Torah's supposed \"age 20\" requirement — because Rome had no such requirement." },
       { type: "h2", text: "Problem 3: Roman Women Couldn't Register Independently Anyway" },
-      { type: "scripture", ref: "Luke 2:4-5 (NASB95)", text: "Joseph also went up from Galilee... **to be registered** along with Mary, who was betrothed to him, and was with child." },
+      { type: "scripture", ref: "Luke 2:4-5 ", text: "Joseph also went up from Galilee... **to be registered** along with Mary, who was betrothed to him, and was with child." },
       { type: "p", text: "The text says Joseph went \"to be registered\" (ἀπογράψασθαι, apograpsasthai). Mary was \"with\" (σύν, syn) him. But even if you wanted to argue Mary was somehow registering independently, Roman law wouldn't require her to be 20+ — it would require her to have a male guardian." },
       { type: "p", text: "Under Roman law, **women were never legally independent regardless of age**:" },
       { type: "ul", items: [
@@ -948,7 +948,7 @@ const sections = [
       { type: "p", text: "**That's not righteous judgment, Rich. That's slander. You're calling men sinners for violating a law that doesn't exist.**" },
       { type: "h2", text: "The Torah Penalty for False Witness" },
       { type: "p", text: "Rich, you should consider carefully what Torah says about false accusations:" },
-      { type: "scripture", ref: "Deuteronomy 19:16-19 (NASB95)", text: "If a malicious witness rises up against a man to accuse him of wrongdoing, then both the men who have the dispute shall stand before YHVH, before the priests and the judges who will be in office in those days. The judges shall investigate thoroughly, and if the witness is a false witness and he has accused his brother falsely, **then you shall do to him just as he had intended to do to his brother.** Thus you shall purge the evil from among you." },
+      { type: "scripture", ref: "Deuteronomy 19:16-19 ", text: "If a malicious witness rises up against a man to accuse him of wrongdoing, then both the men who have the dispute shall stand before YHVH, before the priests and the judges who will be in office in those days. The judges shall investigate thoroughly, and if the witness is a false witness and he has accused his brother falsely, **then you shall do to him just as he had intended to do to his brother.** Thus you shall purge the evil from among you." },
       { type: "p", text: "The Torah principle is clear: **whatever penalty the false accuser sought to impose on the innocent, that penalty falls on the false accuser instead.**" },
       { type: "p", text: "You are publicly calling men who marry 18-19 year old women \"pedophiles\" and \"perverts.\" You are implying they deserve criminal punishment, social ostracism, and condemnation. But they have violated NO civil law and NO Torah law." },
       { type: "p", text: "By Deuteronomy 19:18-19, if you are bearing false witness against your brothers — accusing them of wrongdoing when no law exists — then **the penalty you sought to impose on them falls on you.**" },
@@ -988,7 +988,7 @@ const sections = [
     },
     scriptures: [
       {
-        ref: "1 Corinthians 7:9 (NASB95)",
+        ref: "1 Corinthians 7:9 ",
         text: "But if they do not have self-control, let them marry; for it is better to marry than to burn with passion."
       }
     ],
@@ -1035,7 +1035,7 @@ const sections = [
       { type: "p", text: "**You're celebrating the fruit while condemning half the tree that produced it.**" },
       { type: "h2", text: "The Doctrines of Demons Irony" },
       { type: "p", text: "You cite 1 Timothy 4:1-3 to call monogamy-only teaching a \"Doctrine of Demons.\" Let's look at what it says:" },
-      { type: "scripture", ref: "1 Timothy 4:1-3 (NASB95)", text: "But the Spirit explicitly says that in later times some will fall away from the faith, paying attention to deceitful spirits and doctrines of demons, by means of the hypocrisy of liars seared in their own conscience as with a branding iron, men who **forbid marriage**..." },
+      { type: "scripture", ref: "1 Timothy 4:1-3 ", text: "But the Spirit explicitly says that in later times some will fall away from the faith, paying attention to deceitful spirits and doctrines of demons, by means of the hypocrisy of liars seared in their own conscience as with a branding iron, men who **forbid marriage**..." },
       { type: "p", text: "The doctrine of demons is specifically about **forbidding marriage**. Now look at your positions:" },
       { type: "ul", items: [
         "Divorced believing women — **forbidden to remarry** (for decades, perhaps for life)",
@@ -1054,7 +1054,7 @@ const sections = [
     subtitle: "You Use These Rules for Polygyny — Why Not for Divorced Women?",
     scriptures: [
       {
-        ref: "Matthew 5:17-19 (NASB95)",
+        ref: "Matthew 5:17-19 ",
         text: "Do not think that I came to abolish the Law or the Prophets; I did not come to abolish but to fulfill. For truly I say to you, until heaven and earth pass away, not the smallest letter or stroke shall pass from the Law until all is accomplished. **Whoever then annuls one of the least of these commandments, and teaches others to do the same, shall be called least in the kingdom of heaven**; but whoever keeps and teaches them, he shall be called great in the kingdom of heaven."
       }
     ],
@@ -1115,7 +1115,7 @@ const sections = [
     subtitle: "The Questions You Must Answer",
     scriptures: [
       {
-        ref: "Mark 7:9, 13 (NASB95)",
+        ref: "Mark 7:9, 13 ",
         text: "You are experts at setting aside the commandment of God in order to keep your tradition... thus **invalidating the word of God** by your tradition which you have handed down; and you do many things such as that."
       }
     ],
@@ -1170,7 +1170,7 @@ const closing = {
   signatureLine2: "seeking truth together in love",
   finalVerse: {
     text: "Now may the God of peace Himself sanctify you entirely; and may your spirit and soul and body be preserved complete, without blame at the coming of our Lord Yeshua the Messiah. Faithful is He who calls you, and He also will bring it to pass.",
-    ref: "1 Thessalonians 5:23-24 (NASB95)"
+    ref: "1 Thessalonians 5:23-24 "
   }
 };
 
