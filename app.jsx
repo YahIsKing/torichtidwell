@@ -769,7 +769,6 @@ const sections = [
       { type: "p", text: "Scholarly sources confirm that Jewish girls in the Second Temple period were typically betrothed in their early to mid-teens — this was standard practice, not exceptional:" },
       { type: "ul", items: [
         "**Adiel Schremer** (*Male and Female He Created Them*, Zalman Shazar Center, 2003): \"Girls were married sometime after reaching sexual maturity (around twelve or thirteen), perhaps up until their late teens\" in Palestine.",
-        "**Michael Satlow** (*Jewish Marriage in Antiquity*, Princeton University Press, 2001): Comprehensive scholarly work confirming Second Temple marriage practices.",
         "**Mishnah Ketuboth 57b**: Distinguishes betrothal periods for \"virgins who are minors\" (under 12) vs. adults — showing even pre-pubescent girls could be betrothed.",
         "**Jewish Encyclopedia (1906)**: \"A daughter who was a minor could be given in marriage by her father\" — with puberty defined as 12 for females."
       ]},
