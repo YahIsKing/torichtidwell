@@ -211,7 +211,7 @@ const sections = [
       { type: "p", text: "Note: The text itself distinguishes between priest vs. high priest standards. Torah never elevated the entire priesthood to the high priest's marriage requirements — only the high priest bore this stricter standard." },
       { type: "p", text: "If believers are a \"royal priesthood\" and must follow priestly marriage restrictions, why do you only apply the **regular** priest standard (no divorced women) while ignoring the **high** priest standard (virgins only)?" },
       { type: "p", text: "You claim to take the most conservative position:" },
-      { type: "quote", text: "That's why I air on the most conservative end of this... the priests weren't to marry divorced women so we don't marry divorced women.", source: "Interview with Pete Rambo (Dec 10, 2025) [~01:31:00]" },
+      { type: "quote", text: "That's why I err on the most conservative end of this... the priests weren't to marry divorced women so we don't marry divorced women.", source: "Interview with Pete Rambo (Dec 10, 2025) [~01:31:00]" },
       { type: "p", text: "But the most conservative end isn't Leviticus 21:7 — it's Leviticus 21:13-14. The truly conservative position would be:" },
       { type: "ul", items: [
         "**No widows** — High priests couldn't marry them",
