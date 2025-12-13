@@ -398,8 +398,8 @@ const sections = [
       { type: "p", text: "You claim \"defiled\" means the second marriage is sinful. But read v.4 carefully:" },
       { type: "scripture", ref: "Deuteronomy 24:4 ", text: "Her former husband who sent her away is not allowed to take her again to be his wife, since **she has been defiled**; for that is an abomination before YHVH." },
       { type: "p", text: "She is defiled **with respect to her first husband** — meaning she cannot return to him after having been in a second marriage. This is NOT saying her second marriage defiled her morally. It's saying her having been with the second husband makes her ineligible to return to husband #1. The defilement is relational to the first husband, not a moral condemnation of the second marriage." },
-      { type: "p", text: "This is exactly why Messiah had to die for Israel — she was \"defiled\" (had gone after other gods) and could not simply return to her first husband (YHVH) under Deut 24:4. A new covenant was required." },
-      { type: "h2", text: "Problem 6: Joseph and the Adulteress Don't Help Your Case About Second Marriages" },
+      { type: "p", text: "This is exactly why Messiah had to die for Israel — she was \"defiled\" (had gone after other gods) and could not simply return to her first husband (YHVH) under Deut 24:4. His death and resurrection made a way for her to be joined to Him anew." },
+      { type: "h2", text: "Problem 6: The Joseph and Adulteress Argument Doesn't Help Your Case" },
       { type: "p", text: "**Joseph with Mary:** Yes, Joseph thought Mary had committed adultery — a betrothed woman who lies with another man IS committing adultery under Torah (Deut 22:23-24). Joseph had not yet consummated, Mary was visibly pregnant, and he assumed the worst. His decision to \"put her away quietly\" rather than expose her was mercy toward what he believed was actual adultery during an active betrothal." },
       { type: "p", text: "But this is completely different from the second marriage in Deuteronomy 24. Joseph's situation involves:" },
       { type: "ul", items: [
