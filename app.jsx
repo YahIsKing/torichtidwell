@@ -144,21 +144,16 @@ const sections = [
     ],
     content: [
       { type: "p", text: "Rich, in these SPECIFIC cases—a man who falsely accused his wife of not being a virgin, and a man who violated a virgin—Torah says he can **NEVER** send her away (שָׁלַח, shalach)." },
-      { type: "p", text: "Note: The Hebrew here is שָׁלַח (shalach — \"send away\"), not the certificate term כְּרִיתֻת (keritut). But as Deuteronomy 24:1 shows, the divorce process requires BOTH writing the certificate AND sending her away. If he can never send her away, he can never complete a divorce. The sending away is an essential step." },
-      { type: "p", text: "**This is a PUNISHMENT.** But what exactly is the punishment?" },
-      { type: "p", text: "The punishment is that he is **permanently bound to his obligations to her**. He can never escape his duty to provide food, clothing, and conjugal rights (Exodus 21:10). He's stuck forever." },
-      { type: "h2", text: "This Only Makes Sense If Sending Away Normally Releases Him" },
-      { type: "p", text: "If sending away doesn't release a man from his obligations anyway, then \"you can never send her away\" is no punishment at all. It would be like saying \"as punishment, you must continue breathing.\"" },
-      { type: "p", text: "The punishment has teeth precisely BECAUSE in normal circumstances:" },
-      { type: "ul", items: [
-        "Sending away (with proper certificate) DOES release the man from his marital obligations",
-        "Sending away DOES free him from the duty to provide for her",
-        "Sending away DOES allow him to walk away"
-      ]},
-      { type: "p", text: "**By removing his ability to ever send her away, Torah removes his escape hatch.** He must provide for her until the day he dies. That's the punishment." },
-      { type: "p", text: "This proves that in OTHER cases, sending away (with proper certificate per Deut 24:1) IS effective and DOES release both parties. Otherwise these \"never send away\" provisions are meaningless." }
+      { type: "p", text: "Note: The Hebrew here is שָׁלַח (shalach — \"send away\"), not the certificate term כְּרִיתֻת (keritut). But as Deuteronomy 24:1 shows, the divorce process requires BOTH writing the certificate AND sending her away. The sending away is an essential step." },
+      { type: "p", text: "**This provision wouldn't exist if sending away accomplished nothing.**" },
+      { type: "p", text: "Torah doesn't waste words. If divorce — the act of sending away with a certificate — were meaningless in the eyes of God, why would Torah bother specifying that THIS man cannot do it? You don't prohibit something that has no effect." },
+      { type: "h2", text: "The Simple Logic" },
+      { type: "p", text: "If sending away doesn't release a man from his obligations anyway, then \"you can never send her away\" is no prohibition at all. It would be like saying \"you cannot do the thing that accomplishes nothing.\"" },
+      { type: "p", text: "The provision has meaning precisely BECAUSE in normal circumstances, sending away (with proper certificate) DOES accomplish something — it DOES release, it DOES change the status of both parties." },
+      { type: "p", text: "**By removing his ability to send her away, Torah removes something real.** This only makes sense if divorce is effective — if it actually accomplishes what it says." },
+      { type: "p", text: "You claim divorce is meaningless in the eyes of God. But Torah itself treats it as meaningful enough to specifically prohibit in certain cases. Which is it?" }
     ],
-    question: "If sending a wife away doesn't release the man from his obligations anyway, how is \"he may not send her away all his days\" a punishment? The punishment only has force if sending away NORMALLY releases him. Doesn't this prove that the divorce process (certificate + sending away) is effective?"
+    question: "If sending a wife away accomplishes nothing — if divorce is meaningless in the eyes of God — why does Torah bother prohibiting it for these specific men? You don't prohibit something that has no effect. Doesn't this prove that divorce actually accomplishes something?"
   },
   {
     id: 4,
@@ -1268,7 +1263,7 @@ const sections = [
         "**Deuteronomy 24:2** — Torah explicitly says she \"may go and become another man's wife.\" You call this adultery.",
         "**Deuteronomy 24:3** — Torah calls the second man her HUSBAND, says he \"took her to be his wife,\" uses marriage language — not adultery language. No נָאַף, no שֹׁכֵב עִם.",
         "**Exodus 21:10-11** — If he doesn't provide, she goes out FREE. Either divorce does something, or he still owes her.",
-        "**The \"Never Send Away\" Provisions (Deut 22:19, 29)** — \"He cannot send her away (שָׁלַח) all his days\" is only a punishment if sending away NORMALLY releases. Since divorce requires both certificate AND sending away (Deut 24:1), prohibiting sending away means he can never complete a divorce.",
+        "**The \"Never Send Away\" Provisions (Deut 22:19, 29)** — Torah prohibits these men from sending away their wives. You don't prohibit something that accomplishes nothing. This proves divorce is meaningful.",
         "**Put Away vs Divorce** — God gave Israel the certificate AND sent her away (Jer 3:8). He only sent Judah away — no certificate (Isa 50:1). God Himself distinguishes separation from divorce.",
         "**The Rahab Problem** — You dissolve 100+ unbelieving one-flesh unions for a convert, but one believing union can never be dissolved?",
         "**God Divorced Israel (Jeremiah 3:8)** — God Himself dissolved a marriage covenant relationship.",
