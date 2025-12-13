@@ -130,34 +130,35 @@ const sections = [
   {
     id: 3,
     part: 1,
-    title: "The \"Never Divorce\" Provisions",
-    subtitle: "Why Specify \"Never\" If Divorce Is Always Impossible?",
+    title: "The \"Never Send Away\" Provisions",
+    subtitle: "Why Specify \"Never\" If Sending Away Is Always Ineffective?",
     scriptures: [
       {
         ref: "Deuteronomy 22:19 ",
-        text: "And they shall fine him a hundred shekels of silver... and she shall remain his wife; **he cannot divorce her all his days**."
+        text: "And they shall fine him a hundred shekels of silver... and she shall remain his wife; **he cannot send her away** (לֹא־יוּכַל לְשַׁלְּחָהּ, lo-yukhal l'shallechah) **all his days**."
       },
       {
         ref: "Deuteronomy 22:29 ",
-        text: "...and she shall become his wife because he has violated her; **he cannot divorce her all his days**."
+        text: "...and she shall become his wife because he has violated her; **he cannot send her away** (לֹא־יוּכַל שַׁלְּחָהּ) **all his days**."
       }
     ],
     content: [
-      { type: "p", text: "Rich, in these SPECIFIC cases—a man who falsely accused his wife of not being a virgin, and a man who violated a virgin—Torah says he can **NEVER** divorce her." },
+      { type: "p", text: "Rich, in these SPECIFIC cases—a man who falsely accused his wife of not being a virgin, and a man who violated a virgin—Torah says he can **NEVER** send her away (שָׁלַח, shalach)." },
+      { type: "p", text: "Note: The Hebrew here is שָׁלַח (shalach — \"send away\"), not the certificate term כְּרִיתֻת (keritut). But as Deuteronomy 24:1 shows, the divorce process requires BOTH writing the certificate AND sending her away. If he can never send her away, he can never complete a divorce. The sending away is an essential step." },
       { type: "p", text: "**This is a PUNISHMENT.** But what exactly is the punishment?" },
       { type: "p", text: "The punishment is that he is **permanently bound to his obligations to her**. He can never escape his duty to provide food, clothing, and conjugal rights (Exodus 21:10). He's stuck forever." },
-      { type: "h2", text: "This Only Makes Sense If Divorce Normally Releases Him" },
-      { type: "p", text: "If divorce doesn't release a man from his obligations anyway, then \"you can never divorce her\" is no punishment at all. It would be like saying \"as punishment, you must continue breathing.\"" },
+      { type: "h2", text: "This Only Makes Sense If Sending Away Normally Releases Him" },
+      { type: "p", text: "If sending away doesn't release a man from his obligations anyway, then \"you can never send her away\" is no punishment at all. It would be like saying \"as punishment, you must continue breathing.\"" },
       { type: "p", text: "The punishment has teeth precisely BECAUSE in normal circumstances:" },
       { type: "ul", items: [
-        "Divorce DOES release the man from his marital obligations",
-        "Divorce DOES free him from the duty to provide for her",
-        "Divorce DOES allow him to walk away"
+        "Sending away (with proper certificate) DOES release the man from his marital obligations",
+        "Sending away DOES free him from the duty to provide for her",
+        "Sending away DOES allow him to walk away"
       ]},
-      { type: "p", text: "**By removing his ability to divorce, Torah removes his escape hatch.** He must provide for her until the day he dies. That's the punishment." },
-      { type: "p", text: "This proves that in OTHER cases, divorce IS effective and DOES release both parties. Otherwise these \"never divorce\" provisions are meaningless." }
+      { type: "p", text: "**By removing his ability to ever send her away, Torah removes his escape hatch.** He must provide for her until the day he dies. That's the punishment." },
+      { type: "p", text: "This proves that in OTHER cases, sending away (with proper certificate per Deut 24:1) IS effective and DOES release both parties. Otherwise these \"never send away\" provisions are meaningless." }
     ],
-    question: "If divorce doesn't release the man from his obligations anyway, how is \"he may not divorce her all his days\" a punishment? The punishment only has force if divorce NORMALLY releases him. Doesn't this prove divorce is effective?"
+    question: "If sending a wife away doesn't release the man from his obligations anyway, how is \"he may not send her away all his days\" a punishment? The punishment only has force if sending away NORMALLY releases him. Doesn't this prove that the divorce process (certificate + sending away) is effective?"
   },
   {
     id: 4,
@@ -1267,7 +1268,7 @@ const sections = [
         "**Deuteronomy 24:2** — Torah explicitly says she \"may go and become another man's wife.\" You call this adultery.",
         "**Deuteronomy 24:3** — Torah calls the second man her HUSBAND, says he \"took her to be his wife,\" uses marriage language — not adultery language. No נָאַף, no שֹׁכֵב עִם.",
         "**Exodus 21:10-11** — If he doesn't provide, she goes out FREE. Either divorce does something, or he still owes her.",
-        "**The \"Never Divorce\" Provisions (Deut 22:19, 29)** — \"He cannot divorce her all his days\" is only a punishment if divorce NORMALLY releases. Otherwise it means nothing.",
+        "**The \"Never Send Away\" Provisions (Deut 22:19, 29)** — \"He cannot send her away (שָׁלַח) all his days\" is only a punishment if sending away NORMALLY releases. Since divorce requires both certificate AND sending away (Deut 24:1), prohibiting sending away means he can never complete a divorce.",
         "**Put Away vs Divorce** — God gave Israel the certificate AND sent her away (Jer 3:8). He only sent Judah away — no certificate (Isa 50:1). God Himself distinguishes separation from divorce.",
         "**The Rahab Problem** — You dissolve 100+ unbelieving one-flesh unions for a convert, but one believing union can never be dissolved?",
         "**God Divorced Israel (Jeremiah 3:8)** — God Himself dissolved a marriage covenant relationship.",
