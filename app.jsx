@@ -844,6 +844,45 @@ const sections = [
   {
     id: 17,
     part: 2,
+    title: "What about Ruth 4:12?",
+    subtitle: "Ruth 4:11-12 — You Can't Have It Both Ways",
+    position: {
+      text: "In Ruth 4:11, it says that Rachel and Leah, which includes their servants, together built up the house of Israel. And it's said as a blessing. It's said as a positive in that statement.",
+      source: "\"Forbidden Marriages\" Sermon Highlight"
+    },
+    content: [
+      { type: "p", text: "Rich, you regularly cite Ruth 4:11 as one of your key proof texts for polygyny. The elders bless Boaz that his wife be \"like Rachel and Leah who built the house of Israel.\" You call this a positive presentation of plural marriage. I agree — it is." },
+      { type: "p", text: "But have you read the very next verse?" },
+      { type: "scripture", ref: "Ruth 4:12 (NASB95)", text: "Moreover, may your house be like the house of Perez whom Tamar bore to Judah, through the offspring which the LORD will give you **by this young woman** (הַֽנַּעֲרָ֖ה, han·na·'a·rah)." },
+      { type: "h2", text: "The Hebrew Is Devastating to Your Framework" },
+      { type: "p", text: "The word used for Ruth is **na'arah** (נַעֲרָה) — Strong's 5291. Brown-Driver-Briggs, the authoritative Hebrew lexicon, defines this as a young woman \"especially as marriageable\" and explicitly categorizes Ruth 4:12 as an example of na'arah meaning **\"young widow.\"** This is the EXACT same term you use in your age-20 framework to mean a \"youth\" who is NOT yet marriage-eligible." },
+      { type: "p", text: "Remember your own teaching:" },
+      { type: "quote", text: "If she's a 'youth,' she's in her father's house. Before marriage, she must grow up and reach full adornment (Ez 16:7). Then being 'at the age for love' (Ez 16:8)—a 'woman' (Gen 2:23)—she may be entered.", source: "Your Twitter/X post (Dec 9, 2025)" },
+      { type: "p", text: "But look at Ruth's situation when the elders call her a na'arah:" },
+      { type: "ul", items: [
+        "Ruth had ALREADY been married to Mahlon",
+        "Ruth had ALREADY been widowed",
+        "Ruth is NOW marrying Boaz — her SECOND husband",
+        "And Scripture STILL calls her a na'arah"
+      ]},
+      { type: "p", text: "This isn't a girl who might someday marry. This is a woman who has gone through the **entire marriage lifecycle** — married, widowed, remarrying — and Scripture explicitly calls her a na'arah at the moment of her second marriage." },
+      { type: "h2", text: "The Elders BLESSED This Union" },
+      { type: "p", text: "The elders don't rebuke Boaz for marrying a \"youth.\" They don't warn him he's committing perversion. They **bless** this marriage. They invoke Rachel and Leah. They pray for offspring — offspring that would produce Obed, then Jesse, then David, then ultimately Christ Himself." },
+      { type: "p", text: "The lineage of the Messiah runs through Ruth — a na'arah who married, was widowed, and remarried while Scripture still calls her a na'arah." },
+      { type: "h2", text: "You Cannot Have Both" },
+      { type: "p", text: "Rich, you face an impossible choice:" },
+      { type: "ul", items: [
+        "**Keep using Ruth 4:11 for polygyny:** But then you must acknowledge that Ruth 4:12 calls a married, widowed, remarrying woman a na'arah — destroying your claim that na'arah means \"unmarriageable youth\"",
+        "**Maintain your age-20 framework:** But then you must stop using Ruth 4:11, since the very next verse proves a na'arah CAN be lawfully married",
+        "**Claim Ruth was 20+:** But then na'arah doesn't mean \"under 20\" — which destroys your entire linguistic argument"
+      ]},
+      { type: "p", text: "**The passage you cite constantly for polygyny destroys your age-20 argument in the very next verse.** You cannot quote Ruth 4:11 without being confronted by Ruth 4:12." }
+    ],
+    question: "You frequently cite Ruth 4:11 for polygyny — the blessing invoking Rachel and Leah. But Ruth 4:12 calls Ruth a na'arah (הַֽנַּעֲרָ֖ה) — the same term you say means an unmarriageable youth. Ruth had ALREADY been married to Mahlon, widowed, and was NOW remarrying Boaz. How can na'arah mean 'cannot marry' when Ruth — a na'arah — had already completed one marriage and was entering her second?"
+  },
+  {
+    id: 18,
+    part: 2,
     title: "Your Own Argument Condemns You",
     subtitle: "The Silence That Defends Polygyny Also Destroys Your Age 20 Requirement",
     content: [
@@ -925,7 +964,7 @@ const sections = [
     question: "You argue that Jesus's silence on polygyny — a practice ILLEGAL under Roman law but permitted by Torah — proves it remains lawful. But on marriage age, Torah specifies nothing, Jewish practice was to marry before 20, and Roman law permitted marriage at 12. Jesus was equally silent. How can silence prove polygyny acceptable while the same silence condemns marriage before 20? Where does your 'age 20' standard come from if not Torah, Jewish practice, OR Roman law?"
   },
   {
-    id: 18,
+    id: 19,
     part: 2,
     title: "The Linguistic Argument Fails",
     subtitle: "Your ʾîš/ʾiššâ Argument Contradicts Your Own Definitions",
@@ -964,7 +1003,7 @@ const sections = [
     question: "You say ʾiššâ means a woman 20+. But Deuteronomy 22:24 calls the na'ara (whom you define as under 20) his 'wife' (אֵשֶׁת, from ʾiššâ). How can both be true? Either the na'ara is 20+ (contradicting your definition) or ʾiššâ doesn't require age 20 (destroying your argument). Which is it?"
   },
   {
-    id: 19,
+    id: 20,
     part: 2,
     title: "The Missing Command",
     subtitle: "God Didn't Say It — In Torah OR Through Christ",
@@ -981,7 +1020,7 @@ const sections = [
     question: "Where in Torah does it say 'A virgin shall not be married until age 20'? If this were God's standard, why didn't He state it explicitly — as He did for military service, temple tax, and Levitical duty? And why didn't Christ or the apostles correct the widespread practice of marrying women before 20?"
   },
   {
-    id: 20,
+    id: 21,
     part: 2,
     title: "A Question About Mary",
     subtitle: "Your Census Argument Fails, and Your Framework Indicts Joseph and God",
@@ -1041,7 +1080,7 @@ const sections = [
     question: "Your argument that Mary must have been 20+ because she 'participated in the census' fails — this was a ROMAN census for taxation where the head of household declared dependents including wives and children, not the Israelite military census of Numbers 26:4. And if Mary WAS under 20, does your framework make Joseph guilty of the very conduct you condemn, and portray God as initiating a union your framework classifies as immoral?"
   },
   {
-    id: 21,
+    id: 22,
     part: 2,
     title: "The False Witness",
     subtitle: "By Your Own Standard, You Are Bearing False Witness Against Your Brothers",
@@ -1074,7 +1113,7 @@ const sections = [
     question: "You use Romans 4:15 ('where there is no law, there is no transgression') to defend polygyny. By that same principle, where is the Torah law against marrying an 18 or 19 year old? If there is none, then by your own standard, it is NOT a transgression — and calling these men 'pedophiles' is bearing false witness. What does Deuteronomy 19:18-19 say should happen to a false witness?"
   },
   {
-    id: 22,
+    id: 23,
     part: 2,
     title: "The Loophole You've Created",
     subtitle: "Your Framework Creates a Hunting Ground for Predators",
@@ -1095,7 +1134,7 @@ const sections = [
     question: "Under your framework, what recourse does a father have if a man seduces his 19-year-old daughter? Exodus 22:16-17 requires the seducer to marry her AND pay the bride price — but you say she CAN'T be married until 20. The seducer walks free. How does your framework protect her?"
   },
   {
-    id: 23,
+    id: 24,
     part: 3,
     title: "The Irony",
     subtitle: "You Have Become What You Fight Against",
@@ -1163,7 +1202,7 @@ const sections = [
     question: "You accuse others of pursuing 'carnal interests' and 'perversions.' But whose framework gives men full freedom while binding permanent celibacy on divorced women and removing Torah's protections from young women? Whose framework forbids entire categories of women from marrying while accusing others of being 'doctrines of demons' for forbidding marriage? And whose framework allows predatory men to target 18- and 19-year-old women for sex with zero covenantal consequences — since, by your logic, no valid marriage can exist?"
   },
   {
-    id: 24,
+    id: 25,
     part: 3,
     title: "The Principles You're Violating",
     subtitle: "You Use These Rules for Polygyny — Why Not for Divorced Women?",
@@ -1224,7 +1263,7 @@ const sections = [
     question: "Your interpretation of Jesus's divorce teaching would require Jesus to have annulled Deuteronomy 24:2, Numbers 30:9, and Exodus 21:10-11 — making Him 'least in the kingdom' by His own words. Since that's impossible, doesn't your interpretation HAVE to be wrong? And if you continue teaching it, aren't YOU the one annulling commandments?"
   },
   {
-    id: 25,
+    id: 26,
     part: 3,
     title: "Your Brothers See the Problem",
     subtitle: "Why Are Torah-Observant Believers Pushing Back?",
@@ -1245,7 +1284,7 @@ const sections = [
     question: "You've received pushback from Torah-observant believers who agree with you on polygyny but reject your positions on divorce/remarriage and age 20. They're applying the same 'do not add, do not take away' standard that you use to defend polygyny. If your own brothers — using your own hermeneutic — see these positions as additions to Torah, why are you unwilling to reconsider them?"
   },
   {
-    id: 26,
+    id: 27,
     part: 3,
     title: "Final Summary",
     subtitle: "The Questions You Must Answer",
