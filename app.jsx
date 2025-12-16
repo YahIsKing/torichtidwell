@@ -855,7 +855,7 @@ const sections = [
       { type: "p", text: "But have you read the very next verse?" },
       { type: "scripture", ref: "Ruth 4:12 (NASB95)", text: "Moreover, may your house be like the house of Perez whom Tamar bore to Judah, through the offspring which the LORD will give you **by this young woman** (הַֽנַּעֲרָ֖ה, han·na·'a·rah)." },
       { type: "h2", text: "The Hebrew Is Devastating to Your Framework" },
-      { type: "p", text: "The word used for Ruth is **na'arah** (נַעֲרָה) — Strong's 5291. Brown-Driver-Briggs, the authoritative Hebrew lexicon, defines this as a young woman \"especially as marriageable\" and explicitly categorizes Ruth 4:12 as an example of na'arah meaning **\"young widow.\"** This is the EXACT same term you use in your age-20 framework to mean a \"youth\" who is NOT yet marriage-eligible." },
+      { type: "p", text: "The word used for Ruth is **na'arah** (נַעֲרָה) — Strong's 5291. Brown-Driver-Briggs, the authoritative Hebrew lexicon, defines this as a young woman \"especially as marriageable\" and explicitly categorizes Ruth 4:12 as an example of na'arah meaning **\"young widow.\"** This is the exact same term you appeal to in your age-20 framework to argue that a woman is not yet marriage-eligible." },
       { type: "p", text: "Remember your own teaching:" },
       { type: "quote", text: "If she's a 'youth,' she's in her father's house. Before marriage, she must grow up and reach full adornment (Ez 16:7). Then being 'at the age for love' (Ez 16:8)—a 'woman' (Gen 2:23)—she may be entered.", source: "Your Twitter/X post (Dec 9, 2025)" },
       { type: "p", text: "But look at Ruth's situation when the elders call her a na'arah:" },
@@ -1265,6 +1265,109 @@ const sections = [
   {
     id: 26,
     part: 3,
+    title: "The Goalpost Shift",
+    subtitle: "When Confronted with Evidence, You Redefine Categories",
+    position: {
+      text: "She's betrothed—pledged to a man for marriage at a later date—in her youth, yes. Nevertheless, she's not sexually active as she's not a wife but a virgin, and is still in her father's house until she is of age.",
+      source: "Your response on Twitter/X (Dec 10, 2025)"
+    },
+    scriptures: [
+      {
+        ref: "Ruth 4:11-12 (NASB95)",
+        text: "All the people who were in the court, and the elders, said, 'We are witnesses. May the LORD make the woman who is coming into your home like Rachel and like Leah, both of whom built the house of Israel...' Moreover, may your house be like the house of Perez whom Tamar bore to Judah, through the offspring which the LORD will give you **by this young woman** (הַֽנַּעֲרָ֖ה, han·na·'a·rah)."
+      }
+    ],
+    content: [
+      { type: "p", text: "Rich, I want to document a concerning pattern. When confronted with clear Scriptural evidence that contradicts your framework, rather than acknowledging error, you redefine categories and invent new distinctions. This happened in real-time on December 15, 2025." },
+      { type: "h2", text: "Your Original Framework (Dec 8-10, 2025)" },
+      { type: "p", text: "In your original post, you established clear categories:" },
+      { type: "quote", text: "Moreover, there are Hebrew words for infant (yānaq), child (yeled), **youth (naʿar)**, adult (ʾîš), and elder (zāqēn)... Twenty is the age of accountability when God brought judgement on the Israelites in the wilderness (Num 14:29, 32:11), **nineteen and younger are 'little ones' and 'children'** (Num 14:31 & Deut 1:39).", source: "Your Twitter/X post (Dec 8, 2025)" },
+      { type: "p", text: "Note: You listed ONE category for youth — **naʿar** — distinct from adult (ʾîš). No distinction between naʿar and neʿûrîm. They were the same category." },
+      { type: "p", text: "And you concluded with a severe accusation:" },
+      { type: "quote", text: "If you want **child brides**, orgies with your wives, or need to sleep with women one-flesh with a fellow Believer, then '**your heart is not right before God**' (Acts 8:21). **You must repent.**", source: "Your Twitter/X post (Dec 8, 2025)" },
+      { type: "p", text: "Let that sink in. By your framework, anyone who marries someone under 20 is pursuing a \"child bride,\" their heart is \"not right before God,\" and they \"must repent.\" **This is an extraordinarily severe accusation.** You are calling every man who lawfully marries an 18 or 19 year old a pervert whose heart is misaligned with God." },
+      { type: "p", text: "When I challenged you with Deuteronomy 22:23-24 — which calls a betrothed naʿărâh an ʾiššâh (wife) — you responded:" },
+      { type: "quote", text: "This affirms my argument. She's betrothed—pledged to a man for marriage at a later date—in her youth, yes. Nevertheless, **she's not sexually active as she's not a wife but a virgin**, and is **still in her father's house until she is of age**.", source: "Your Twitter/X response (Dec 10, 2025)" },
+      { type: "p", text: "Your position was clear: **naʿărâh = \"not a wife.\"** She must WAIT to become ʾiššâh. She cannot marry yet." },
+      { type: "h2", text: "Then Ruth 4:12 Was Raised" },
+      { type: "p", text: "On December 15, I pointed out that Ruth 4:12 calls Ruth a **naʿărâh** — but look at her situation:" },
+      { type: "ul", items: [
+        "Ruth had ALREADY been married to Mahlon",
+        "Ruth had ALREADY been widowed",
+        "Ruth was NOT in her father's house",
+        "Ruth was NOT a virgin",
+        "Ruth was NOW remarrying Boaz — her SECOND husband",
+        "The elders BLESSED this union — it produced Obed → Jesse → David → Christ"
+      ]},
+      { type: "p", text: "This is devastating to your framework. By your Dec 10 definition, a naʿărâh is \"not a wife but a virgin\" who stays in her father's house \"until she is of age.\" But Ruth was a naʿărâh who had completed an entire marriage, been widowed, and was entering her second marriage." },
+      { type: "h2", text: "Your December 15 Response — The Shift" },
+      { type: "p", text: "Rather than acknowledge the problem, you quietly redefined your categories:" },
+      { type: "quote", text: "naʿărâ is young woman (Deut 22:15) **as confirmed by the use of ʾiššâ in the 14th verse**. neʿûrîm is youth (Num 30:16). Ruth 4:12 uses naʿărâ, young woman. You're not going to find a youth / child marrying an adult man in Scripture.", source: "Your Twitter/X response (Dec 15, 2025)" },
+      { type: "p", text: "Do you see what happened?" },
+      { type: "ul", items: [
+        "**Dec 10:** naʿărâh = \"not a wife but a virgin\"",
+        "**Dec 15:** naʿărâh CAN be ʾiššâh — \"as confirmed by the use of ʾiššâ\""
+      ]},
+      { type: "p", text: "You quietly conceded that naʿărâh and ʾiššâh can overlap to escape Ruth 4:12. But this **destroys your original argument**. If naʿărâh can BE ʾiššâh, she doesn't have to WAIT until 20 to become one. Your entire age-gate collapses." },
+      { type: "h2", text: "The New Distinction You Invented" },
+      { type: "p", text: "To salvage your framework, you invented a NEW distinction:" },
+      { type: "ul", items: [
+        "**naʿărâh** = \"young woman\" (can marry)",
+        "**neʿûrîm** = \"youth\" (child/youth who cannot marry)"
+      ]},
+      { type: "p", text: "But Rich, this is logically incoherent. Both terms derive from the **same Hebrew root: נ-ע-ר (n-ʿ-r)**." },
+      { type: "ul", items: [
+        "**naʿar** (נַעַר) — Strong's H5288 — young man/youth (masculine person)",
+        "**naʿărâh** (נַעֲרָה) — Strong's H5291 — young woman (feminine person)",
+        "**neʿûrîm** (נְעוּרִים) — Strong's H5271 — youth/early life (time period)"
+      ]},
+      { type: "p", text: "Your position now amounts to: **\"A naʿărâh (non-adult female) can get married, but marriage cannot occur during one's neʿûrîm (non-adult years).\"**" },
+      { type: "p", text: "That's equivalent to saying: **\"A non-adult can get married, but no one can get married during their non-adult years.\"**" },
+      { type: "p", text: "That's not a linguistic distinction. That's a logical contradiction you invented to escape Ruth 4:12." },
+      { type: "h2", text: "Malachi 2:14 Closes the Door" },
+      { type: "p", text: "Even your new distinction fails. Malachi 2:14:" },
+      { type: "scripture", ref: "Malachi 2:14", text: "Because YHVH has been a witness between you and **the wife of your youth** (אֵשֶׁת נְעוּרֶיךָ, eshet ne'urekha), against whom you have dealt treacherously, though she is your companion and **your wife by covenant**." },
+      { type: "p", text: "The Hebrew **נְעוּרֶיךָ** (ne'urekha) is from the **neʿûrîm root** — the very word you now say marriage cannot occur during. Yet God calls her \"**your wife BY COVENANT**\" — a woman the man married during his neʿûrîm." },
+      { type: "p", text: "**God Himself recognizes covenant marriage during neʿûrîm.** Your framework says it's impossible." },
+      { type: "h2", text: "Your Own Proof Text Refutes You" },
+      { type: "p", text: "You cite Numbers 30:16 for your neʿûrîm definition. But look at Numbers 30:3-5:" },
+      { type: "scripture", ref: "Numbers 30:3-5", text: "If a woman makes a vow to YHVH, and binds herself by an obligation in her father's house **in her youth** (בִּנְעֻרֶיהָ, bine'ureha)... and her father hears her vow... if her father says nothing to her, then **all her vows shall stand**..." },
+      { type: "p", text: "The neʿûrîm woman is **covenant-accountable for vows to God** — binding unless her father annuls them. Your original post claimed \"Twenty is the age of accountability.\" But Torah holds neʿûrîm women accountable for vows BEFORE 20." },
+      { type: "p", text: "**Your own proof text refutes your framework.**" },
+      { type: "h2", text: "The Boaz Question" },
+      { type: "p", text: "Remember what you said: Anyone who wants a \"child bride\" has a heart that is \"not right before God\" and \"must repent.\"" },
+      { type: "p", text: "In your original framework, naʿar/naʿărâh = youth (under 20) = children. You listed ONE youth category — no distinction between naʿărâh and neʿûrîm." },
+      { type: "p", text: "But Ruth 4:12 calls Ruth a naʿărâh as she marries Boaz." },
+      { type: "p", text: "By your original framework:" },
+      { type: "ul", items: [
+        "Boaz married a naʿărâh (your \"youth\" category)",
+        "Therefore Boaz pursued a \"child bride\"",
+        "Therefore Boaz's heart was \"not right before God\"",
+        "Therefore Boaz needed to repent"
+      ]},
+      { type: "p", text: "**Does Boaz — ancestor of King David, ancestor of Jesus Christ — need to repent? Was his heart not right before God?**" },
+      { type: "p", text: "The absurdity of this conclusion exposes the absurdity of the framework. And rather than acknowledge the error, you invented new categories to escape it." },
+      { type: "h2", text: "The Concerning Pattern" },
+      { type: "p", text: "Rich, this is deeply concerning. When confronted with clear Scriptural evidence that your position is faulty, you:" },
+      { type: "ul", items: [
+        "Did NOT acknowledge the error",
+        "Did NOT reconsider your position",
+        "Did NOT heed the correction from your brothers",
+        "Instead, you quietly redefined your categories",
+        "You invented new distinctions that have no lexical basis",
+        "You doubled down on a framework that now requires Boaz to repent"
+      ]},
+      { type: "p", text: "This is the opposite of \"iron sharpens iron.\" This is deflection. This is what the Pharisees did — creating new categories to escape the plain meaning of Scripture." },
+      { type: "p", text: "You cite Ruth 4:11 regularly for polygyny — the blessing invoking Rachel and Leah. But you cannot quote Ruth 4:11 without Ruth 4:12 destroying your age-20 framework in the very next verse." },
+      { type: "p", text: "A man who truly welcomes correction would say: \"You're right. I got this one wrong. The naʿărâh can be married. I need to reconsider my age-20 position.\"" },
+      { type: "p", text: "Instead, you invented a distinction between naʿărâh and neʿûrîm that no lexicon supports, that Malachi 2:14 directly contradicts, and that would require the ancestor of Christ to repent for his marriage." },
+      { type: "p", text: "**This is not the fruit of a teachable spirit. This is the fruit of a man who has decided he cannot be wrong.**" }
+    ],
+    question: "On Dec 10, you said a naʿărâh is 'not a wife but a virgin' who stays in her father's house 'until she is of age.' On Dec 15, when confronted with Ruth 4:12, you said naʿărâh CAN be ʾiššâh. Which is it? You invented a distinction between naʿărâh and neʿûrîm that has no lexical basis, that Malachi 2:14 directly contradicts, and that would require Boaz to repent for taking a 'child bride.' Why can't you simply acknowledge you got this one wrong?"
+  },
+  {
+    id: 27,
+    part: 3,
     title: "Your Brothers See the Problem",
     subtitle: "Why Are Torah-Observant Believers Pushing Back?",
     content: [
@@ -1284,7 +1387,7 @@ const sections = [
     question: "You've received pushback from Torah-observant believers who agree with you on polygyny but reject your positions on divorce/remarriage and age 20. They're applying the same 'do not add, do not take away' standard that you use to defend polygyny. If your own brothers — using your own hermeneutic — see these positions as additions to Torah, why are you unwilling to reconsider them?"
   },
   {
-    id: 27,
+    id: 28,
     part: 3,
     title: "Final Summary",
     subtitle: "The Questions You Must Answer",
