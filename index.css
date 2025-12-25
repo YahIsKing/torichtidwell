@@ -226,13 +226,20 @@
 
 /* Screen styles for print view */
 .print-view {
-  max-width: 8.5in;
+  max-width: 900px;
   margin: 0 auto;
-  padding: 1in;
+  padding: 2rem 3rem;
   background: white;
   font-family: Georgia, "Times New Roman", serif;
   line-height: 1.7;
   color: #1a1a1a;
+}
+
+@media (min-width: 1024px) {
+  .print-view {
+    max-width: 1000px;
+    padding: 3rem 4rem;
+  }
 }
 
 .print-view h1 {
