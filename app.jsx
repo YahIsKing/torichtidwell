@@ -1820,12 +1820,289 @@ const ClosingView = ({ onPrev, onRestart }) => (
 );
 
 // ============================================
+// PRINT VIEW - All content on one page
+// ============================================
+
+const PrintContentBlock = ({ block }) => {
+  switch (block.type) {
+    case 'p':
+      return <p>{parseText(block.text)}</p>;
+    case 'h2':
+      return <h2>{block.text}</h2>;
+    case 'ul':
+      return (
+        <ul style={{ listStyleType: 'disc' }}>
+          {block.items.map((item, i) => (
+            <li key={i}>{parseText(item)}</li>
+          ))}
+        </ul>
+      );
+    case 'ol':
+      return (
+        <ol style={{ listStyleType: 'decimal' }}>
+          {block.items.map((item, i) => (
+            <li key={i}>{parseText(item)}</li>
+          ))}
+        </ol>
+      );
+    case 'quote':
+      return (
+        <div className="quote-block">
+          <div className="quote-label">Your Own Words</div>
+          <p className="quote-text">"{block.text}"</p>
+          <div className="quote-source">— {block.source}</div>
+        </div>
+      );
+    case 'scripture':
+      return (
+        <div className="scripture-block">
+          <div className="scripture-ref">{block.ref}</div>
+          <p className="scripture-text">{parseText(block.text)}</p>
+        </div>
+      );
+    default:
+      return null;
+  }
+};
+
+const PrintView = ({ onExit }) => {
+  const handlePrint = () => {
+    window.print();
+  };
+
+  return (
+    <div className="print-view">
+      {/* Print controls - hidden when printing */}
+      <div className="no-print" style={{
+        position: 'fixed',
+        top: '1rem',
+        right: '1rem',
+        display: 'flex',
+        gap: '0.5rem',
+        zIndex: 100
+      }}>
+        <button
+          onClick={handlePrint}
+          style={{
+            padding: '0.75rem 1.5rem',
+            backgroundColor: '#000',
+            color: '#fff',
+            border: 'none',
+            borderRadius: '8px',
+            cursor: 'pointer',
+            fontFamily: 'system-ui, sans-serif',
+            fontSize: '14px',
+            fontWeight: '500'
+          }}
+        >
+          Print / Save PDF
+        </button>
+        <button
+          onClick={onExit}
+          style={{
+            padding: '0.75rem 1.5rem',
+            backgroundColor: '#fff',
+            color: '#000',
+            border: '1px solid #ccc',
+            borderRadius: '8px',
+            cursor: 'pointer',
+            fontFamily: 'system-ui, sans-serif',
+            fontSize: '14px',
+            fontWeight: '500'
+          }}
+        >
+          Back to Reader
+        </button>
+      </div>
+
+      {/* Title Page */}
+      <div style={{ textAlign: 'center', marginBottom: '3rem' }}>
+        <p style={{
+          fontFamily: 'system-ui, sans-serif',
+          fontSize: '0.75rem',
+          fontWeight: '600',
+          textTransform: 'uppercase',
+          letterSpacing: '0.1em',
+          color: '#666',
+          marginBottom: '1rem'
+        }}>
+          {siteConfig.subtitle}
+        </p>
+        <h1 style={{ fontSize: '2.5rem', marginBottom: '0.5rem' }}>{siteConfig.title}</h1>
+        <hr className="print-divider" />
+        <p style={{
+          fontFamily: 'system-ui, sans-serif',
+          fontSize: '0.85rem',
+          textTransform: 'uppercase',
+          letterSpacing: '0.05em',
+          color: '#666'
+        }}>
+          {siteConfig.verse}
+        </p>
+        <p style={{ fontStyle: 'italic', fontSize: '1.25rem', color: '#555', marginTop: '1.5rem' }}>
+          "{siteConfig.epigraph}"
+        </p>
+      </div>
+
+      {/* Introduction */}
+      <div className="avoid-break" style={{ marginBottom: '2rem' }}>
+        <p style={{ fontWeight: '600', fontSize: '1.1rem' }}>{introduction.salutation}</p>
+        {introduction.paragraphs.map((p, i) => (
+          <p key={i}>{p}</p>
+        ))}
+
+        {/* Two Arguments */}
+        {introduction.twoArguments && (
+          <div style={{ margin: '1.5rem 0' }}>
+            {introduction.twoArguments.map((arg, i) => (
+              <div key={i} className="avoid-break" style={{
+                border: '1px solid #ddd',
+                padding: '1rem',
+                marginBottom: '1rem',
+                borderRadius: '4px'
+              }}>
+                <h3 style={{ marginTop: 0, marginBottom: '0.5rem' }}>{arg.title}</h3>
+                <p style={{ marginBottom: 0 }}>{parseText(arg.summary)}</p>
+              </div>
+            ))}
+          </div>
+        )}
+
+        {introduction.ironySummary && <p>{introduction.ironySummary}</p>}
+
+        {/* Notes */}
+        {introduction.notes.map((note, i) => (
+          <div key={i} className="note-block avoid-break">
+            <div style={{ fontWeight: '600', marginBottom: '0.5rem' }}>{note.title}</div>
+            <p style={{ marginBottom: 0 }}>{note.content}</p>
+          </div>
+        ))}
+      </div>
+
+      <hr className="print-divider" style={{ margin: '2rem auto' }} />
+
+      {/* All Sections */}
+      {parts.map(part => (
+        <div key={part.id}>
+          {/* Part Header */}
+          <div className="page-break-before" style={{ textAlign: 'center', marginBottom: '2rem', marginTop: '2rem' }}>
+            <div className="part-label">{part.title}</div>
+            <p style={{
+              fontFamily: 'system-ui, sans-serif',
+              fontSize: '0.85rem',
+              color: '#666',
+              fontStyle: 'italic'
+            }}>
+              {part.subtitle}
+            </p>
+          </div>
+
+          {/* Sections in this part */}
+          {sections.filter(s => s.part === part.id).map(section => (
+            <div key={section.id} className="avoid-break" style={{ marginBottom: '3rem' }}>
+              {/* Section Header */}
+              <div className="section-header">
+                <h1 style={{ fontSize: '1.75rem' }}>{section.id}. {section.title}</h1>
+                <p className="section-subtitle">{section.subtitle}</p>
+              </div>
+
+              {/* Lead */}
+              {section.lead && (
+                <p style={{ fontStyle: 'italic', textAlign: 'center', color: '#555', marginBottom: '1.5rem' }}>
+                  {section.lead}
+                </p>
+              )}
+
+              {/* Position Quote */}
+              {section.position && (
+                <div className="quote-block avoid-break">
+                  <div className="quote-label">Your Position</div>
+                  <p className="quote-text">"{section.position.text}"</p>
+                  <div className="quote-source">— {section.position.source}</div>
+                </div>
+              )}
+
+              {/* Scriptures */}
+              {section.scriptures?.map((s, i) => (
+                <div key={i} className="scripture-block avoid-break">
+                  <div className="scripture-ref">{s.ref}</div>
+                  <p className="scripture-text">{parseText(s.text)}</p>
+                </div>
+              ))}
+
+              {/* Content */}
+              {section.content?.map((block, i) => (
+                <PrintContentBlock key={i} block={block} />
+              ))}
+
+              {/* Additional Content */}
+              {section.additionalContent?.map((block, i) => (
+                <PrintContentBlock key={i} block={block} />
+              ))}
+
+              {/* Question */}
+              {section.question && (
+                <div className="question-block avoid-break">
+                  <div className="question-label">My Question</div>
+                  <p className="question-text">{parseText(section.question)}</p>
+                </div>
+              )}
+
+              <hr className="print-divider" />
+            </div>
+          ))}
+        </div>
+      ))}
+
+      {/* Closing */}
+      <div className="page-break-before">
+        <div style={{ textAlign: 'center', marginBottom: '2rem' }}>
+          <h1>Closing</h1>
+          <hr className="print-divider" />
+        </div>
+
+        {closing.paragraphs.map((para, idx) => (
+          <p key={idx}>{parseText(para)}</p>
+        ))}
+
+        {/* Signature */}
+        <div style={{ textAlign: 'center', marginTop: '3rem', marginBottom: '2rem' }}>
+          <p style={{ fontStyle: 'italic', fontSize: '1.25rem' }}>{closing.signature}</p>
+          <p style={{ fontStyle: 'italic', color: '#666' }}>{closing.signatureLine2}</p>
+        </div>
+
+        {/* Final Verse */}
+        <div style={{ borderTop: '1px solid #ddd', paddingTop: '2rem', textAlign: 'center' }}>
+          <p style={{ fontStyle: 'italic', color: '#555' }}>"{closing.finalVerse.text}"</p>
+          <p style={{
+            fontFamily: 'system-ui, sans-serif',
+            fontSize: '0.85rem',
+            color: '#888'
+          }}>
+            — {closing.finalVerse.ref}
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+// ============================================
 // MAIN APP
 // ============================================
 
 export default function App() {
   const [currentSection, setCurrentSection] = useState(0); // 0 = intro, 1-25 = sections, 26 = closing
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [printMode, setPrintMode] = useState(false);
+
+  // Check for print mode in URL
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    if (params.get('print') === 'true') {
+      setPrintMode(true);
+    }
+  }, []);
 
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -1851,6 +2128,23 @@ export default function App() {
   const goToSection = (id) => {
     setCurrentSection(id);
   };
+
+  // Handle print mode exit
+  const exitPrintMode = () => {
+    setPrintMode(false);
+    window.history.pushState({}, '', window.location.pathname);
+  };
+
+  // Handle entering print mode
+  const enterPrintMode = () => {
+    setPrintMode(true);
+    window.history.pushState({}, '', '?print=true');
+  };
+
+  // If in print mode, show the print view
+  if (printMode) {
+    return <PrintView onExit={exitPrintMode} />;
+  }
 
   return (
     <NavigationContext.Provider value={goToSection}>
@@ -1934,6 +2228,19 @@ export default function App() {
                 className={`py-1.5 px-3 rounded-lg cursor-pointer transition-colors ${currentSection > sections.length ? 'bg-gray-900 text-white' : 'text-gray-600 hover:bg-gray-100'}`}
               >
                 <span className="font-sans text-sm font-medium">Closing</span>
+              </div>
+            </div>
+
+            {/* Print/PDF Button */}
+            <div className="pt-4 border-t border-gray-200 mt-4">
+              <div
+                onClick={enterPrintMode}
+                className="py-2 px-3 rounded-lg cursor-pointer transition-colors text-gray-600 hover:bg-gray-100 flex items-center gap-2"
+              >
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z" />
+                </svg>
+                <span className="font-sans text-sm font-medium">Print / Save PDF</span>
               </div>
             </div>
           </nav>
